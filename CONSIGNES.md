@@ -60,5 +60,7 @@ arrête-toi sans rien modifier.
 Vérifie-le avec
 `python -c "import json; json.load(open('travail/redaction.json', encoding='utf-8'))"`
 et compte les mots. Puis commite ce seul fichier (`git add travail/redaction.json`)
-avec le message « Rédaction du jour » et pousse sur `main`. Ne modifie
-aucun autre fichier.
+avec le message « Rédaction du jour » et pousse sur `main`. Si ce push
+est refusé, pousse sur une branche `claude/redaction-<date>-<edition>` :
+GitHub Actions sait aussi la reprendre de là. Ne modifie aucun autre
+fichier.
