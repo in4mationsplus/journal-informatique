@@ -1,0 +1,471 @@
+{
+ "liens_vus": {
+  "https://www.numerama.com/tech/2382945-anthropic-lance-claude-ship-un-outil-qui-veut-valider-votre-code-a-la-place-de-vos-collegues.html": 1795496617.3517022,
+  "https://www.numerama.com/sciences/2382911-el-nino-2027-a-quoi-faut-il-sattendre-pour-les-prochains-mois-selon-un-climatologue.html": 1795496617.3517022,
+  "https://www.numerama.com/pop-culture/2383153-gta-6-pourquoi-vos-armes-disparaissent-et-la-regle-dor-pour-ne-plus-jamais-les-perdre.html": 1795496617.3517022,
+  "https://www.numerama.com/vroom/2382947-pas-dusine-des-dettes-et-du-mais-le-fiasco-de-la-supercar-chinoise-hongqi-s9.html": 1795496617.3517022,
+  "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html": 1795496617.3517022,
+  "https://www.numerama.com/pop-culture/2382919-gta-6-nudistes-klaxons-et-pelicans-un-ornithologue-raconte-sa-traque-des-60-especes-doiseaux.html": 1795496617.3517022,
+  "https://www.numerama.com/tech/2382757-les-regards-se-tournent-vers-p-vs-np-apres-riemann-lia-sattaque-a-une-autre-enigme-a-un-million-de-dollars.html": 1795496617.3517022,
+  "https://www.numerama.com/tech/2382377-gta-6-sur-pc-une-version-pirate-des-aujourdhui.html": 1795496617.3517022,
+  "https://www.numerama.com/tech/2382555-black-friday-week-les-meilleures-promos-en-direct.html": 1795496617.3517022,
+  "https://www.numerama.com/pop-culture/2382855-gta-6-ne-vous-precipitez-pas-vous-pourriez-le-regretter.html": 1795496617.3517022,
+  "https://www.numerama.com/vroom/2382351-la-carte-avantage-de-la-sncf-tombe-en-promo-des-aujourdhui-pour-le-black-friday.html": 1795496617.3517022,
+  "https://www.numerama.com/pop-culture/2382573-un-bug-permet-de-jouer-a-gta-6-a-60-fps-mais-ne-testez-pas.html": 1795496617.3517022,
+  "https://www.numerama.com/tech/2382845-immense-rebondissement-jensen-huang-redevient-le-patron-de-nvidia.html": 1795496617.3517022,
+  "https://www.numerama.com/tech/2382741-airpods-pro-3-amazon-brade-les-meilleurs-ecouteurs-dapple-pour-le-black-friday.html": 1795496617.3517022,
+  "https://www.numerama.com/pop-culture/2382751-il-y-a-une-nouvelle-bande-annonce-pour-avengers-doomsday-voici-la-video.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/tesla-change-regle-pilote-automatique-grands-exces-vitesse-termines.html": 1795496617.3517022,
+  "https://www.01net.com/bons-plans/ninja-air-fryer-max-pro-des-plats-croustillants-du-gain-de-temps-des-economies-le-tout-pour-99-e.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/google-va-supprimer-lapplication-nest-voici-ce-que-vous-devez-absolument-faire-avant-janvier-2027.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/gta-6-pousse-realisme-voitures-electriques-tres-loin-mais-oublie-detail-essentiel.html": 1795496617.3517022,
+  "https://www.01net.com/bons-plans/49-centimes-separent-expressvpn-et-nordvpn-au-black-friday-ce-que-cet-ecart-achete-vraiment.html": 1795496617.3517022,
+  "https://www.01net.com/bons-plans/bradee-comme-jamais-sur-amazon-cette-tablette-android-lenovo-est-une-excellente-affaire.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/lecran-verrouille-de-liphone-duo-cache-une-petite-surprise-mais-elle-est-desactivee-pour-linstant.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/rebondissement-chez-nvidia-jensen-huang-est-de-retour-comme-pdg.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/pour-faire-baisser-le-prix-des-consoles-portables-intel-prend-une-mesure-radicale.html": 1795496617.3517022,
+  "https://www.01net.com/bons-plans/gta-6-merite-mieux-quun-banal-lcd-au-black-friday-cette-tv-oled-samsung-lui-fait-honneur.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/ce-robot-autonome-chinois-nettoie-les-rivieres-et-les-lacs-sans-aucune-aide-humaine.html": 1795496617.3517022,
+  "https://www.01net.com/bons-plans/fenix-8-garmin-en-panique-sa-montre-de-luxe-perd-269-e-au-black-friday.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/piratage-frigos-supermarches-operation-secrete-evite-catastrophe-royaume-uni.html": 1795496617.3517022,
+  "https://www.01net.com/bons-plans/le-casque-beats-solo-4-passe-a-99-e-au-black-friday-le-stock-peut-disparaitre-a-tout-instant.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/que-signifie-petite-cle-qui-apparait-en-haut-a-droite-smartphone-android.html": 1795496617.3517022,
+  "https://www.01net.com/bons-plans/asus-vivobook-s14-place-en-top-offre-black-friday-ce-pc-de-14-perd-250-e-de-son-prix.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/pas-pret-a-etre-commercialise-le-crackgate-de-liphone-duo-continue.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/ces-coins-de-la-carte-de-gta-vi-cachent-larrivee-du-futur-gta-online.html": 1795496617.3517022,
+  "https://www.01net.com/bons-plans/google-valide-ce-deal-fou-moins-cher-que-le-modele-standard-le-pixel-11-pro-se-vend-par-camions.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/macbook-neo-2-arriverait-mars-avec-mise-a-jour-quon-attend-tous.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/au-revoir-gmail-et-apple-mail-le-client-mail-francais-open-mailbox-debarque-sur-ios-et-android.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/welcome-to-vice-city-miami-se-met-aux-couleurs-de-gta-6-et-tout-le-monde-napprecie-pas.html": 1795496617.3517022,
+  "https://www.01net.com/bons-plans/samsung-vide-le-stock-de-galaxy-s26-ultra-avec-une-offre-speciale-black-friday.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/apres-une-cyberattaque-nissan-coupe-un-outil-vital-pour-ses-concessionnaires.html": 1795496617.3517022,
+  "https://www.01net.com/bons-plans/sony-wh-1000xm5-le-casque-premium-prend-cher-au-black-friday-amazon-48.html": 1795496617.3517022,
+  "https://www.01net.com/astuces/votre-wi-fi-est-trop-lent-ios-27-a-une-solution-astucieuse-pour-regler-ca.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/reseau-4g-dans-ces-villes-le-signal-seffondre-des-que-vous-entrez-chez-vous.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/367-ch-carrosserie-bodybuildee-volkswagen-signe-bombe-electrique-mais-gros-hic.html": 1795496617.3517022,
+  "https://www.01net.com/actualites/tesla-lance-nouveau-modele-grand-public-mais-tres-grosse-subtilite-pourra-decevoir.html": 1795496617.3517022,
+  "https://www.01net.com/tests/test-google-fitbit-edge-avis.html": 1795496617.3517022,
+  "https://www.zdnet.fr/pratique/web-pratique-six-parametres-de-chrome-a-choisir-pour-ameliorer-sa-navigation-508389.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/le-chu-de-la-guadeloupe-vise-par-une-attaque-par-rancongiciel-508447.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/lia-peut-elle-aider-a-planifier-des-attentats-terroristes-les-etats-unis-ont-teste-chatgpt-claude-gemini-et-grok-pour-le-savoir-508439.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/guide-achat/test-ugreen-magflow-pro-ce-chargeur-3-en-1-dedie-aux-utilisateurs-dapple-limite-la-chaleur-degagee-508393.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/tribune/martin-hosken-red-hat-la-transformation-du-secteur-public-doit-etre-suffisamment-flexible-pour-permettre-une-modernisation-a-nimporte-quelle-echelle-508197.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/4-etats-rejoignent-le-centre-francais-pour-lia-de-defense-508427.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/nvidia-reintegre-jensen-huang-laction-bondit-de-27-508435.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/cybersecurite-et-ia-apres-sa-traversee-du-desert-la-nouvelle-vie-de-mark-karpeles-507622.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/publicite/un-site-professionnel-pour-120-e-mois-ionos-enrichit-son-offre-plus-508024.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/guide-achat/esim-pour-le-maroc-quelle-offre-choisir-pour-rester-connecte-en-voyage-497756.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/votre-pc-est-il-capable-de-faire-tourner-gta-vi-voici-la-configuration-minimale-requise-en-termes-de-memoire-vive-de-carte-graphique-et-de-processeur-508426.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/guide-achat/flipper-zero-contre-flipper-one-pourquoi-le-nouveau-modele-nest-pas-une-mise-a-jour-508421.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/les-faux-telechargements-de-gta-6-pour-pc-inondent-le-web-comment-eviter-de-se-faire-arnaquer-508418.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/signal-bloque-les-captures-decran-pour-cacher-vos-messages-aux-ia-508415.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/zdnet-morning-23-11-2026-xxxxxxxxxxxxxxxxxxxx-508411.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/ia-pourquoi-les-methodes-historiques-dapple-lempechent-de-rattraper-son-retard-508401.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/tiktok-renforce-la-protection-des-adolescents-et-la-transparence-sur-les-contenus-ia-508399.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/zd-tech-lia-du-fisc-scrute-vos-comptes-vinted-et-linkedin-507405.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://www.zdnet.fr/actualites/amazon-negocierait-lacquisition-de-decart-specialiste-de-lefficacite-des-modeles-dia-508396.htm#xtor=RSS-1": 1795496617.3517022,
+  "https://next.ink/269443/dma-la-conformite-de-facade-des-geants-du-numerique-epinglee-par-le-beuc/": 1795496617.3517022,
+  "https://next.ink/268967/olala-on-a-disseque-le-modele-dovh-avec-trois-tetes-folles/": 1795496617.3517022,
+  "https://next.ink/269400/powershell-7-va-integrer-windows-les-entreprises-vont-devoir-verifier-sa-compatibilite/": 1795496617.3517022,
+  "https://next.ink/brief-article/apple-limite-lusage-de-son-ia-et-vend-des-quotas-plus-eleves-avec-icloud/": 1795496617.3517022,
+  "https://next.ink/brief-article/une-petition-pour-sauver-le-cnrs-et-la-recherche-publique-depasse-les-16-000-signatures/": 1795496617.3517022,
+  "https://next.ink/269365/nvidia-reinstalle-jensen-huang-a-son-poste-de-ceo/": 1795496617.3517022,
+  "https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/": 1795496617.3517022,
+  "https://next.ink/brief-article/crowdstrike-va-racheter-zscaler-pour-44-milliards-de-dollars/": 1795496617.3517022,
+  "https://next.ink/269199/microsoft-fusionne-ses-gestions-de-taches-dans-planner-to-do-va-disparaitre/": 1795496617.3517022,
+  "https://next.ink/269107/verisign-recule-sur-le-name-ovhcloud-garde-le-ovh-pour-son-propre-usage/": 1795496617.3517022,
+  "https://next.ink/brief-article/le-chu-de-guadeloupe-est-paralyse-par-une-cyberattaque/": 1795496617.3517022,
+  "https://next.ink/268322/a-cause-dun-bug-les-pilotes-amd-et-nvidia-ecrivent-constamment-sur-le-disque/": 1795496617.3517022,
+  "https://next.ink/268395/pres-dun-francais-sur-deux-habite-a-moins-de-10-km-dun-datacenter/": 1795496617.3517022,
+  "https://www.lemagit.fr/actualites/366655352/Le-vent-tourne-en-Europe-OVHCloud-vise-2-milliards-deuros-de-chiffre-daffaires": 1795496617.3517022,
+  "https://www.lemagit.fr/actualites/366655333/Washington-remet-Jensen-Huang-a-la-tete-de-Nvidia": 1795496617.3517022,
+  "https://www.lemagit.fr/actualites/366655332/Pour-Octave-Klaba-OVHcloud-les-GPU-de-Nvidia-sont-enfin-rentables": 1795496617.3517022,
+  "https://www.lemagit.fr/actualites/366655292/Supply-Chain-IA-les-fuites-de-secrets-dans-les-infrastructures-dinference": 1795496617.3517022,
+  "https://www.lemagit.fr/actualites/366655137/Ransomware-les-frameworks-offensifs-agentiques-sont-entres-dans-la-danse": 1795496617.3517022,
+  "https://www.lemondeinformatique.fr/it-direction/nvidia-reinstalle-jensen-huang-au-poste-de-ceo": 1795496617.3517022,
+  "https://www.lemondeinformatique.fr/donnees-ia/amazon-proche-d-un-accord-pour-acquerir-la-start-up-israelienne-decart": 1795496617.3517022,
+  "https://www.lemondeinformatique.fr/infrastructure-cloud/cloud-souverain-l-europe-cherche-a-reduire-sa-dependance-aux-geants-americains": 1795496617.3517022,
+  "https://www.lemondeinformatique.fr/donnees-ia/openai-propose-des-limites-communes-pour-encadrer-le-developpement-des-modeles-d-ia": 1795496617.3517022,
+  "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-banque-delubac-cie-dejoue-une-tentative-de-fraude-mais-subit-une-fuite-de-donnees": 1795496617.3517022,
+  "https://www.lemondeinformatique.fr/donnees-ia/comment-la-poste-axa-et-keolis-integrent-l-ia-dans-leurs-organisations": 1795496617.3517022,
+  "https://www.lemondeinformatique.fr/donnees-ia/mourad-jaakou-axway-l-api-management-ne-suffit-plus-a-securiser-les-agents-ia": 1795496617.3517022,
+  "https://www.lemondeinformatique.fr/donnees-ia/anthropic-atteint-1-600-md-de-valorisation-apres-son-introduction-en-bourse": 1795496617.3517022,
+  "https://www.lemondeinformatique.fr/donnees-ia/trump-menace-de-taxer-les-datacenters-americains-construits-a-l-etranger": 1795496617.3517022,
+  "https://www.lemondeinformatique.fr/applications-developpement/bending-spoons-rachete-mailchimp-pour-3-68-md-cinq-ans-apres-son-acquisition-par-intuit": 1795496617.3517022,
+  "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-049/": 1795496617.3517022,
+  "https://www.zataz.com/courtiers-en-or-pirates-dix-personnes-mises-en-examen/": 1795496617.3517022,
+  "https://www.zataz.com/laquaponey-un-drole-de-cadeau-de-noel-qui-fait-reflechir/": 1795496617.3517022,
+  "https://www.zataz.com/cyberespionnage-en-bulgarie-62-millions-de-pages-volees/": 1795496617.3517022,
+  "https://www.zataz.com/cleverbridge-confirme-un-vol-de-donnees-bancaires/": 1795496617.3517022,
+  "https://www.zataz.com/blackhat-sector-une-ia-offensive-a-louer-pour-500-e/": 1795496617.3517022,
+  "https://www.zataz.com/cyberattaque-contre-aaaep-585-000-personnes-exposees/": 1795496617.3517022,
+  "https://www.zataz.com/blackhatsect0r-phishing-bancaire-extorsion-et-industrie/": 1795496617.3517022,
+  "https://www.zataz.com/ledger-un-pirate-piege-dautres-pirates-avec-un-faux-fichier/": 1795496617.3517022,
+  "https://www.zataz.com/cyberattaque-a-chambourcy-inc-ransom-revendique-lattaque/": 1795496617.3517022,
+  "https://www.actuia.com/actualite/nvidia-rappelle-jensen-huang-a-sa-tete-onze-jours-apres-sa-demission/": 1795496617.3517022,
+  "https://www.actuia.com/actualite/les-agents-dopenai-surveillent-mieux-les-entrainements-quils-ne-codent/": 1795496617.3517022,
+  "https://www.actuia.com/actualite/openrouter-durcit-son-option-zero-data-retention-apres-lenquete-de-dragos/": 1795496617.3517022,
+  "https://www.actuia.com/actualite/la-resolution-mondiale-sur-lia-a-lecole-vise-dabord-les-editeurs/": 1795496617.3517022,
+  "https://www.actuia.com/actualite/les-prix-de-pres-dun-marchand-sur-deux-echappent-aux-robots-dia/": 1795496617.3517022,
+  "https://www.actuia.com/actualite/lia-de-conduite-de-yokogawa-devient-une-fonction-standard-de-centum/": 1795496617.3517022,
+  "https://www.actuia.com/actualite/la-cedh-ecarte-pour-deux-ans-une-avocate-qui-citait-une-jurisprudence-inventee-par-lia/": 1795496617.3517022,
+  "https://www.actuia.com/actualite/laction-anthropic-frole-son-prix-dintroduction-a-sa-deuxieme-seance/": 1795496617.3517022,
+  "https://www.actuia.com/actualite/amd-mise-jusqua-29-milliards-de-dollars-sur-les-puces-a-modele-unique/": 1795496617.3517022,
+  "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/": 1795496617.3517022,
+  "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/": 1795496617.3517022,
+  "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/": 1795496617.3517022,
+  "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/": 1795496617.3517022,
+  "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/": 1795496617.3517022,
+  "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/": 1795496617.3517022,
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/": 1795496617.3517022,
+  "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/": 1795496617.3517022,
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/": 1795496617.3517022,
+  "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/": 1795496617.3517022
+ },
+ "sujets_recents": [
+  {
+   "titre": "Cisco Expressway activement exploitée",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "Faille Azure API Management exploitée",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "OpenRouter exclut des fournisseurs d'IA après des fuites de secrets",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "Le CHU de Guadeloupe paralysé par un rançongiciel",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "Nissan : un outil de diagnostic compromis",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "Anthropic lance Claude Ship",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "L'IA et l'hypothèse de Riemann",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "Anthropic en Bourse : 1 600 milliards de dollars de valorisation",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "OpenAI propose des limites communes pour les modèles les plus puissants",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "Chez OpenAI, les agents surveillent mieux qu'ils ne codent",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "Amazon négocie le rachat de Decart",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "PowerShell 7 va s'intégrer à Windows",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "Pilotes graphiques AMD et NVIDIA : des écritures disque permanentes",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "OVHcloud vise deux milliards d'euros de chiffre d'affaires",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "Trump menace de taxer les datacenters construits à l'étranger",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "Jensen Huang redevient PDG de Nvidia",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
+   "t": 1795496617.3517022
+  },
+  {
+   "titre": "Bending Spoons rachète Mailchimp",
+   "t": 1795496617.3517022
+  }
+ ],
+ "episodes": [
+  {
+   "titre": "Journal du mardi 24 novembre 2026, édition du matin",
+   "fichier": "journal-2026-11-24-matin.mp3",
+   "date": "Tue, 24 Nov 2026 05:03:37 +0000",
+   "taille": 4641696,
+   "duree": 774,
+   "notes": "<p><b>[Sécurité] Cisco Expressway activement exploitée</b> — <a href=\"https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/\">BleepingComputer</a></p>\n<p><b>[Sécurité] Faille Azure API Management exploitée</b> — <a href=\"https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/\">BleepingComputer</a></p>\n<p><b>[Sécurité] OpenRouter exclut des fournisseurs d'IA après des fuites de secrets</b> — <a href=\"https://www.actuia.com/actualite/openrouter-durcit-son-option-zero-data-retention-apres-lenquete-de-dragos/\">ActuIA</a> · <a href=\"https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/\">BleepingComputer</a> · <a href=\"https://www.lemagit.fr/actualites/366655292/Supply-Chain-IA-les-fuites-de-secrets-dans-les-infrastructures-dinference\">LeMagIT</a></p>\n<p><b>[Sécurité] Le CHU de Guadeloupe paralysé par un rançongiciel</b> — <a href=\"https://www.zdnet.fr/actualites/le-chu-de-la-guadeloupe-vise-par-une-attaque-par-rancongiciel-508447.htm#xtor=RSS-1\">ZDNet</a> · <a href=\"https://next.ink/brief-article/le-chu-de-guadeloupe-est-paralyse-par-une-cyberattaque/\">Next</a></p>\n<p><b>[Sécurité] Nissan : un outil de diagnostic compromis</b> — <a href=\"https://www.01net.com/actualites/apres-une-cyberattaque-nissan-coupe-un-outil-vital-pour-ses-concessionnaires.html\">01net</a></p>\n<p><b>[IA] Anthropic lance Claude Ship</b> — <a href=\"https://www.numerama.com/tech/2382945-anthropic-lance-claude-ship-un-outil-qui-veut-valider-votre-code-a-la-place-de-vos-collegues.html\">Numerama</a></p>\n<p><b>[IA] L'IA et l'hypothèse de Riemann</b> — <a href=\"https://www.numerama.com/tech/2382757-les-regards-se-tournent-vers-p-vs-np-apres-riemann-lia-sattaque-a-une-autre-enigme-a-un-million-de-dollars.html\">Numerama</a> · <a href=\"https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/\">Next</a></p>\n<p><b>[IA] Anthropic en Bourse : 1 600 milliards de dollars de valorisation</b> — <a href=\"https://www.lemondeinformatique.fr/donnees-ia/anthropic-atteint-1-600-md-de-valorisation-apres-son-introduction-en-bourse\">Le Monde Informatique</a> · <a href=\"https://www.actuia.com/actualite/laction-anthropic-frole-son-prix-dintroduction-a-sa-deuxieme-seance/\">ActuIA</a></p>\n<p><b>[IA] OpenAI propose des limites communes pour les modèles les plus puissants</b> — <a href=\"https://www.lemondeinformatique.fr/donnees-ia/openai-propose-des-limites-communes-pour-encadrer-le-developpement-des-modeles-d-ia\">Le Monde Informatique</a></p>\n<p><b>[IA] Chez OpenAI, les agents surveillent mieux qu'ils ne codent</b> — <a href=\"https://www.actuia.com/actualite/les-agents-dopenai-surveillent-mieux-les-entrainements-quils-ne-codent/\">ActuIA</a></p>\n<p><b>[IA] Amazon négocie le rachat de Decart</b> — <a href=\"https://www.zdnet.fr/actualites/amazon-negocierait-lacquisition-de-decart-specialiste-de-lefficacite-des-modeles-dia-508396.htm#xtor=RSS-1\">ZDNet</a> · <a href=\"https://www.lemondeinformatique.fr/donnees-ia/amazon-proche-d-un-accord-pour-acquerir-la-start-up-israelienne-decart\">Le Monde Informatique</a></p>\n<p><b>[Développement] PowerShell 7 va s'intégrer à Windows</b> — <a href=\"https://next.ink/269400/powershell-7-va-integrer-windows-les-entreprises-vont-devoir-verifier-sa-compatibilite/\">Next</a></p>\n<p><b>[Développement] Pilotes graphiques AMD et NVIDIA : des écritures disque permanentes</b> — <a href=\"https://next.ink/268322/a-cause-dun-bug-les-pilotes-amd-et-nvidia-ecrivent-constamment-sur-le-disque/\">Next</a></p>\n<p><b>[Cloud et infrastructure] OVHcloud vise deux milliards d'euros de chiffre d'affaires</b> — <a href=\"https://www.lemagit.fr/actualites/366655352/Le-vent-tourne-en-Europe-OVHCloud-vise-2-milliards-deuros-de-chiffre-daffaires\">LeMagIT</a> · <a href=\"https://www.lemagit.fr/actualites/366655332/Pour-Octave-Klaba-OVHcloud-les-GPU-de-Nvidia-sont-enfin-rentables\">LeMagIT</a> · <a href=\"https://www.lemondeinformatique.fr/infrastructure-cloud/cloud-souverain-l-europe-cherche-a-reduire-sa-dependance-aux-geants-americains\">Le Monde Informatique</a></p>\n<p><b>[Cloud et infrastructure] Trump menace de taxer les datacenters construits à l'étranger</b> — <a href=\"https://www.lemondeinformatique.fr/donnees-ia/trump-menace-de-taxer-les-datacenters-americains-construits-a-l-etranger\">Le Monde Informatique</a></p>\n<p><b>[Business et régulation] Jensen Huang redevient PDG de Nvidia</b> — <a href=\"https://www.numerama.com/tech/2382845-immense-rebondissement-jensen-huang-redevient-le-patron-de-nvidia.html\">Numerama</a> · <a href=\"https://www.01net.com/actualites/rebondissement-chez-nvidia-jensen-huang-est-de-retour-comme-pdg.html\">01net</a> · <a href=\"https://www.zdnet.fr/actualites/nvidia-reintegre-jensen-huang-laction-bondit-de-27-508435.htm#xtor=RSS-1\">ZDNet</a> · <a href=\"https://next.ink/269365/nvidia-reinstalle-jensen-huang-a-son-poste-de-ceo/\">Next</a> · <a href=\"https://www.lemagit.fr/actualites/366655333/Washington-remet-Jensen-Huang-a-la-tete-de-Nvidia\">LeMagIT</a> · <a href=\"https://www.lemondeinformatique.fr/it-direction/nvidia-reinstalle-jensen-huang-au-poste-de-ceo\">Le Monde Informatique</a> · <a href=\"https://www.actuia.com/actualite/nvidia-rappelle-jensen-huang-a-sa-tete-onze-jours-apres-sa-demission/\">ActuIA</a></p>\n<p><b>[Business et régulation] CrowdStrike va racheter Zscaler pour 44 milliards de dollars</b> — <a href=\"https://next.ink/brief-article/crowdstrike-va-racheter-zscaler-pour-44-milliards-de-dollars/\">Next</a></p>\n<p><b>[Business et régulation] Bending Spoons rachète Mailchimp</b> — <a href=\"https://www.lemondeinformatique.fr/applications-developpement/bending-spoons-rachete-mailchimp-pour-3-68-md-cinq-ans-apres-son-acquisition-par-intuit\">Le Monde Informatique</a></p>",
+   "chapitres": [
+    {
+     "titre": "Introduction",
+     "rubrique": null,
+     "debut": 0.0,
+     "liens": []
+    },
+    {
+     "titre": "Cisco Expressway activement exploitée",
+     "rubrique": "Sécurité",
+     "debut": 17.71,
+     "liens": [
+      {
+       "source": "BleepingComputer",
+       "lien": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
+      }
+     ]
+    },
+    {
+     "titre": "Faille Azure API Management exploitée",
+     "rubrique": "Sécurité",
+     "debut": 67.32,
+     "liens": [
+      {
+       "source": "BleepingComputer",
+       "lien": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
+      }
+     ]
+    },
+    {
+     "titre": "OpenRouter exclut des fournisseurs d'IA après des fuites de secrets",
+     "rubrique": "Sécurité",
+     "debut": 106.78,
+     "liens": [
+      {
+       "source": "ActuIA",
+       "lien": "https://www.actuia.com/actualite/openrouter-durcit-son-option-zero-data-retention-apres-lenquete-de-dragos/"
+      },
+      {
+       "source": "BleepingComputer",
+       "lien": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/"
+      },
+      {
+       "source": "LeMagIT",
+       "lien": "https://www.lemagit.fr/actualites/366655292/Supply-Chain-IA-les-fuites-de-secrets-dans-les-infrastructures-dinference"
+      }
+     ]
+    },
+    {
+     "titre": "Le CHU de Guadeloupe paralysé par un rançongiciel",
+     "rubrique": "Sécurité",
+     "debut": 160.78,
+     "liens": [
+      {
+       "source": "ZDNet",
+       "lien": "https://www.zdnet.fr/actualites/le-chu-de-la-guadeloupe-vise-par-une-attaque-par-rancongiciel-508447.htm#xtor=RSS-1"
+      },
+      {
+       "source": "Next",
+       "lien": "https://next.ink/brief-article/le-chu-de-guadeloupe-est-paralyse-par-une-cyberattaque/"
+      }
+     ]
+    },
+    {
+     "titre": "Nissan : un outil de diagnostic compromis",
+     "rubrique": "Sécurité",
+     "debut": 202.85,
+     "liens": [
+      {
+       "source": "01net",
+       "lien": "https://www.01net.com/actualites/apres-une-cyberattaque-nissan-coupe-un-outil-vital-pour-ses-concessionnaires.html"
+      }
+     ]
+    },
+    {
+     "titre": "Anthropic lance Claude Ship",
+     "rubrique": "IA",
+     "debut": 243.22,
+     "liens": [
+      {
+       "source": "Numerama",
+       "lien": "https://www.numerama.com/tech/2382945-anthropic-lance-claude-ship-un-outil-qui-veut-valider-votre-code-a-la-place-de-vos-collegues.html"
+      }
+     ]
+    },
+    {
+     "titre": "L'IA et l'hypothèse de Riemann",
+     "rubrique": "IA",
+     "debut": 281.9,
+     "liens": [
+      {
+       "source": "Numerama",
+       "lien": "https://www.numerama.com/tech/2382757-les-regards-se-tournent-vers-p-vs-np-apres-riemann-lia-sattaque-a-une-autre-enigme-a-un-million-de-dollars.html"
+      },
+      {
+       "source": "Next",
+       "lien": "https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/"
+      }
+     ]
+    },
+    {
+     "titre": "Anthropic en Bourse : 1 600 milliards de dollars de valorisation",
+     "rubrique": "IA",
+     "debut": 326.47,
+     "liens": [
+      {
+       "source": "Le Monde Informatique",
+       "lien": "https://www.lemondeinformatique.fr/donnees-ia/anthropic-atteint-1-600-md-de-valorisation-apres-son-introduction-en-bourse"
+      },
+      {
+       "source": "ActuIA",
+       "lien": "https://www.actuia.com/actualite/laction-anthropic-frole-son-prix-dintroduction-a-sa-deuxieme-seance/"
+      }
+     ]
+    },
+    {
+     "titre": "OpenAI propose des limites communes pour les modèles les plus puissants",
+     "rubrique": "IA",
+     "debut": 371.21,
+     "liens": [
+      {
+       "source": "Le Monde Informatique",
+       "lien": "https://www.lemondeinformatique.fr/donnees-ia/openai-propose-des-limites-communes-pour-encadrer-le-developpement-des-modeles-d-ia"
+      }
+     ]
+    },
+    {
+     "titre": "Chez OpenAI, les agents surveillent mieux qu'ils ne codent",
+     "rubrique": "IA",
+     "debut": 410.23,
+     "liens": [
+      {
+       "source": "ActuIA",
+       "lien": "https://www.actuia.com/actualite/les-agents-dopenai-surveillent-mieux-les-entrainements-quils-ne-codent/"
+      }
+     ]
+    },
+    {
+     "titre": "Amazon négocie le rachat de Decart",
+     "rubrique": "IA",
+     "debut": 453.07,
+     "liens": [
+      {
+       "source": "ZDNet",
+       "lien": "https://www.zdnet.fr/actualites/amazon-negocierait-lacquisition-de-decart-specialiste-de-lefficacite-des-modeles-dia-508396.htm#xtor=RSS-1"
+      },
+      {
+       "source": "Le Monde Informatique",
+       "lien": "https://www.lemondeinformatique.fr/donnees-ia/amazon-proche-d-un-accord-pour-acquerir-la-start-up-israelienne-decart"
+      }
+     ]
+    },
+    {
+     "titre": "PowerShell 7 va s'intégrer à Windows",
+     "rubrique": "Développement",
+     "debut": 491.69,
+     "liens": [
+      {
+       "source": "Next",
+       "lien": "https://next.ink/269400/powershell-7-va-integrer-windows-les-entreprises-vont-devoir-verifier-sa-compatibilite/"
+      }
+     ]
+    },
+    {
+     "titre": "Pilotes graphiques AMD et NVIDIA : des écritures disque permanentes",
+     "rubrique": "Développement",
+     "debut": 531.12,
+     "liens": [
+      {
+       "source": "Next",
+       "lien": "https://next.ink/268322/a-cause-dun-bug-les-pilotes-amd-et-nvidia-ecrivent-constamment-sur-le-disque/"
+      }
+     ]
+    },
+    {
+     "titre": "OVHcloud vise deux milliards d'euros de chiffre d'affaires",
+     "rubrique": "Cloud et infrastructure",
+     "debut": 565.87,
+     "liens": [
+      {
+       "source": "LeMagIT",
+       "lien": "https://www.lemagit.fr/actualites/366655352/Le-vent-tourne-en-Europe-OVHCloud-vise-2-milliards-deuros-de-chiffre-daffaires"
+      },
+      {
+       "source": "LeMagIT",
+       "lien": "https://www.lemagit.fr/actualites/366655332/Pour-Octave-Klaba-OVHcloud-les-GPU-de-Nvidia-sont-enfin-rentables"
+      },
+      {
+       "source": "Le Monde Informatique",
+       "lien": "https://www.lemondeinformatique.fr/infrastructure-cloud/cloud-souverain-l-europe-cherche-a-reduire-sa-dependance-aux-geants-americains"
+      }
+     ]
+    },
+    {
+     "titre": "Trump menace de taxer les datacenters construits à l'étranger",
+     "rubrique": "Cloud et infrastructure",
+     "debut": 615.26,
+     "liens": [
+      {
+       "source": "Le Monde Informatique",
+       "lien": "https://www.lemondeinformatique.fr/donnees-ia/trump-menace-de-taxer-les-datacenters-americains-construits-a-l-etranger"
+      }
+     ]
+    },
+    {
+     "titre": "Jensen Huang redevient PDG de Nvidia",
+     "rubrique": "Business et régulation",
+     "debut": 649.66,
+     "liens": [
+      {
+       "source": "Numerama",
+       "lien": "https://www.numerama.com/tech/2382845-immense-rebondissement-jensen-huang-redevient-le-patron-de-nvidia.html"
+      },
+      {
+       "source": "01net",
+       "lien": "https://www.01net.com/actualites/rebondissement-chez-nvidia-jensen-huang-est-de-retour-comme-pdg.html"
+      },
+      {
+       "source": "ZDNet",
+       "lien": "https://www.zdnet.fr/actualites/nvidia-reintegre-jensen-huang-laction-bondit-de-27-508435.htm#xtor=RSS-1"
+      },
+      {
+       "source": "Next",
+       "lien": "https://next.ink/269365/nvidia-reinstalle-jensen-huang-a-son-poste-de-ceo/"
+      },
+      {
+       "source": "LeMagIT",
+       "lien": "https://www.lemagit.fr/actualites/366655333/Washington-remet-Jensen-Huang-a-la-tete-de-Nvidia"
+      },
+      {
+       "source": "Le Monde Informatique",
+       "lien": "https://www.lemondeinformatique.fr/it-direction/nvidia-reinstalle-jensen-huang-au-poste-de-ceo"
+      },
+      {
+       "source": "ActuIA",
+       "lien": "https://www.actuia.com/actualite/nvidia-rappelle-jensen-huang-a-sa-tete-onze-jours-apres-sa-demission/"
+      }
+     ]
+    },
+    {
+     "titre": "CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
+     "rubrique": "Business et régulation",
+     "debut": 696.94,
+     "liens": [
+      {
+       "source": "Next",
+       "lien": "https://next.ink/brief-article/crowdstrike-va-racheter-zscaler-pour-44-milliards-de-dollars/"
+      }
+     ]
+    },
+    {
+     "titre": "Bending Spoons rachète Mailchimp",
+     "rubrique": "Business et régulation",
+     "debut": 735.05,
+     "liens": [
+      {
+       "source": "Le Monde Informatique",
+       "lien": "https://www.lemondeinformatique.fr/applications-developpement/bending-spoons-rachete-mailchimp-pour-3-68-md-cinq-ans-apres-son-acquisition-par-intuit"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

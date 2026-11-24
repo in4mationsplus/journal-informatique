@@ -1,0 +1,99 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Introduction"
+  },
+  {
+   "startTime": 17.71,
+   "title": "Cisco Expressway activement exploitée",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
+  },
+  {
+   "startTime": 67.32,
+   "title": "Faille Azure API Management exploitée",
+   "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
+  },
+  {
+   "startTime": 106.78,
+   "title": "OpenRouter exclut des fournisseurs d'IA après des fuites de secrets",
+   "url": "https://www.actuia.com/actualite/openrouter-durcit-son-option-zero-data-retention-apres-lenquete-de-dragos/"
+  },
+  {
+   "startTime": 160.78,
+   "title": "Le CHU de Guadeloupe paralysé par un rançongiciel",
+   "url": "https://www.zdnet.fr/actualites/le-chu-de-la-guadeloupe-vise-par-une-attaque-par-rancongiciel-508447.htm#xtor=RSS-1"
+  },
+  {
+   "startTime": 202.85,
+   "title": "Nissan : un outil de diagnostic compromis",
+   "url": "https://www.01net.com/actualites/apres-une-cyberattaque-nissan-coupe-un-outil-vital-pour-ses-concessionnaires.html"
+  },
+  {
+   "startTime": 243.22,
+   "title": "Anthropic lance Claude Ship",
+   "url": "https://www.numerama.com/tech/2382945-anthropic-lance-claude-ship-un-outil-qui-veut-valider-votre-code-a-la-place-de-vos-collegues.html"
+  },
+  {
+   "startTime": 281.9,
+   "title": "L'IA et l'hypothèse de Riemann",
+   "url": "https://www.numerama.com/tech/2382757-les-regards-se-tournent-vers-p-vs-np-apres-riemann-lia-sattaque-a-une-autre-enigme-a-un-million-de-dollars.html"
+  },
+  {
+   "startTime": 326.47,
+   "title": "Anthropic en Bourse : 1 600 milliards de dollars de valorisation",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/anthropic-atteint-1-600-md-de-valorisation-apres-son-introduction-en-bourse"
+  },
+  {
+   "startTime": 371.21,
+   "title": "OpenAI propose des limites communes pour les modèles les plus puissants",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/openai-propose-des-limites-communes-pour-encadrer-le-developpement-des-modeles-d-ia"
+  },
+  {
+   "startTime": 410.23,
+   "title": "Chez OpenAI, les agents surveillent mieux qu'ils ne codent",
+   "url": "https://www.actuia.com/actualite/les-agents-dopenai-surveillent-mieux-les-entrainements-quils-ne-codent/"
+  },
+  {
+   "startTime": 453.07,
+   "title": "Amazon négocie le rachat de Decart",
+   "url": "https://www.zdnet.fr/actualites/amazon-negocierait-lacquisition-de-decart-specialiste-de-lefficacite-des-modeles-dia-508396.htm#xtor=RSS-1"
+  },
+  {
+   "startTime": 491.69,
+   "title": "PowerShell 7 va s'intégrer à Windows",
+   "url": "https://next.ink/269400/powershell-7-va-integrer-windows-les-entreprises-vont-devoir-verifier-sa-compatibilite/"
+  },
+  {
+   "startTime": 531.12,
+   "title": "Pilotes graphiques AMD et NVIDIA : des écritures disque permanentes",
+   "url": "https://next.ink/268322/a-cause-dun-bug-les-pilotes-amd-et-nvidia-ecrivent-constamment-sur-le-disque/"
+  },
+  {
+   "startTime": 565.87,
+   "title": "OVHcloud vise deux milliards d'euros de chiffre d'affaires",
+   "url": "https://www.lemagit.fr/actualites/366655352/Le-vent-tourne-en-Europe-OVHCloud-vise-2-milliards-deuros-de-chiffre-daffaires"
+  },
+  {
+   "startTime": 615.26,
+   "title": "Trump menace de taxer les datacenters construits à l'étranger",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/trump-menace-de-taxer-les-datacenters-americains-construits-a-l-etranger"
+  },
+  {
+   "startTime": 649.66,
+   "title": "Jensen Huang redevient PDG de Nvidia",
+   "url": "https://www.numerama.com/tech/2382845-immense-rebondissement-jensen-huang-redevient-le-patron-de-nvidia.html"
+  },
+  {
+   "startTime": 696.94,
+   "title": "CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
+   "url": "https://next.ink/brief-article/crowdstrike-va-racheter-zscaler-pour-44-milliards-de-dollars/"
+  },
+  {
+   "startTime": 735.05,
+   "title": "Bending Spoons rachète Mailchimp",
+   "url": "https://www.lemondeinformatique.fr/applications-developpement/bending-spoons-rachete-mailchimp-pour-3-68-md-cinq-ans-apres-son-acquisition-par-intuit"
+  }
+ ]
+}
