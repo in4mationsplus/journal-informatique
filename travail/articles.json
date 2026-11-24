@@ -1,0 +1,49 @@
+{
+ "date": "2026-11-24",
+ "edition": "test-0629",
+ "date_texte": "mardi 24 novembre 2026",
+ "mots_vises": 2300,
+ "rubriques": [
+  "Sécurité",
+  "IA",
+  "Développement",
+  "Cloud et infrastructure",
+  "Business et régulation"
+ ],
+ "sujets_deja_racontes": [
+  "Cisco Expressway activement exploitée",
+  "Faille Azure API Management exploitée",
+  "OpenRouter exclut des fournisseurs d'IA après des fuites de secrets",
+  "Le CHU de Guadeloupe paralysé par un rançongiciel",
+  "Nissan : un outil de diagnostic compromis",
+  "Anthropic lance Claude Ship",
+  "L'IA et l'hypothèse de Riemann",
+  "Anthropic en Bourse : 1 600 milliards de dollars de valorisation",
+  "OpenAI propose des limites communes pour les modèles les plus puissants",
+  "Chez OpenAI, les agents surveillent mieux qu'ils ne codent",
+  "Amazon négocie le rachat de Decart",
+  "PowerShell 7 va s'intégrer à Windows",
+  "Pilotes graphiques AMD et NVIDIA : des écritures disque permanentes",
+  "OVHcloud vise deux milliards d'euros de chiffre d'affaires",
+  "Trump menace de taxer les datacenters construits à l'étranger",
+  "Jensen Huang redevient PDG de Nvidia",
+  "CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
+  "Bending Spoons rachète Mailchimp"
+ ],
+ "articles": [
+  {
+   "id": 0,
+   "source": "01net",
+   "titre": "Shokz OpenRun Pro 2 : avec ce deal XXL sur Amazon, la rupture de stock lui pend au nez ⚡️",
+   "resume": "Le Shokz OpenRun Pro 2 est un casque audio à conception ouverte. Avec son poids ultra léger et sa technologie sonore, il devient un incontournable auprès des sportifs, que ce soit dans les salles de sport ou pour les activités à l'extérieur. Pour sa Black Friday Week, Amazon réduit son tarif à moins de 150 euros seulement, c'est le moment pour en profiter.",
+   "lien": "https://www.01net.com/bons-plans/shokz-openrun-pro-2-avec-ce-deal-xxl-sur-amazon-la-rupture-de-stock-lui-pend-au-nez.html"
+  },
+  {
+   "id": 1,
+   "source": "01net",
+   "titre": "Votre manette commence à rendre l’âme ? C’est le moment : la Sony PS5 Dualsense est à -30%",
+   "resume": "La Sony PS5 Dualsense est la dernière manette de la marque destinée à la PS5. Elle propose plein de nouveautés par rapport à l'ancien modèle, notamment deux actionneurs haptiques et des fontions pour le son. Avec Black Friday, l'accessoire vous revient à presque -30% chez Amazon.",
+   "lien": "https://www.01net.com/bons-plans/votre-manette-commence-a-rendre-lame-cest-le-moment-la-sony-ps5-dualsense-est-a-30.html"
+  }
+ ]
+}
