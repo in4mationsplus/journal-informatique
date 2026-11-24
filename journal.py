@@ -104,15 +104,35 @@ def nettoyer(texte, limite=500):
     return texte[:limite]
 
 
+def telecharger(url):
+    """feedparser n'a pas de délai maximal : le 24 nov., un flux muet a
+    bloqué le relevé 5 minutes sur GitHub. On télécharge donc nous-mêmes."""
+    import urllib.request
+    debut = time.time()
+    requete = urllib.request.Request(url, headers={"User-Agent": AGENT})
+    with urllib.request.urlopen(requete, timeout=20) as r:
+        return r.read(), time.time() - debut
+
+
 def recuperer_articles(etat):
     import feedparser
+    from concurrent.futures import ThreadPoolExecutor
     limite = time.time() - FENETRE_HEURES * 3600
     articles, erreurs = [], []
-    for nom, url in SOURCES.items():
-        flux = feedparser.parse(url, agent=AGENT)
-        if flux.bozo and not flux.entries:
-            erreurs.append(f"{nom} : {flux.get('bozo_exception')}")
+    with ThreadPoolExecutor(8) as pool:
+        futurs = {nom: pool.submit(telecharger, url) for nom, url in SOURCES.items()}
+    for nom, futur in futurs.items():
+        try:
+            contenu, duree = futur.result()
+        except Exception as e:
+            erreurs.append(f"{nom} : {e}")
             continue
+        flux = feedparser.parse(contenu)
+        if flux.bozo and not flux.entries:
+            debut_page = contenu[:120].decode("utf-8", "replace").replace("\n", " ")
+            erreurs.append(f"{nom} : {flux.get('bozo_exception')} — reçu : {debut_page!r}")
+            continue
+        avant = len(articles)
         for e in flux.entries:
             date = e.get("published_parsed") or e.get("updated_parsed")
             lien = e.get("link", "")
@@ -127,6 +147,7 @@ def recuperer_articles(etat):
                 "resume": nettoyer(e.get("summary")),
                 "lien": lien,
             })
+        print(f"  {nom} : {len(articles) - avant} articles ({duree:.1f} s)")
     return articles, erreurs
 
 
