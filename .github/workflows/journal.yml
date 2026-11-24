@@ -11,6 +11,11 @@ on:
   push:
     paths: ["travail/redaction.json"]
   workflow_dispatch:
+    inputs:
+      test:
+        description: "Édition de test (n'écrase pas celle du matin ou de midi)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -32,6 +37,8 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
       - run: python journal.py preparer
+        env:
+          JOURNAL_EDITION: ${{ inputs.test && 'test' || '' }}
       - run: |
           git config user.name "journal"
           git config user.email "journal@users.noreply.github.com"

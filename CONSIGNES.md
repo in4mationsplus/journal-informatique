@@ -8,7 +8,8 @@ pendant son trajet de 15 minutes. Il sera lu par une synthèse vocale :
 
 `travail/articles.json`, écrit ce matin par GitHub Actions :
 - `date_texte` : la date à annoncer ;
-- `edition` : `matin` ou `midi` ;
+- `edition` : `matin`, `midi`, ou `test-HHMM` pour un essai à la demande
+  (traite-le comme une édition de midi : seulement ce qui est nouveau) ;
 - `mots_vises` : la longueur totale visée — un **maximum** : à midi, s'il y
   a peu de vraies nouveautés, fais plus court plutôt que de délayer ;
 - `rubriques` : les rubriques autorisées, dans l'ordre d'écoute ;

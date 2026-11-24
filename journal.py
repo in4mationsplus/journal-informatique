@@ -66,6 +66,8 @@ SOURCES = {
 RUBRIQUES = ["Sécurité", "IA", "Développement", "Cloud et infrastructure",
              "Business et régulation"]
 
+LIBELLES = {"matin": "édition du matin", "midi": "édition de midi"}
+
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
         "août", "septembre", "octobre", "novembre", "décembre"]
 JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
@@ -163,7 +165,10 @@ def preparer():
         "date": f"{m:%Y-%m-%d}",
         # Deux éditions : le matin pour l'aller, à midi pour l'après-midi
         # et le retour. Celle de midi ne reprend que ce qui est paru depuis.
-        "edition": "matin" if m.hour < 10 else "midi",
+        # JOURNAL_EDITION=test : édition à la demande, qui n'écrase pas
+        # celle du matin ou de midi (même nom de fichier sinon).
+        "edition": (f"test-{m:%H%M}" if os.environ.get("JOURNAL_EDITION") == "test"
+                    else "matin" if m.hour < 10 else "midi"),
         "date_texte": f"{JOURS[m.weekday()]} {m.day} {MOIS[m.month - 1]} {m.year}",
         "mots_vises": MOTS_VISES,
         "rubriques": RUBRIQUES,
@@ -320,7 +325,7 @@ def finir():
     etat["sujets_recents"] += [{"titre": s["titre"], "t": t} for s in redaction["sujets"]]
     etat["episodes"] = [e for e in etat["episodes"] if e["fichier"] != mp3.name]
     etat["episodes"].insert(0, {
-        "titre": f"Journal du {entree['date_texte']}, édition du {entree['edition']}",
+        "titre": f"Journal du {entree['date_texte']}, {LIBELLES.get(entree['edition'], 'édition de test')}",
         "fichier": mp3.name,
         "date": format_datetime(datetime.now(timezone.utc)),
         "taille": mp3.stat().st_size,
