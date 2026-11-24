@@ -1,0 +1,74 @@
+# Le matin : « preparer » récupère les flux, puis la tâche programmée
+# Claude écrit travail/redaction.json et pousse, ce qui lance « finir ».
+# Un push fait avec GITHUB_TOKEN ne relance pas ce workflow : le commit de
+# « preparer » ne déclenche donc pas « finir » par erreur.
+name: journal
+
+on:
+  schedule:
+    - cron: "30 4 * * *"     # 5 h 30 à Zurich en hiver (6 h 30 en été) : édition du matin
+    - cron: "30 10 * * *"    # 11 h 30 en hiver : édition de midi
+  push:
+    paths: ["travail/redaction.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: journal
+
+env:
+  JOURNAL_URL_FLUX: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/flux.xml
+  JOURNAL_URL_AUDIO: https://github.com/${{ github.repository }}/releases/download/episodes
+  GH_TOKEN: ${{ github.token }}
+
+jobs:
+  preparer:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - run: python journal.py preparer
+      - run: |
+          git config user.name "journal"
+          git config user.email "journal@users.noreply.github.com"
+          git rm -q --cached --ignore-unmatch travail/redaction.json
+          rm -f travail/redaction.json
+          git add travail/articles.json
+          git commit -q -m "Articles du jour" && git push || echo "rien à commiter"
+
+  finir:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      # La session Claude peut n'avoir le droit de pousser que sur une
+      # branche à elle (claude/…) : on part toujours de main et on ne prend
+      # de la branche poussée que la rédaction.
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - if: github.ref != 'refs/heads/main'
+        run: |
+          git fetch -q origin "${{ github.ref }}"
+          git checkout FETCH_HEAD -- travail/redaction.json
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - run: python journal.py finir
+      - name: Publier le MP3 et retirer les anciens
+        run: |
+          gh release view episodes >/dev/null 2>&1 || gh release create episodes --title "Épisodes" --notes "Fichiers audio du journal."
+          gh release upload episodes travail/*.mp3 --clobber
+          while read -r f; do [ -n "$f" ] && gh release delete-asset episodes "$f" -y || true; done < travail/a_supprimer.txt
+      - run: |
+          git config user.name "journal"
+          git config user.email "journal@users.noreply.github.com"
+          git rm -q --cached --ignore-unmatch travail/articles.json travail/redaction.json
+          git add docs
+          git commit -q -m "Épisode du jour"
+          git push origin HEAD:main
+          if [ "${{ github.ref }}" != "refs/heads/main" ]; then
+            git push -q origin --delete "${GITHUB_REF#refs/heads/}" || true
+          fi
