@@ -187,8 +187,6 @@ def verifier(redaction, articles):
     for cle in ("introduction", "sujets", "conclusion"):
         if cle not in redaction:
             raise ValueError(f"redaction.json : « {cle} » manque")
-    if not redaction["sujets"]:
-        raise ValueError("redaction.json : aucun sujet")
     for s in redaction["sujets"]:
         if s.get("rubrique") not in RUBRIQUES:
             raise ValueError(f"rubrique inconnue : {s.get('rubrique')!r}")
@@ -296,6 +294,16 @@ def finir():
     articles = entree["articles"]
     verifier(redaction, articles)
     par_id = {a["id"]: a for a in articles}
+    if not redaction["sujets"]:
+        # Aucune vraie nouveauté (vu le 24 nov. : 2 articles, écartés tous
+        # les deux) : pas d'épisode, mais les articles sont notés comme vus.
+        etat = charger_etat()
+        for a in articles:
+            etat["liens_vus"][a["lien"]] = time.time()
+        enregistrer_etat(etat)
+        (TRAVAIL / "a_supprimer.txt").write_text("", encoding="utf-8")
+        print("Aucun sujet retenu : pas d'épisode.")
+        return
 
     chapitres = assembler(redaction)
     nom = f"journal-{entree['date']}-{entree['edition']}"

@@ -67,14 +67,14 @@ jobs:
       - name: Publier le MP3 et retirer les anciens
         run: |
           gh release view episodes >/dev/null 2>&1 || gh release create episodes --title "Épisodes" --notes "Fichiers audio du journal."
-          gh release upload episodes travail/*.mp3 --clobber
+          ls travail/*.mp3 >/dev/null 2>&1 && gh release upload episodes travail/*.mp3 --clobber
           while read -r f; do [ -n "$f" ] && gh release delete-asset episodes "$f" -y || true; done < travail/a_supprimer.txt
       - run: |
           git config user.name "journal"
           git config user.email "journal@users.noreply.github.com"
           git rm -q --cached --ignore-unmatch travail/articles.json travail/redaction.json
           git add docs
-          git commit -q -m "Épisode du jour"
+          git commit -q -m "Épisode du jour" || echo "rien à publier"
           git push origin HEAD:main
           if [ "${{ github.ref }}" != "refs/heads/main" ]; then
             git push -q origin --delete "${GITHUB_REF#refs/heads/}" || true
