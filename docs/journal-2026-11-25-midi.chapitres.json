@@ -1,0 +1,89 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Introduction"
+  },
+  {
+   "startTime": 18.79,
+   "title": "Drupal : une faille critique exploitée",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/"
+  },
+  {
+   "startTime": 57.65,
+   "title": "Microsoft : des problèmes d'authentification après les mises à jour de novembre",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/"
+  },
+  {
+   "startTime": 93.65,
+   "title": "Intrusion dans un système d'analyse de la CIA",
+   "url": "https://next.ink/brief-article/un-systeme-de-la-cia-et-du-renseignement-americain-victime-dune-intrusion/"
+  },
+  {
+   "startTime": 129.77,
+   "title": "Ipsos : le groupe Qilin revendique un vol de données",
+   "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-ipsos-le-groupe-qilin-revendique-un-vol-de-donnees-sensibles"
+  },
+  {
+   "startTime": 167.45,
+   "title": "Le CHU de Bordeaux et SIG Sauer visés par ScarlettGroup",
+   "url": "https://www.zataz.com/chu-de-bordeaux-et-sig-sauer-cibles-par-scarlettgroup/"
+  },
+  {
+   "startTime": 206.54,
+   "title": "GrapheneOS accuse Google de vouloir sa disparition",
+   "url": "https://next.ink/269832/grapheneos-accuse-directement-google-de-vouloir-sa-disparition/"
+  },
+  {
+   "startTime": 240.84,
+   "title": "Claude permet de créer des applications pour Mac et Windows",
+   "url": "https://www.numerama.com/tech/2384157-claude-franchit-un-nouveau-cap-et-permet-desormais-de-creer-des-applications-maison-pour-mac-et-windows-toujours-sans-coder.html"
+  },
+  {
+   "startTime": 277.66,
+   "title": "OpenAI et Anthropic : des salariés inquiets",
+   "url": "https://www.numerama.com/tech/2384181-ils-sont-les-seuls-a-voir-les-ia-les-plus-puissantes-et-ils-ont-peur-chez-openai-et-anthropic-les-salaries-tirent-la-sonnette-dalarme.html"
+  },
+  {
+   "startTime": 307.75,
+   "title": "Epochal : trois cofondateurs de xAI lancent une start-up d'IA prédictive",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/trois-cofondateurs-de-xai-lancent-epochal-une-start-up-specialisee-dans-l-ia-predictive"
+  },
+  {
+   "startTime": 341.59,
+   "title": "Ladybird publie sa première version alpha",
+   "url": "https://www.01net.com/actualites/du-jamais-vu-depuis-2013-voici-ladybird-le-navigateur-qui-ne-depend-pas-de-google-apple-ou-mozilla.html"
+  },
+  {
+   "startTime": 377.4,
+   "title": "Pop!_OS 26.04 : le bureau COSMIC arrive",
+   "url": "https://next.ink/269780/pop_os-26-04-degaine-ses-constellations-et-bon-nombre-de-nouveautes/"
+  },
+  {
+   "startTime": 412.99,
+   "title": "Microsoft déclenche un « Code Red » après la panne de Microsoft 365",
+   "url": "https://www.lemondeinformatique.fr/applications-developpement/microsoft-declenche-un-code-red-apres-une-panne-majeure-de-microsoft-365"
+  },
+  {
+   "startTime": 449.09,
+   "title": "Oracle : jusqu'à 1 390 suppressions de postes en Europe",
+   "url": "https://www.lemondeinformatique.fr/it-direction/oracle-envisage-jusqu-a-1-390-suppressions-de-postes-supplementaires-en-europe"
+  },
+  {
+   "startTime": 491.62,
+   "title": "Quantum Act : l'Union européenne veut soutenir son industrie quantique",
+   "url": "https://www.lemondeinformatique.fr/it-direction/quantum-act-l-ue-veut-soutenir-son-industrie-quantique-avec-un-fonds-souverain"
+  },
+  {
+   "startTime": 527.38,
+   "title": "SpaceX et Tesla : vers une fusion à 3 500 milliards de dollars ?",
+   "url": "https://www.lemondeinformatique.fr/it-direction/spacex-tesla-cinq-administrateurs-negocient-une-fusion-potentielle-a-3-500-milliards-de-dollars"
+  },
+  {
+   "startTime": 560.35,
+   "title": "Nvidia : Jensen Huang s'excuse, Trump évoque une grâce",
+   "url": "https://www.01net.com/actualites/jai-commis-de-graves-erreurs-de-retour-chez-nvidia-jensen-huang-fait-une-premiere-annonce.html"
+  }
+ ]
+}

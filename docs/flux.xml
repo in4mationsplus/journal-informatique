@@ -7,6 +7,29 @@
 <description>Les news informatiques du jour, sans doublons, en 15 minutes.</description>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>Journal du mercredi 25 novembre 2026, édition de midi</title>
+<guid isPermaLink="false">journal-2026-11-25-midi.mp3</guid>
+<pubDate>Wed, 25 Nov 2026 11:05:35 +0000</pubDate>
+<enclosure url="https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-25-midi.mp3" length="3585888" type="audio/mpeg"/>
+<podcast:chapters url="https://in4mationsplus.github.io/journal-informatique/journal-2026-11-25-midi.chapitres.json" type="application/json+chapters"/>
+<description>&lt;p&gt;&lt;b&gt;[Sécurité] Drupal : une faille critique exploitée&lt;/b&gt; — &lt;a href="https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] Microsoft : des problèmes d'authentification après les mises à jour de novembre&lt;/b&gt; — &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] Intrusion dans un système d'analyse de la CIA&lt;/b&gt; — &lt;a href="https://next.ink/brief-article/un-systeme-de-la-cia-et-du-renseignement-americain-victime-dune-intrusion/"&gt;Next&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] Ipsos : le groupe Qilin revendique un vol de données&lt;/b&gt; — &lt;a href="https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-ipsos-le-groupe-qilin-revendique-un-vol-de-donnees-sensibles"&gt;Le Monde Informatique&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] Le CHU de Bordeaux et SIG Sauer visés par ScarlettGroup&lt;/b&gt; — &lt;a href="https://www.zataz.com/chu-de-bordeaux-et-sig-sauer-cibles-par-scarlettgroup/"&gt;ZATAZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] GrapheneOS accuse Google de vouloir sa disparition&lt;/b&gt; — &lt;a href="https://next.ink/269832/grapheneos-accuse-directement-google-de-vouloir-sa-disparition/"&gt;Next&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[IA] Claude permet de créer des applications pour Mac et Windows&lt;/b&gt; — &lt;a href="https://www.numerama.com/tech/2384157-claude-franchit-un-nouveau-cap-et-permet-desormais-de-creer-des-applications-maison-pour-mac-et-windows-toujours-sans-coder.html"&gt;Numerama&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[IA] OpenAI et Anthropic : des salariés inquiets&lt;/b&gt; — &lt;a href="https://www.numerama.com/tech/2384181-ils-sont-les-seuls-a-voir-les-ia-les-plus-puissantes-et-ils-ont-peur-chez-openai-et-anthropic-les-salaries-tirent-la-sonnette-dalarme.html"&gt;Numerama&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[IA] Epochal : trois cofondateurs de xAI lancent une start-up d'IA prédictive&lt;/b&gt; — &lt;a href="https://www.lemondeinformatique.fr/donnees-ia/trois-cofondateurs-de-xai-lancent-epochal-une-start-up-specialisee-dans-l-ia-predictive"&gt;Le Monde Informatique&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Développement] Ladybird publie sa première version alpha&lt;/b&gt; — &lt;a href="https://www.01net.com/actualites/du-jamais-vu-depuis-2013-voici-ladybird-le-navigateur-qui-ne-depend-pas-de-google-apple-ou-mozilla.html"&gt;01net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Développement] Pop!_OS 26.04 : le bureau COSMIC arrive&lt;/b&gt; — &lt;a href="https://next.ink/269780/pop_os-26-04-degaine-ses-constellations-et-bon-nombre-de-nouveautes/"&gt;Next&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Cloud et infrastructure] Microsoft déclenche un « Code Red » après la panne de Microsoft 365&lt;/b&gt; — &lt;a href="https://www.lemondeinformatique.fr/applications-developpement/microsoft-declenche-un-code-red-apres-une-panne-majeure-de-microsoft-365"&gt;Le Monde Informatique&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Cloud et infrastructure] Oracle : jusqu'à 1 390 suppressions de postes en Europe&lt;/b&gt; — &lt;a href="https://www.lemondeinformatique.fr/it-direction/oracle-envisage-jusqu-a-1-390-suppressions-de-postes-supplementaires-en-europe"&gt;Le Monde Informatique&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Business et régulation] Quantum Act : l'Union européenne veut soutenir son industrie quantique&lt;/b&gt; — &lt;a href="https://www.lemondeinformatique.fr/it-direction/quantum-act-l-ue-veut-soutenir-son-industrie-quantique-avec-un-fonds-souverain"&gt;Le Monde Informatique&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Business et régulation] SpaceX et Tesla : vers une fusion à 3 500 milliards de dollars ?&lt;/b&gt; — &lt;a href="https://www.lemondeinformatique.fr/it-direction/spacex-tesla-cinq-administrateurs-negocient-une-fusion-potentielle-a-3-500-milliards-de-dollars"&gt;Le Monde Informatique&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Business et régulation] Nvidia : Jensen Huang s'excuse, Trump évoque une grâce&lt;/b&gt; — &lt;a href="https://www.01net.com/actualites/jai-commis-de-graves-erreurs-de-retour-chez-nvidia-jensen-huang-fait-une-premiere-annonce.html"&gt;01net&lt;/a&gt; · &lt;a href="https://www.zdnet.fr/actualites/jensen-huang-trump-evoque-une-grace-et-une-prise-de-participation-de-letat-dans-nvidia-508578.htm#xtor=RSS-1"&gt;ZDNet&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
 <title>Journal du mercredi 25 novembre 2026, édition du matin</title>
 <guid isPermaLink="false">journal-2026-11-25-matin.mp3</guid>
 <pubDate>Wed, 25 Nov 2026 06:51:12 +0000</pubDate>
