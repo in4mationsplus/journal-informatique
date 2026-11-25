@@ -1,5 +1,257 @@
 [
  {
+  "titre": "Journal du mercredi 25 novembre 2026, édition du soir",
+  "fichier": "journal-2026-11-25-soir.mp3",
+  "date": "Wed, 25 Nov 2026 17:05:53 +0000",
+  "taille": 3881088,
+  "duree": 647,
+  "chapitres": [
+   {
+    "titre": "Introduction",
+    "rubrique": null,
+    "debut": 0.0,
+    "liens": []
+   },
+   {
+    "titre": "Deux milliards d'identifiants exposés",
+    "rubrique": "Sécurité",
+    "debut": 19.54,
+    "liens": [
+     {
+      "source": "01net",
+      "lien": "https://www.01net.com/actualites/la-plus-grande-collection-didentifiants-que-jai-decouverte-2-milliards-de-mots-de-passe-gmail-facebook-et-netflix-ont-ete-exposes-sur-internet.html"
+     }
+    ]
+   },
+   {
+    "titre": "Nvidia visée par une menace de rançongiciel",
+    "rubrique": "Sécurité",
+    "debut": 68.98,
+    "liens": [
+     {
+      "source": "Developpez.com",
+      "lien": "https://securite.developpez.com/actu/389453/Des-pirates-informatiques-donnent-jusqu-au-28-novembre-a-Nvidia-alors-qu-un-groupe-de-ransomware-menace-de-divulguer-des-donnees-mais-le-groupe-n-a-fourni-aucune-preuve-de-ses-allegations/"
+     }
+    ]
+   },
+   {
+    "titre": "Une faille critique non corrigée dans des contrôleurs Danfoss",
+    "rubrique": "Sécurité",
+    "debut": 104.38,
+    "liens": [
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/"
+     }
+    ]
+   },
+   {
+    "titre": "Les failles des composants tiers dans les équipements réseau",
+    "rubrique": "Sécurité",
+    "debut": 137.09,
+    "liens": [
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"
+     }
+    ]
+   },
+   {
+    "titre": "Black Friday : des attaques dopées à l'IA contre les distributeurs",
+    "rubrique": "Sécurité",
+    "debut": 169.51,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/black-friday-les-cybermenaces-dopees-a-l-ia-mettent-les-distributeurs-sous-pression"
+     }
+    ]
+   },
+   {
+    "titre": "L'alerte de sécurité ne vaut que si l'on agit : dette technique et IA offensive",
+    "rubrique": "Sécurité",
+    "debut": 195.84,
+    "liens": [
+     {
+      "source": "LeMagIT",
+      "lien": "https://www.lemagit.fr/actualites/366655515/Dette-technique-lIA-offensive-risque-de-la-faire-payer-au-prix-fort"
+     },
+     {
+      "source": "LeMagIT",
+      "lien": "https://www.lemagit.fr/actualites/366655500/Gestion-du-risque-lie-aux-tiers-fournisseurs-et-clients-impossible-a-reconcilier"
+     }
+    ]
+   },
+   {
+    "titre": "CrowdStrike et Zscaler : un kill switch pour les agents IA",
+    "rubrique": "Sécurité",
+    "debut": 235.61,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/donnees-ia/crowdstrike-et-zscaler-veulent-un-kill-switch-unifie-pour-les-agents-ia"
+     }
+    ]
+   },
+   {
+    "titre": "Yann LeCun contre Dario Amodei sur les modèles ouverts",
+    "rubrique": "IA",
+    "debut": 266.4,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/donnees-ia/yann-lecun-accuse-le-patron-d-anthropic-de-vouloir-freiner-les-modeles-d-ia-ouverts"
+     }
+    ]
+   },
+   {
+    "titre": "Anthropic sous son prix d'introduction en Bourse",
+    "rubrique": "IA",
+    "debut": 303.22,
+    "liens": [
+     {
+      "source": "Developpez.com",
+      "lien": "https://intelligence-artificielle.developpez.com/actu/389446/L-action-d-Anthropic-chute-d-environ-13-pourcent-a-76-sous-son-prix-d-introduction-en-bourse-de-83-tandis-que-son-PDG-Dario-Amodei-a-deja-vendu-pour-280-millions-d-actions/"
+     },
+     {
+      "source": "Developpez.com",
+      "lien": "https://intelligence-artificielle.developpez.com/actu/389482/Un-physicien-du-MIT-affirme-que-des-employes-d-Anthropic-evoquent-le-renversement-du-gouvernement-americain-et-la-domination-du-monde-un-avenir-ou-l-IA-echapperait-au-controle-democratique/"
+     }
+    ]
+   },
+   {
+    "titre": "Bulle de l'IA : qui paiera si elle éclate ?",
+    "rubrique": "IA",
+    "debut": 338.5,
+    "liens": [
+     {
+      "source": "ActuIA",
+      "lien": "https://www.actuia.com/actualite/bulle-de-lia-qui-paiera-la-note-si-elle-eclate/"
+     }
+    ]
+   },
+   {
+    "titre": "L'IA générative aggrave l'infobésité au travail",
+    "rubrique": "IA",
+    "debut": 381.72,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/269823/lia-generative-pompier-pyromane-de-linfobesite-au-travail/"
+     },
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/donnees-ia/l-ia-generative-risque-d-amplifier-l-infobesite-au-travail"
+     }
+    ]
+   },
+   {
+    "titre": "Gemini sépare historique et entraînement",
+    "rubrique": "IA",
+    "debut": 412.44,
+    "liens": [
+     {
+      "source": "01net",
+      "lien": "https://www.01net.com/actualites/petite-revolution-sur-gemini-vous-pouvez-enfin-proteger-vos-donnees-tout-en-conservant-votre-historique.html"
+     }
+    ]
+   },
+   {
+    "titre": "Tidal bannit la musique générée par IA",
+    "rubrique": "IA",
+    "debut": 433.66,
+    "liens": [
+     {
+      "source": "Developpez.com",
+      "lien": "https://intelligence-artificielle.developpez.com/actu/389456/Tidal-annonce-l-interdiction-de-la-musique-generee-par-IA-27-millions-de-titres-seront-supprimes-ces-chansons-representent-6-3-pourcent-du-catalogue-de-Tidal-mais-ce-chiffre-sera-bientot-ramene-a-zero/"
+     }
+    ]
+   },
+   {
+    "titre": "Visual Studio 2026 et Qt Creator 21",
+    "rubrique": "Développement",
+    "debut": 461.3,
+    "liens": [
+     {
+      "source": "Developpez.com",
+      "lien": "https://visualstudio.developpez.com/actu/389454/Microsoft-publie-la-mise-a-jour-de-novembre-de-Visual-Studio-2026-qui-offre-des-flux-de-travail-plus-rapides-une-gestion-plus-structuree-des-revisions-des-pull-requests-et-un-Copilot-Chat-ameliore/"
+     },
+     {
+      "source": "Developpez.com",
+      "lien": "https://qt.developpez.com/actu/389449/Qt-Creator-21-la-derniere-version-de-l-EDI-multiplateforme-de-Qt-arrive-avec-un-outil-de-profilage-repense-un-controle-etendu-des-agents-d-IA-et-des-fonctionnalites-d-edition-ameliorees/"
+     }
+    ]
+   },
+   {
+    "titre": "OVHcloud : de l'eau chaude pour des GPU froids",
+    "rubrique": "Cloud et infrastructure",
+    "debut": 498.67,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/269774/eau-chaude-gpu-froids-ovh-ne-veut-plus-consommer-deau-dans-ses-datacenters/"
+     }
+    ]
+   },
+   {
+    "titre": "ETIX investit cent millions d'euros dans ses centres de données",
+    "rubrique": "Cloud et infrastructure",
+    "debut": 525.94,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/infrastructure-cloud/etix-investit-100-m-dans-ses-data-centers-de-proximite-en-france"
+     }
+    ]
+   },
+   {
+    "titre": "Les centres de données et la qualité de l'air",
+    "rubrique": "Cloud et infrastructure",
+    "debut": 548.3,
+    "liens": [
+     {
+      "source": "Developpez.com",
+      "lien": "https://cloud-computing.developpez.com/actu/389447/Les-centres-de-donnees-seraient-a-l-origine-de-centaines-de-deces-prematures-leur-consommation-d-energie-a-base-de-gaz-deteriorant-la-qualite-de-l-air-avec-650-deces-estimes-aux-USA-en-2023/"
+     }
+    ]
+   },
+   {
+    "titre": "HPE : un trimestre en fanfare",
+    "rubrique": "Business et régulation",
+    "debut": 569.16,
+    "liens": [
+     {
+      "source": "LeMagIT",
+      "lien": "https://www.lemagit.fr/actualites/366655501/Resultats-financiers-le-sursaut-de-HPE"
+     }
+    ]
+   },
+   {
+    "titre": "Facture électronique : un rodage difficile",
+    "rubrique": "Business et régulation",
+    "debut": 594.48,
+    "liens": [
+     {
+      "source": "LeMagIT",
+      "lien": "https://www.lemagit.fr/actualites/366655414/Facture-electronique-un-rodage-freine-par-linteroperabilite-des-systemes-IT"
+     }
+    ]
+   },
+   {
+    "titre": "HarmonyOS dépasse 100 millions d'appareils",
+    "rubrique": "Business et régulation",
+    "debut": 622.08,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/270049/huawei-harmonyos-depasse-les-100-millions-dappareils-et-devance-ios-en-chine/"
+     }
+    ]
+   }
+  ],
+  "url": "https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-25-soir.mp3"
+ },
+ {
   "titre": "Journal du mercredi 25 novembre 2026, édition de midi",
   "fichier": "journal-2026-11-25-midi.mp3",
   "date": "Wed, 25 Nov 2026 11:05:35 +0000",

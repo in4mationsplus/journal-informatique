@@ -1,0 +1,109 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Introduction"
+  },
+  {
+   "startTime": 19.54,
+   "title": "Deux milliards d'identifiants exposés",
+   "url": "https://www.01net.com/actualites/la-plus-grande-collection-didentifiants-que-jai-decouverte-2-milliards-de-mots-de-passe-gmail-facebook-et-netflix-ont-ete-exposes-sur-internet.html"
+  },
+  {
+   "startTime": 68.98,
+   "title": "Nvidia visée par une menace de rançongiciel",
+   "url": "https://securite.developpez.com/actu/389453/Des-pirates-informatiques-donnent-jusqu-au-28-novembre-a-Nvidia-alors-qu-un-groupe-de-ransomware-menace-de-divulguer-des-donnees-mais-le-groupe-n-a-fourni-aucune-preuve-de-ses-allegations/"
+  },
+  {
+   "startTime": 104.38,
+   "title": "Une faille critique non corrigée dans des contrôleurs Danfoss",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/"
+  },
+  {
+   "startTime": 137.09,
+   "title": "Les failles des composants tiers dans les équipements réseau",
+   "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"
+  },
+  {
+   "startTime": 169.51,
+   "title": "Black Friday : des attaques dopées à l'IA contre les distributeurs",
+   "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/black-friday-les-cybermenaces-dopees-a-l-ia-mettent-les-distributeurs-sous-pression"
+  },
+  {
+   "startTime": 195.84,
+   "title": "L'alerte de sécurité ne vaut que si l'on agit : dette technique et IA offensive",
+   "url": "https://www.lemagit.fr/actualites/366655515/Dette-technique-lIA-offensive-risque-de-la-faire-payer-au-prix-fort"
+  },
+  {
+   "startTime": 235.61,
+   "title": "CrowdStrike et Zscaler : un kill switch pour les agents IA",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/crowdstrike-et-zscaler-veulent-un-kill-switch-unifie-pour-les-agents-ia"
+  },
+  {
+   "startTime": 266.4,
+   "title": "Yann LeCun contre Dario Amodei sur les modèles ouverts",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/yann-lecun-accuse-le-patron-d-anthropic-de-vouloir-freiner-les-modeles-d-ia-ouverts"
+  },
+  {
+   "startTime": 303.22,
+   "title": "Anthropic sous son prix d'introduction en Bourse",
+   "url": "https://intelligence-artificielle.developpez.com/actu/389446/L-action-d-Anthropic-chute-d-environ-13-pourcent-a-76-sous-son-prix-d-introduction-en-bourse-de-83-tandis-que-son-PDG-Dario-Amodei-a-deja-vendu-pour-280-millions-d-actions/"
+  },
+  {
+   "startTime": 338.5,
+   "title": "Bulle de l'IA : qui paiera si elle éclate ?",
+   "url": "https://www.actuia.com/actualite/bulle-de-lia-qui-paiera-la-note-si-elle-eclate/"
+  },
+  {
+   "startTime": 381.72,
+   "title": "L'IA générative aggrave l'infobésité au travail",
+   "url": "https://next.ink/269823/lia-generative-pompier-pyromane-de-linfobesite-au-travail/"
+  },
+  {
+   "startTime": 412.44,
+   "title": "Gemini sépare historique et entraînement",
+   "url": "https://www.01net.com/actualites/petite-revolution-sur-gemini-vous-pouvez-enfin-proteger-vos-donnees-tout-en-conservant-votre-historique.html"
+  },
+  {
+   "startTime": 433.66,
+   "title": "Tidal bannit la musique générée par IA",
+   "url": "https://intelligence-artificielle.developpez.com/actu/389456/Tidal-annonce-l-interdiction-de-la-musique-generee-par-IA-27-millions-de-titres-seront-supprimes-ces-chansons-representent-6-3-pourcent-du-catalogue-de-Tidal-mais-ce-chiffre-sera-bientot-ramene-a-zero/"
+  },
+  {
+   "startTime": 461.3,
+   "title": "Visual Studio 2026 et Qt Creator 21",
+   "url": "https://visualstudio.developpez.com/actu/389454/Microsoft-publie-la-mise-a-jour-de-novembre-de-Visual-Studio-2026-qui-offre-des-flux-de-travail-plus-rapides-une-gestion-plus-structuree-des-revisions-des-pull-requests-et-un-Copilot-Chat-ameliore/"
+  },
+  {
+   "startTime": 498.67,
+   "title": "OVHcloud : de l'eau chaude pour des GPU froids",
+   "url": "https://next.ink/269774/eau-chaude-gpu-froids-ovh-ne-veut-plus-consommer-deau-dans-ses-datacenters/"
+  },
+  {
+   "startTime": 525.94,
+   "title": "ETIX investit cent millions d'euros dans ses centres de données",
+   "url": "https://www.lemondeinformatique.fr/infrastructure-cloud/etix-investit-100-m-dans-ses-data-centers-de-proximite-en-france"
+  },
+  {
+   "startTime": 548.3,
+   "title": "Les centres de données et la qualité de l'air",
+   "url": "https://cloud-computing.developpez.com/actu/389447/Les-centres-de-donnees-seraient-a-l-origine-de-centaines-de-deces-prematures-leur-consommation-d-energie-a-base-de-gaz-deteriorant-la-qualite-de-l-air-avec-650-deces-estimes-aux-USA-en-2023/"
+  },
+  {
+   "startTime": 569.16,
+   "title": "HPE : un trimestre en fanfare",
+   "url": "https://www.lemagit.fr/actualites/366655501/Resultats-financiers-le-sursaut-de-HPE"
+  },
+  {
+   "startTime": 594.48,
+   "title": "Facture électronique : un rodage difficile",
+   "url": "https://www.lemagit.fr/actualites/366655414/Facture-electronique-un-rodage-freine-par-linteroperabilite-des-systemes-IT"
+  },
+  {
+   "startTime": 622.08,
+   "title": "HarmonyOS dépasse 100 millions d'appareils",
+   "url": "https://next.ink/270049/huawei-harmonyos-depasse-les-100-millions-dappareils-et-devance-ios-en-chine/"
+  }
+ ]
+}
