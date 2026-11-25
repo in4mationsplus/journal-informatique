@@ -65,3 +65,6 @@ avec le message « Rédaction du jour » et pousse sur `main`. Si ce push
 est refusé, pousse sur une branche `claude/redaction-<date>-<edition>` :
 GitHub Actions sait aussi la reprendre de là. Ne modifie aucun autre
 fichier.
+
+Ne pousse qu'**une seule fois**, quand tout est vérifié : le premier push
+lance la publication, une correction poussée ensuite est perdue.
