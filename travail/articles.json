@@ -1,0 +1,409 @@
+{
+ "date": "2026-11-25",
+ "edition": "midi",
+ "date_texte": "mercredi 25 novembre 2026",
+ "mots_vises": 2300,
+ "rubriques": [
+  "Sécurité",
+  "IA",
+  "Développement",
+  "Cloud et infrastructure",
+  "Business et régulation"
+ ],
+ "sujets_deja_racontes": [
+  "Cisco Expressway activement exploitée",
+  "Faille Azure API Management exploitée",
+  "OpenRouter exclut des fournisseurs d'IA après des fuites de secrets",
+  "Le CHU de Guadeloupe paralysé par un rançongiciel",
+  "Nissan : un outil de diagnostic compromis",
+  "Anthropic lance Claude Ship",
+  "L'IA et l'hypothèse de Riemann",
+  "Anthropic en Bourse : 1 600 milliards de dollars de valorisation",
+  "OpenAI propose des limites communes pour les modèles les plus puissants",
+  "Chez OpenAI, les agents surveillent mieux qu'ils ne codent",
+  "Amazon négocie le rachat de Decart",
+  "PowerShell 7 va s'intégrer à Windows",
+  "Pilotes graphiques AMD et NVIDIA : des écritures disque permanentes",
+  "OVHcloud vise deux milliards d'euros de chiffre d'affaires",
+  "Trump menace de taxer les datacenters construits à l'étranger",
+  "Jensen Huang redevient PDG de Nvidia",
+  "CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
+  "Bending Spoons rachète Mailchimp",
+  "Chrome : une faille critique corrigée",
+  "Check Point : des serveurs de gestion compromis",
+  "Rackspace ferme sa plateforme Spot après une intrusion",
+  "Radware : des clés d'accès cloud de clients exposées",
+  "Piratage de la base de données criminelles du FBI",
+  "Shirudo : OpenAI et Cisco protègent Linux en attendant les correctifs",
+  "Signal veut empêcher les agents IA de lire vos messages",
+  "GLM-5.4 : un nouveau modèle chinois pour le code",
+  "Inkling 2 Mini : un modèle en boucle qui tourne sur un portable",
+  "Firefox 161 : un VPN par site et Firefox sur le tableau de bord",
+  "Visual Studio Code 1.147 : programmer ses demandes aux agents",
+  "Centres de données IA : le courant continu à 800 volts s'impose",
+  "Panne mondiale de Microsoft : le rapport final",
+  "Nvidia : Jensen Huang revient sous la pression de Donald Trump",
+  "Washington met Megaspeed et une filiale d'Alibaba sur liste noire",
+  "Quad9 quitte la France",
+  "Apple et la justice britannique : l'ordonnance secrète sur le chiffrement"
+ ],
+ "articles": [
+  {
+   "id": 0,
+   "source": "Numerama",
+   "titre": "Suzuki relance l’Ignis en électrique pour concurrencer la Twingo, avec beaucoup de questions sans réponse",
+   "resume": "Suzuki a présenté la nouvelle Ignis, sa première mini-citadine 100 % électrique qui arrivera en Europe à partir de l'été 2027. Elle dérive de la kei car e Sky vendue au Japon. Le prix ainsi que l'autonomie restent à connaître.",
+   "lien": "https://www.numerama.com/vroom/2384331-suzuki-relance-lignis-en-electrique-pour-concurrencer-la-twingo-avec-beaucoup-de-questions-sans-reponse.html"
+  },
+  {
+   "id": 1,
+   "source": "Numerama",
+   "titre": "Marvel se moque-t-il de nous avec la vraie identité de Dr Doom dans Avengers: Doomsday ?",
+   "resume": "Dr Doom, futur grand méchant du film Avengers: Doomsday, est-il un variant maléfique d'Iron Man ? Kevin Feige, patron de Marvel Studios, avait dit que non. La réponse des frères Russo ? « Vous allez devoir voir le film. »",
+   "lien": "https://www.numerama.com/pop-culture/2384189-marvel-se-moque-t-il-de-nous-avec-la-vraie-identite-de-dr-doom-dans-avengers-doomsday.html"
+  },
+  {
+   "id": 2,
+   "source": "Numerama",
+   "titre": "Vous allez pouvoir reproduire l’éclairage de Vice City chez vous avec ce pack Philips Hue à prix cassé pour le Black Friday",
+   "resume": "[Deal du jour] Pendant le Black Friday, Boulanger fait passer le pack Philips Hue Entertainment 2027 de 299,99 € à 169,99 €. Ce kit synchronise des lampes connectées Hue avec ce qui s'affiche sur votre téléviseur.",
+   "lien": "https://www.numerama.com/tech/2384201-vous-allez-pouvoir-reproduire-leclairage-de-vice-city-chez-vous-avec-ce-pack-philips-hue-a-prix-casse-pour-le-black-friday.html"
+  },
+  {
+   "id": 3,
+   "source": "Numerama",
+   "titre": "Sièges chauffants par abonnement : New York interdit de faire payer des options déjà installées d’usine",
+   "resume": "La gouverneure de l'État de New York, Kathy Hochul, a signé une loi qui interdit aux constructeurs automobiles de facturer un abonnement pour activer un équipement déjà installé dans la voiture. Le texte entre en vigueur le 27 février 2027.",
+   "lien": "https://www.numerama.com/vroom/2384193-sieges-chauffants-par-abonnement-new-york-interdit-de-faire-payer-des-options-deja-installees-dusine.html"
+  },
+  {
+   "id": 4,
+   "source": "Numerama",
+   "titre": "Qu’est devenu l’astéroïde percuté par la Nasa ? L’ESA montre les premières images de la mission Hera en direct ce soir",
+   "resume": "L'ESA s'apprête à révéler en direct les premières images rapprochées de Dimorphos, prises par sa sonde Hera. Cet astéroïde est le premier objet du système solaire dont l'humanité a modifié l'orbite, en le percutant avec la sonde DART de la Nasa en 2022.",
+   "lien": "https://www.numerama.com/sciences/2384195-quest-devenu-lasteroide-percute-par-la-nasa-lesa-montre-les-premieres-images-de-la-mission-hera-en-direct-ce-soir.html"
+  },
+  {
+   "id": 5,
+   "source": "Numerama",
+   "titre": "Ils sont les seuls à voir les IA les plus puissantes, et ils ont peur : chez OpenAI et Anthropic, les salariés tirent la sonnette d’alarme",
+   "resume": "Ils sont les seuls à avoir accès aux IA les plus puissantes du moment, et ils s'inquiètent. Selon une enquête d'Axios, de nombreux employés d'OpenAI et d'Anthropic doutent que leurs modèles internes puissent un jour être proposés au public sans risque. Une alerte qui intervient après une année de démissions fracassantes et de licenciements contestés.",
+   "lien": "https://www.numerama.com/tech/2384181-ils-sont-les-seuls-a-voir-les-ia-les-plus-puissantes-et-ils-ont-peur-chez-openai-et-anthropic-les-salaries-tirent-la-sonnette-dalarme.html"
+  },
+  {
+   "id": 6,
+   "source": "Numerama",
+   "titre": "C’est quoi cette explosion qui panique les USA et les réseaux sociaux ?",
+   "resume": "À la veille de Thanksgiving, l’armée américaine va faire sauter 5 tonnes d’explosifs instables dans l’Iowa malgré les recours en justice et la crainte d’un nuage toxique chargé de plomb. Une opération à haut risque, qui a fait paniquer l'Iowa et les États voisins.",
+   "lien": "https://www.numerama.com/tech/2384153-usa-cest-quoi-cette-explosion-qui-panique-liowa-et-les-reseaux-sociaux.html"
+  },
+  {
+   "id": 7,
+   "source": "Numerama",
+   "titre": "Claude franchit un nouveau cap et permet désormais de créer des applications maison pour Mac et Windows, toujours sans coder",
+   "resume": "Anthropic a lancé le 24 novembre 2026 une bêta qui permet d'installer les artefacts créés dans Claude comme de vrais logiciels. Ils peuvent maintenant sortir de la conversation et, si on les y autorise, agir directement sur l'ordinateur.",
+   "lien": "https://www.numerama.com/tech/2384157-claude-franchit-un-nouveau-cap-et-permet-desormais-de-creer-des-applications-maison-pour-mac-et-windows-toujours-sans-coder.html"
+  },
+  {
+   "id": 8,
+   "source": "Numerama",
+   "titre": "The Witcher 4 sera le GTA 6 de CD Projekt Red, promet le studio",
+   "resume": "Après onze ans d'attente, The Witcher 4 entend marquer une rupture aussi importante avec son prédécesseur que celle entre GTA 5 et GTA 6. CD Projekt Red promet un bond en avant spectaculaire pour le prochain épisode de sa saga, attendu en 2028.",
+   "lien": "https://www.numerama.com/pop-culture/2384143-the-witcher-4-sera-le-gta-6-de-cd-projekt-red-promet-le-studio.html"
+  },
+  {
+   "id": 9,
+   "source": "Numerama",
+   "titre": "À J-2 du Black Friday, on a trié les offres d’Amazon, de la Fnac et de Boulanger pour vous (EN DIRECT)",
+   "resume": "J-2 avant le Black Friday 2026 : Amazon, la Fnac, Boulanger et Cdiscount multiplient les baisses de prix pendant la Black Friday Week. Nous trions en direct les meilleures offres tech, gaming et loisir.",
+   "lien": "https://www.numerama.com/tech/2382555-black-friday-2026-les-meilleures-offres-en-direct-ce-mercredi-25-novembre.html"
+  },
+  {
+   "id": 10,
+   "source": "Numerama",
+   "titre": "Un homme, un bouton rouge : si Ariane 6 dérape, c’est lui seul qui décide si la fusée explose ou non",
+   "resume": "Si la fusée Ariane 6 dévie de sa trajectoire, un seul ingénieur du CNES a le droit d'appuyer sur le bouton rouge qui la fait exploser en vol. Thierry Vallée, responsable de la sauvegarde au Centre spatial guyanais, a détaillé auprès de Numerama toute la chaîne de décision, des semaines de calculs jusqu'à l'ordre radio final.",
+   "lien": "https://www.numerama.com/sciences/2383871-un-homme-un-bouton-rouge-si-ariane-6-derape-cest-lui-seul-qui-decide-si-la-fusee-explose-ou-non.html"
+  },
+  {
+   "id": 11,
+   "source": "Numerama",
+   "titre": "Sony a menti sur la version PS5 de GTA 6",
+   "resume": "Pendant toute la campagne marketing de GTA 6, Sony, partenaire de Rockstar Games, a martelé que la PS5 offrait la meilleure version. L'analyse de Digital Foundry montre pourtant que GTA 6 tourne mieux sur Xbox Series X que sur PS5 standard.",
+   "lien": "https://www.numerama.com/pop-culture/2384141-sony-a-menti-sur-la-version-ps5-de-gta-6.html"
+  },
+  {
+   "id": 12,
+   "source": "Numerama",
+   "titre": "La saison 3 des Anneaux de pouvoir se termine par une excellente nouvelle",
+   "resume": "Amazon MGM Studios a confirmé qu'il y aura bien une quatrième saison pour Le Seigneur des anneaux : Les Anneaux de pouvoir. La saison 3 vient tout juste de se terminer.",
+   "lien": "https://www.numerama.com/pop-culture/2384133-la-saison-3-des-anneaux-de-pouvoir-se-termine-par-une-excellente-nouvelle.html"
+  },
+  {
+   "id": 13,
+   "source": "01net",
+   "titre": "Apple iMac M4 : pour une fois, il perd -120€ sur sa note et c’est grâce au Black Friday 💥",
+   "resume": "L'Apple iMac M4 est un ordinateur de bureau tout-en-un, il intègre directement ses composants dans son écran pour vous éviter d'avoir à utiliser une tour en plus. Puissant avec sa puce haut de gamme, il est aussi performant qu'esthétique. Surtout, il bénéficie d'une réduction ultra rare sur Amazon parce que Black Friday est en cours.",
+   "lien": "https://www.01net.com/bons-plans/apple-imac-m4-pour-une-fois-il-perd-120e-sur-sa-note-et-cest-grace-au-black-friday.html"
+  },
+  {
+   "id": 14,
+   "source": "01net",
+   "titre": "Wero déboule sur Steam : comment l’activer, quelles banques compatibles, comment ça marche ?",
+   "resume": "Longtemps cantonné aux petits remboursements de dîners entre amis, Wero passe à la vitesse supérieure. La solution de paiement des banques européennes fait désormais son apparition sur Steam en France, offrant une alternative aux cartes et à PayPal, mais via un intermédiaire qui vient nuancer l’étiquette souveraine.",
+   "lien": "https://www.01net.com/actualites/wero-steam-france.html"
+  },
+  {
+   "id": 15,
+   "source": "01net",
+   "titre": "GTA 6 tourne-t-il mieux sur PS5 ou Xbox Series X ? On connait enfin la réponse",
+   "resume": "Malgré l'accord marketing signé par Sony autour de GTA 6, le blockbuster de Take-Two tourne mieux sur Xbox Series X que sur la PS5 classique. Les experts de Digital Foundry révèlent en effet que la console de Microsoft offre une meilleure fluidité et souffre nettement moins de chutes de framerate.",
+   "lien": "https://www.01net.com/actualites/gta-6-tourne-mieux-sur-ps5-ou-xbox-series-x-on-connait-enfin-reponse.html"
+  },
+  {
+   "id": 16,
+   "source": "01net",
+   "titre": "« J’ai commis de graves erreurs » : de retour chez Nvidia, Jensen Huang fait une première annonce",
+   "resume": "Ce mardi 24 novembre, le patron de Nvidia Jensen Huang, de retour à la tête de l'entreprise, a présenté ses excuses à l'ensemble de ses employés pour avoir enfreint le code de conduite. Il a précisé suivre quotidiennement une thérapie.",
+   "lien": "https://www.01net.com/actualites/jai-commis-de-graves-erreurs-de-retour-chez-nvidia-jensen-huang-fait-une-premiere-annonce.html"
+  },
+  {
+   "id": 17,
+   "source": "01net",
+   "titre": "Google Messages pourrait adopter une des meilleures fonctions d’iMessage",
+   "resume": "Google Messages pourrait bientôt faciliter la lecture des conversations à plusieurs grâce à l'arrivée de réponses sous forme de fil de discussion. L’application de Google s’inspirerait ainsi du fonctionnement d'iMessage sur iPhone.",
+   "lien": "https://www.01net.com/actualites/google-messages-pourrait-adopter-une-des-meilleures-fonctions-dimessage.html"
+  },
+  {
+   "id": 18,
+   "source": "01net",
+   "titre": "29 millions de morceaux supprimés : Tidal bannit la musique générée par IA",
+   "resume": "Tidal croule sous la musique générée par intelligence artificielle. Face à ce fléau, la plate-forme de musique en streaming vient d’annoncer un bannissement total des morceaux générés par IA.",
+   "lien": "https://www.01net.com/actualites/29-millions-de-morceaux-supprimes-tidal-bannit-la-musique-generee-par-ia.html"
+  },
+  {
+   "id": 19,
+   "source": "01net",
+   "titre": "Black Friday : cette batterie MagSafe UGREEN de 10 000 mAh est vendue pour des cacahuètes 🥜",
+   "resume": "Si vous êtes souvent en rade de batterie sur votre smartphone, le bon plan qui suit devrait vous plaire.",
+   "lien": "https://www.01net.com/bons-plans/black-friday-cette-batterie-magsafe-ugreen-de-10-000-mah-est-vendue-pour-des-cacahuetes.html"
+  },
+  {
+   "id": 20,
+   "source": "01net",
+   "titre": "À cause de GTA 6, la PS5 est en rupture de stock un peu partout",
+   "resume": "Alors que « GTA VI » est sorti depuis près d'une semaine, Sony se frotte les mains : ses PlayStation 5 se vendent très bien, à tel point qu'on constate des ruptures de stocks un peu partout dans le monde. Évidemment, la France n'est pas épargnée.",
+   "lien": "https://www.01net.com/actualites/a-cause-de-gta-6-la-ps5-est-en-rupture-de-stock-un-peu-partout.html"
+  },
+  {
+   "id": 21,
+   "source": "01net",
+   "titre": "Du jamais-vu depuis 2013 : voici Ladybird, le navigateur qui ne dépend pas de Google, Apple ou Mozilla",
+   "resume": "Ladybird publie sa première alpha pour macOS et Linux, avec un moteur de rendu écrit de zéro. Du jamais-vu depuis 2013 sur un web verrouillé par trois moteurs, tous financés de près ou de loin par la publicité.",
+   "lien": "https://www.01net.com/actualites/du-jamais-vu-depuis-2013-voici-ladybird-le-navigateur-qui-ne-depend-pas-de-google-apple-ou-mozilla.html"
+  },
+  {
+   "id": 22,
+   "source": "ZDNet",
+   "titre": "Réunions : le coût caché de l’inefficacité",
+   "resume": "22 jours de travail par salarié évaporés chaque année en réunions qui n'aboutissent à rien. En France, les mauvaises réunions coûtent plus de 90 millions d'euros par an à une grande entreprise selon une étude Jabra. La réunionite, ce mal endémique de l’entreprise n’est pas la seule en cause. Décryptage avec Maud Brissaud, Directrice Commerciale France de l'équipementier.",
+   "lien": "https://www.zdnet.fr/actualites/reunions-le-cout-cache-de-linefficacite-507584.htm#xtor=RSS-1"
+  },
+  {
+   "id": 23,
+   "source": "ZDNet",
+   "titre": "ZDNET Morning 25/11/2026 : Souveraineté cyber en France et achats IT, Google met l'utilisateur dans les programmes TV, Le capital de Nvidia",
+   "resume": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+   "lien": "https://www.zdnet.fr/actualites/zdnet-morning-25-11-2026-souverainete-cyber-en-france-et-achats-it-google-met-lutilisateur-dans-les-programmes-tv-le-capital-de-nvidia-508596.htm#xtor=RSS-1"
+  },
+  {
+   "id": 24,
+   "source": "ZDNet",
+   "titre": "Souveraineté numérique cyber : peut-être une priorité, mais pas encore une réalité",
+   "resume": "Le CESIN et le Campus Cyber se sont penchés sur la question des dépendances des entreprises sur le volet cyber. Et s'ils s'accordent à dire que le sujet est une priorité, les organisations ont encore du mal à concrétiser les discours dans leur politique d'achats.",
+   "lien": "https://www.zdnet.fr/actualites/souverainete-numerique-du-cyber-une-priorite-mais-pas-encore-une-realite-508566.htm#xtor=RSS-1"
+  },
+  {
+   "id": 25,
+   "source": "ZDNet",
+   "titre": "GoMoWorld : quel budget prévoir pour une eSIM de quelques jours hors d'Europe ?",
+   "resume": "Pour une mission de quelques jours à l’étranger, GoMoWorld propose des pass eSIM dès 3,99 €. Une solution pratique pour accéder à Internet sans changer de carte SIM.",
+   "lien": "https://www.zdnet.fr/publicite/gomoworld-quel-budget-prevoir-pour-une-esim-de-quelques-jours-hors-deurope-507800.htm#xtor=RSS-1"
+  },
+  {
+   "id": 26,
+   "source": "ZDNet",
+   "titre": "Google imagine une chaîne de télévision générée par IA, dont vous seriez le héros",
+   "resume": "Le géant américain a déposé une demande de brevet décrivant une chaîne de télévision capable de générer des contenus vidéo personnalisés, dans lesquels les utilisateurs apparaîtraient avec leur propre visage et leur propre voix.",
+   "lien": "https://www.zdnet.fr/actualites/google-imagine-une-chaine-de-television-generee-par-ia-dont-vous-seriez-le-heros-508581.htm#xtor=RSS-1"
+  },
+  {
+   "id": 27,
+   "source": "ZDNet",
+   "titre": "Jensen Huang : Trump évoque une grâce et une prise de participation des Etats-Unis dans Nvidia",
+   "resume": "Avant ses auditions au Congrès les 1er et 3 décembre, Jensen Huang reçoit le soutien de Donald Trump, qui n’exclut pas de le gracier, tandis que le ministre de la Justice ne dit pas si le patron de Nvidia fait l’objet d’une enquête.",
+   "lien": "https://www.zdnet.fr/actualites/jensen-huang-trump-evoque-une-grace-et-une-prise-de-participation-de-letat-dans-nvidia-508578.htm#xtor=RSS-1"
+  },
+  {
+   "id": 28,
+   "source": "ZDNet",
+   "titre": "ZD Tech : WhatsApp sature jusqu'à 10 Go sur Android et iPhone, comment éviter la panne",
+   "resume": "Entre photos, vidéos et mémos vocaux, l'application WhatsApp monopolise jusqu'à 10 gigaoctets de mémoire sur les smartphones professionnels. Désactiver le téléchargement automatique sur Android et iPhone permet de soulager les flottes d'entreprise et d'éviter le remplacement prématuré des appareils.",
+   "lien": "https://www.zdnet.fr/actualites/zd-tech-whatsapp-sature-jusqua-10-go-sur-android-et-iphone-comment-eviter-la-panne-508539.htm#xtor=RSS-1"
+  },
+  {
+   "id": 29,
+   "source": "Next",
+   "titre": "GrapheneOS accuse directement Google de vouloir sa disparition",
+   "resume": "GrapheneOS, un Android alternatif (basé sur AOSP) très axé sur la sécurité, a accusé Google le 19 novembre de vouloir le faire disparaitre par différents moyens détournés. L’équipe fustige l’entreprise pour un travail de « sabotage » auprès des OEM. GrapheneOS reproche surtout quatre points à Google. D’abord, une érosion de son programme de partenaires OEM en […]",
+   "lien": "https://next.ink/269832/grapheneos-accuse-directement-google-de-vouloir-sa-disparition/"
+  },
+  {
+   "id": 30,
+   "source": "Next",
+   "titre": "☕️ Le gouvernement veut précipiter le rattachement de l’IRD au CNRS pour fin mars 2027",
+   "resume": "Après avoir siphonné sa trésorerie puis imposé un plan de redressement au CNRS qui met l’organisme quasiment sous tutelle de Bercy, le gouvernement veut maintenant imposer « le rattachement » de l’IRD (Institut de recherche pour le développement) au CNRS au plus vite. Cette décision pourrait déstabiliser une grande partie de la recherche française, que […]",
+   "lien": "https://next.ink/brief-article/le-gouvernement-veut-precipiter-le-rattachement-de-lird-au-cnrs-pour-fin-mars-2027/"
+  },
+  {
+   "id": 31,
+   "source": "Next",
+   "titre": "Pop!_OS 26.04 dégaine ses Constellations et bon nombre de nouveautés",
+   "resume": "L’entreprise américaine System76 a enfin publié la version 26.04 de son système Pop!_OS. Comme son numéro de version le laisse supposer, elle est basée sur Ubuntu 26.04 LTS. C’est aussi la première fois qu’une version du système embarque l’environnement COSMIC depuis sa finalisation. Le moins que l’on puisse dire, c’est que System76 est en retard. […]",
+   "lien": "https://next.ink/269780/pop_os-26-04-degaine-ses-constellations-et-bon-nombre-de-nouveautes/"
+  },
+  {
+   "id": 32,
+   "source": "Next",
+   "titre": "☕️ Firefox 161 active son VPN site par site et simplifie l’effacement de l’historique",
+   "resume": "Mozilla tient la cadence et livre cette semaine la version 161 de Firefox, datée du 24 novembre. Après l’apparition de la mini-fenêtre dans Firefox 160, cette nouvelle mouture signe, entre autres ajouts mineurs, l’arrivée d’une fonction d’activation au cas par cas du VPN intégré depuis le mois de mars. En pratique, le VPN permet maintenant […]",
+   "lien": "https://next.ink/brief-article/firefox-161-active-son-vpn-site-par-site-et-simplifie-leffacement-de-lhistorique/"
+  },
+  {
+   "id": 33,
+   "source": "Next",
+   "titre": "Avec Shirudo, OpenAI et Cisco veulent protéger Linux en attendant les correctifs",
+   "resume": "Le 23 novembre, OpenAI et Cisco ont présenté Shirudo, un outil libre qui confie à des agents d’IA l’écriture de protections temporaires pour des serveurs Linux en production, le temps que les correctifs soient déployés. L’idée parait séduisante, mais il s’agit encore d’un prototype qui doit faire la preuve de son efficacité. Le nom « Shirudo » […]",
+   "lien": "https://next.ink/269700/avec-shirudo-openai-et-cisco-veulent-proteger-linux-en-attendant-les-correctifs/"
+  },
+  {
+   "id": 34,
+   "source": "Next",
+   "titre": "Tidal interdit les morceaux entièrement générés par IA",
+   "resume": "La plateforme de streaming Tidal, noyée comme les autres par le slop IA, prend une décision radicale : interdire la musique entièrement générée par IA. Du contenu qui ne manquera pas à grand monde, puisque personne ne l’écoute vraiment. Comme de nombreux autres services de streaming, Tidal identifie, étiquète et démonétise les chansons 100 % générées […]",
+   "lien": "https://next.ink/269736/tidal-interdit-les-morceaux-entierement-generes-par-ia/"
+  },
+  {
+   "id": 35,
+   "source": "Next",
+   "titre": "☕️ Un système de la CIA et du renseignement américain victime d’une intrusion",
+   "resume": "Un système informatique utilisé par la CIA et le Bureau du directeur du renseignement national (ODNI) a été victime d’une intrusion. Selon les sources du New York Times, une brèche de sécurité a exposé des informations non classifiées sur ces deux agences fédérales américaines, d’autres pourraient être concernées. Le système en question sert à produire […]",
+   "lien": "https://next.ink/brief-article/un-systeme-de-la-cia-et-du-renseignement-americain-victime-dune-intrusion/"
+  },
+  {
+   "id": 36,
+   "source": "Le Monde Informatique",
+   "titre": "Quantum Act : l’UE veut soutenir son industrie quantique avec un fonds souverain",
+   "resume": "La Commission européenne a présenté le 25 novembre 2026 son projet de Quantum Act, destiné à renforcer la recherche, la production et la sécurité des technologies quantiques dans l’Union européenne. Bruxelles souhaite notamment privilégier les fournisseurs européens dans certains marchés publics et faciliter le financement des entreprises du secteur. Le texte pose également les bases juridiques d’un Sovereign Tech Equity Fund, qui pourrait mobiliser jusqu’à 50 milliards d’euros selon le Financia",
+   "lien": "https://www.lemondeinformatique.fr/it-direction/quantum-act-l-ue-veut-soutenir-son-industrie-quantique-avec-un-fonds-souverain"
+  },
+  {
+   "id": 37,
+   "source": "Le Monde Informatique",
+   "titre": "Trois cofondateurs de xAI lancent Epochal, une start-up spécialisée dans l’IA prédictive",
+   "resume": "Guodong Zhang, Zihang Dai et Manuel Kroiss, trois cofondateurs de xAI, ont annoncé le 24 novembre 2026 le lancement d’Epochal, une start-up spécialisée dans les modèles d’intelligence artificielle capables d’anticiper des événements futurs. Son premier produit, Time Portal, permet aux agents IA d’accéder à une archive du Web couvrant près de trente ans, afin de s’entraîner à formuler des prévisions sans connaître à l’avance l’issue des événements étudiés.",
+   "lien": "https://www.lemondeinformatique.fr/donnees-ia/trois-cofondateurs-de-xai-lancent-epochal-une-start-up-specialisee-dans-l-ia-predictive"
+  },
+  {
+   "id": 38,
+   "source": "Le Monde Informatique",
+   "titre": "Oracle envisage jusqu’à 1 390 suppressions de postes supplémentaires en Europe",
+   "resume": "Oracle préparerait une troisième vague de suppressions de postes en Europe en douze mois. Selon une note attribuée à son comité d’entreprise européen, révélée le 24 novembre 2026, l’éditeur américain envisagerait de supprimer jusqu’à 1 390 emplois supplémentaires dans l’Espace économique européen. Cette nouvelle restructuration s’inscrirait dans la réorientation du groupe vers les infrastructures cloud et l’intelligence artificielle. Les représentants des salariés demandent des preuves concrètes",
+   "lien": "https://www.lemondeinformatique.fr/it-direction/oracle-envisage-jusqu-a-1-390-suppressions-de-postes-supplementaires-en-europe"
+  },
+  {
+   "id": 39,
+   "source": "Le Monde Informatique",
+   "titre": "SpaceX-Tesla : cinq administrateurs négocient une fusion potentielle à 3 500 milliards de dollars",
+   "resume": "SpaceX et Tesla ont désigné cinq administrateurs pour négocier les conditions d'une éventuelle fusion qui pourrait valoriser l'ensemble à 3 500 milliards de dollars. Selon le Financial Times, les deux entreprises dirigées par Elon Musk visent un accord avant la fin de l'année 2026. Les discussions portent notamment sur la répartition du capital, la gouvernance du futur groupe et les complémentarités entre leurs activités dans l'intelligence artificielle, les infrastructures spatiales et la robot",
+   "lien": "https://www.lemondeinformatique.fr/it-direction/spacex-tesla-cinq-administrateurs-negocient-une-fusion-potentielle-a-3-500-milliards-de-dollars"
+  },
+  {
+   "id": 40,
+   "source": "Le Monde Informatique",
+   "titre": "Cyberattaques dopées à l’IA : IBM appelle les entreprises à anticiper les défaillances",
+   "resume": "Face à l’accélération des cyberattaques liée à l’intelligence artificielle, les entreprises doivent revoir leurs stratégies de cybersécurité. Pour Mark Hughes, responsable mondial des services de cybersécurité d’IBM Consulting, les attaquants exploitent désormais les vulnérabilités à une vitesse que les équipes de défense peinent à suivre. Dans un entretien accordé à The Next Web le 24 novembre 2026, le dirigeant appelle les organisations à se préparer aux défaillances de leurs systèmes plutôt q",
+   "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-dopees-a-l-ia-ibm-appelle-les-entreprises-a-anticiper-les-defaillances"
+  },
+  {
+   "id": 41,
+   "source": "Le Monde Informatique",
+   "titre": "Microsoft déclenche un « Code Red » après une panne majeure de Microsoft 365",
+   "resume": "Microsoft a déclenché une procédure d’urgence baptisée « Code Red » après la panne mondiale qui a affecté Exchange Online, Outlook, Teams et Copilot les 12 et 13 novembre 2026. Selon des notes internes consultées par Reuters, le groupe entend revoir ses méthodes de gestion des incidents et ramener à moins d’une heure le délai de résolution des futures interruptions majeures de ses services cloud.",
+   "lien": "https://www.lemondeinformatique.fr/applications-developpement/microsoft-declenche-un-code-red-apres-une-panne-majeure-de-microsoft-365"
+  },
+  {
+   "id": 42,
+   "source": "Le Monde Informatique",
+   "titre": "Cyberattaque contre Ipsos : le groupe Qilin revendique un vol de données sensibles",
+   "resume": "Le groupe de cybercriminels Qilin revendique une attaque contre Ipsos et affirme détenir des documents commerciaux appartenant au spécialiste français des études de marché. Plusieurs extraits de fichiers, qui mentionneraient notamment Roblox, KPMG et Ferrero, ont été publiés sur son site de divulgation. Ipsos avait reconnu, quelques jours auparavant, une intrusion dans l’un de ses systèmes informatiques internes, sans constater de perturbation de ses activités. L’ampleur de l’éventuelle fuite de",
+   "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-ipsos-le-groupe-qilin-revendique-un-vol-de-donnees-sensibles"
+  },
+  {
+   "id": 43,
+   "source": "Le Monde Informatique",
+   "titre": "Collectivités territoriales : la cybersécurité passe par la mutualisation des moyens",
+   "resume": "Les petites communes peinent encore à disposer des compétences et des ressources nécessaires pour protéger leurs systèmes d'information. Devant une commission du Sénat, l'ANSSI et le GIP ACYMA ont plaidé pour un accompagnement de proximité et une meilleure mise en commun des moyens.",
+   "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/collectivites-territoriales-la-cybersecurite-passe-par-la-mutualisation-des-moyens"
+  },
+  {
+   "id": 44,
+   "source": "Le Monde Informatique",
+   "titre": "Anthropic lance Claude Ship pour automatiser la revue et la validation du code",
+   "resume": "Anthropic a dévoilé le 23 novembre 2026 Claude Ship, une suite d’agents d’intelligence artificielle destinée à automatiser la revue, la correction et l’approbation des modifications de code sur GitHub. Disponible en version bêta pour les entreprises abonnées aux offres Claude Team et Enterprise, cette solution vise à accélérer les cycles de développement logiciel tout en laissant aux équipes la maîtrise des règles de validation et des interventions humaines.",
+   "lien": "https://www.lemondeinformatique.fr/donnees-ia/anthropic-lance-claude-ship-pour-automatiser-la-revue-et-la-validation-du-code"
+  },
+  {
+   "id": 45,
+   "source": "ZATAZ",
+   "titre": "Faux jeu Ducros sur TikTok, le piège du coffret de Noël",
+   "resume": "ZATAZ retrace le faux jeu Ducros sur TikTok, du coffret d’épices de Noël au formulaire de carte bancaire.",
+   "lien": "https://www.zataz.com/faux-jeu-ducros-sur-tiktok-le-piege-du-coffret-de-noel/"
+  },
+  {
+   "id": 46,
+   "source": "ZATAZ",
+   "titre": "CHU de Bordeaux et SIG Sauer ciblés par ScarlettGroup",
+   "resume": "Le CHU de Bordeaux confirme une intrusion. ScarlettGroup menace de publier des données et revendique aussi SIG Sauer.",
+   "lien": "https://www.zataz.com/chu-de-bordeaux-et-sig-sauer-cibles-par-scarlettgroup/"
+  },
+  {
+   "id": 47,
+   "source": "Developpez.com",
+   "titre": "La Silicon Valley victime d'un « effondrement du modèle » : les dirigeants raisonnent en vase clos et valident mutuellement leurs idées controversées sur l'IA. « Ils semblent déconnectés de la réalité",
+   "resume": "La Silicon Valley victime d'un « effondrement du modèle » : les dirigeants raisonnent en vase clos et valident mutuellement leurs idées controversées sur l'IA « Ils semblent déconnectés de la réalité » Les patrons de la Silicon Valley semblent enfermés dans une bulle idéologique circulaire qui fausse leur perception de la réalité. Alors même qu'ils mettent en garde contre les risques existentiels liés à l'IA, ils continuent de financer et d'accélérer son développement avec une audace presque hyp",
+   "lien": "https://intelligence-artificielle.developpez.com/actu/389451/La-Silicon-Valley-victime-d-un-effondrement-du-modele-les-dirigeants-raisonnent-en-vase-clos-et-valident-mutuellement-leurs-idees-controversees-sur-l-IA-Ils-semblent-deconnectes-de-la-realite/"
+  },
+  {
+   "id": 48,
+   "source": "BleepingComputer",
+   "titre": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+   "resume": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/"
+  },
+  {
+   "id": 49,
+   "source": "BleepingComputer",
+   "titre": "Microsoft confirms authentication issues after November updates",
+   "resume": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/"
+  },
+  {
+   "id": 50,
+   "source": "BleepingComputer",
+   "titre": "Hackers reportedly breached CIA intelligence analysis system",
+   "resume": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/"
+  }
+ ]
+}
