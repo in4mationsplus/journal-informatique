@@ -41,7 +41,7 @@ VOIX = os.environ.get("JOURNAL_VOIX", "fr-FR-DeniseNeural")
 # Un essai sur une phrase répétée donnait 142 : ne pas se fier aux textes factices.
 MOTS_VISES = 2300
 FENETRE_HEURES = 30          # un peu plus de 24 h, pour ne rien perdre si l'heure varie
-EPISODES_GARDES = 14
+EPISODES_GARDES = 21
 
 # BleepingComputer renvoie 403 à un client sans en-tête de navigateur.
 AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
