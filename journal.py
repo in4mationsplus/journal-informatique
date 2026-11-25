@@ -66,7 +66,8 @@ SOURCES = {
 RUBRIQUES = ["Sécurité", "IA", "Développement", "Cloud et infrastructure",
              "Business et régulation"]
 
-LIBELLES = {"matin": "édition du matin", "midi": "édition de midi"}
+LIBELLES = {"matin": "édition du matin", "midi": "édition de midi",
+            "soir": "édition du soir"}
 
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
         "août", "septembre", "octobre", "novembre", "décembre"]
@@ -163,12 +164,13 @@ def preparer():
     TRAVAIL.mkdir(parents=True, exist_ok=True)
     (TRAVAIL / "articles.json").write_text(json.dumps({
         "date": f"{m:%Y-%m-%d}",
-        # Deux éditions : le matin pour l'aller, à midi pour l'après-midi
-        # et le retour. Celle de midi ne reprend que ce qui est paru depuis.
+        # Trois éditions : le matin pour l'aller, à midi pour l'après-midi
+        # et le retour, à 18 h pour la soirée. Chacune ne reprend que ce qui
+        # est paru depuis la précédente.
         # JOURNAL_EDITION=test : édition à la demande, qui n'écrase pas
-        # celle du matin ou de midi (même nom de fichier sinon).
+        # celle du matin, de midi ou du soir (même nom de fichier sinon).
         "edition": (f"test-{m:%H%M}" if os.environ.get("JOURNAL_EDITION") == "test"
-                    else "matin" if m.hour < 10 else "midi"),
+                    else "matin" if m.hour < 10 else "midi" if m.hour < 16 else "soir"),
         "date_texte": f"{JOURS[m.weekday()]} {m.day} {MOIS[m.month - 1]} {m.year}",
         "mots_vises": MOTS_VISES,
         "rubriques": RUBRIQUES,

@@ -1,7 +1,7 @@
 # Journal informatique
 
 Les news informatiques du jour, sans doublons, lues en français en
-15 minutes au plus. Deux éditions : le matin et à midi.
+15 minutes au plus. Trois éditions : le matin, à midi et à 18 h.
 
 - `journal.py preparer` : flux RSS → `travail/articles.json` (GitHub Actions)
 - tâche programmée Claude Code : suit `CONSIGNES.md` → `travail/redaction.json`

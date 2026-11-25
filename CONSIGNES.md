@@ -8,9 +8,9 @@ pendant son trajet de 15 minutes. Il sera lu par une synthèse vocale :
 
 `travail/articles.json`, écrit ce matin par GitHub Actions :
 - `date_texte` : la date à annoncer ;
-- `edition` : `matin`, `midi`, ou `test-HHMM` pour un essai à la demande
-  (traite-le comme une édition de midi : seulement ce qui est nouveau) ;
-- `mots_vises` : la longueur totale visée — un **maximum** : à midi, s'il y
+- `edition` : `matin`, `midi`, `soir`, ou `test-HHMM` pour un essai à la
+  demande (traite-le comme une édition de midi : seulement ce qui est nouveau) ;
+- `mots_vises` : la longueur totale visée — un **maximum** : à midi et le soir, s'il y
   a peu de vraies nouveautés, fais plus court plutôt que de délayer ;
 - `rubriques` : les rubriques autorisées, dans l'ordre d'écoute ;
 - `sujets_deja_racontes` : les sujets des jours précédents ;
@@ -39,8 +39,8 @@ arrête-toi sans rien modifier.
    Pas d'URL, pas de numéro de CVE sauf s'il est célèbre, pas de liste à
    puces ni de Markdown, pas de sigle obscur sans l'expliquer une fois.
    N'invente rien qui ne soit pas dans les articles.
-7. Introduction : une ou deux phrases avec la date, l'édition (matin ou
-   midi) et les grands titres.
+7. Introduction : une ou deux phrases avec la date, l'édition (matin, midi
+   ou soir) et les grands titres.
    Conclusion : une phrase. N'annonce pas les rubriques : le programme
    ajoute lui-même « Rubrique sécurité. », etc.
 
