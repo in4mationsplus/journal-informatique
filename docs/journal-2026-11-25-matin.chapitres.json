@@ -1,0 +1,94 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Introduction"
+  },
+  {
+   "startTime": 18.34,
+   "title": "Chrome : une faille critique corrigée",
+   "url": "https://www.01net.com/actualites/96-sur-10-google-corrige-lune-des-failles-chrome-les-plus-graves-de-lannee.html"
+  },
+  {
+   "startTime": 57.82,
+   "title": "Check Point : des serveurs de gestion compromis",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/"
+  },
+  {
+   "startTime": 92.69,
+   "title": "Rackspace ferme sa plateforme Spot après une intrusion",
+   "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"
+  },
+  {
+   "startTime": 124.18,
+   "title": "Radware : des clés d'accès cloud de clients exposées",
+   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+  },
+  {
+   "startTime": 158.02,
+   "title": "Piratage de la base de données criminelles du FBI",
+   "url": "https://www.01net.com/actualites/mandats-darret-personnes-disparues-casiers-des-hackers-ont-pirate-la-base-de-donnees-du-fbi.html"
+  },
+  {
+   "startTime": 192.96,
+   "title": "Shirudo : OpenAI et Cisco protègent Linux en attendant les correctifs",
+   "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/"
+  },
+  {
+   "startTime": 226.61,
+   "title": "Signal veut empêcher les agents IA de lire vos messages",
+   "url": "https://next.ink/269751/signal-veut-empecher-les-agents-ia-de-lire-les-messages/"
+  },
+  {
+   "startTime": 264.34,
+   "title": "GLM-5.4 : un nouveau modèle chinois pour le code",
+   "url": "https://next.ink/269432/glm-5-4-avec-loop-transformer-z-ai-propose-un-modele-pour-le-code-plus-generaliste/"
+  },
+  {
+   "startTime": 301.56,
+   "title": "Inkling 2 Mini : un modèle en boucle qui tourne sur un portable",
+   "url": "https://intelligence-artificielle.developpez.com/actu/389400/Thinking-Machines-devoile-Inkling-2-Mini-un-modele-d-IA-en-boucle-qui-s-execute-localement-sur-un-ordinateur-portable-6-fois-moins-cher-et-4-fois-plus-rapide-par-tache-que-Qwen3-8-27B/"
+  },
+  {
+   "startTime": 332.5,
+   "title": "Firefox 161 : un VPN par site et Firefox sur le tableau de bord",
+   "url": "https://www.01net.com/actualites/firefox-161-introduit-4-nouveautes-qui-vont-transformer-votre-navigation.html"
+  },
+  {
+   "startTime": 366.89,
+   "title": "Visual Studio Code 1.147 : programmer ses demandes aux agents",
+   "url": "https://visualstudio.developpez.com/actu/389441/Microsoft-annonce-Visual-Studio-Code-1-147-avec-la-fonctionnalite-Envoyer-plus-tard-pour-programmer-les-demandes-aux-agents-IA-locaux-pour-plus-tard/"
+  },
+  {
+   "startTime": 399.77,
+   "title": "Centres de données IA : le courant continu à 800 volts s'impose",
+   "url": "https://www.zdnet.fr/actualites/data-centers-ia-pourquoi-et-comment-lindustrie-prepare-sa-grande-bascule-vers-le-800-vdc-508520.htm#xtor=RSS-1"
+  },
+  {
+   "startTime": 441.79,
+   "title": "Panne mondiale de Microsoft : le rapport final",
+   "url": "https://next.ink/269535/panne-microsoft-plus-precis-le-rapport-final-nie-toute-cyberattaque-ou-usage-de-lia/"
+  },
+  {
+   "startTime": 477.24,
+   "title": "Nvidia : Jensen Huang revient sous la pression de Donald Trump",
+   "url": "https://www.01net.com/actualites/jensen-huang-revient-a-la-tete-de-nvidia-comment-expliquer-ce-retournement-de-situation.html"
+  },
+  {
+   "startTime": 520.06,
+   "title": "Washington met Megaspeed et une filiale d'Alibaba sur liste noire",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/puces-ia-washington-place-megaspeed-et-une-filiale-d-alibaba-sur-liste-noire"
+  },
+  {
+   "startTime": 556.78,
+   "title": "Quad9 quitte la France",
+   "url": "https://www.zdnet.fr/actualites/en-france-le-dns-alternatif-de-quad9-tire-sa-reverence-508526.htm#xtor=RSS-1"
+  },
+  {
+   "startTime": 592.27,
+   "title": "Apple et la justice britannique : l'ordonnance secrète sur le chiffrement",
+   "url": "https://securite.developpez.com/actu/389404/La-Grande-Bretagne-a-ete-contrainte-de-reconnaitre-l-existence-d-une-ordonnance-secrete-imposant-a-Apple-de-contourner-le-chiffrement-et-de-donner-acces-aux-donnees-de-ses-clients-selon-une-decision-de-justice/"
+  }
+ ]
+}
