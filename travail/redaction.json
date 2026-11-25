@@ -1,0 +1,149 @@
+{
+  "introduction": "Bonjour, voici le journal informatique du matin, mercredi 25 novembre 2026. Au programme : une faille critique corrigée dans Chrome, des serveurs Check Point compromis, le retour de Jensen Huang chez Nvidia sous pression politique, et le départ du DNS Quad9 de France.",
+  "sujets": [
+    {
+      "titre": "Chrome : une faille critique corrigée",
+      "rubrique": "Sécurité",
+      "articles": [
+        25
+      ],
+      "texte": "Google déploie une mise à jour de sécurité pour son navigateur Chrome. Elle corrige une faille critique, notée 9,6 sur 10, présentée comme l'une des plus graves de l'année pour ce navigateur. Concrètement, la faille pouvait permettre à des pirates d'exécuter du code malveillant en s'extirpant de la zone de protection du navigateur, celle qui est censée isoler chaque page web du reste de la machine. Pour un informaticien, le message est simple : vérifiez que Chrome est bien à jour sur les postes de l'entreprise, en forçant le redémarrage si nécessaire, car une faille qui sort de ce cloisonnement est particulièrement dangereuse."
+    },
+    {
+      "titre": "Check Point : des serveurs de gestion compromis",
+      "rubrique": "Sécurité",
+      "articles": [
+        117
+      ],
+      "texte": "Des pirates ont exploité plusieurs vulnérabilités pour compromettre deux douzaines de serveurs de gestion de sécurité de l'éditeur Check Point. La campagne est toujours en cours et vise vingt-deux organisations. Ces serveurs de gestion sont le poste de commande des pare-feu de l'entreprise : celui qui en prend le contrôle peut voir, et modifier, les règles qui protègent le réseau. Si vous administrez ce type d'équipement, c'est le moment de vérifier que les derniers correctifs de l'éditeur sont appliqués, de limiter l'accès aux interfaces d'administration, et de contrôler les journaux à la recherche de connexions inhabituelles."
+    },
+    {
+      "titre": "Rackspace ferme sa plateforme Spot après une intrusion",
+      "rubrique": "Sécurité",
+      "articles": [
+        111
+      ],
+      "texte": "Rackspace arrête sa plateforme de cloud Rackspace Spot à la suite d'une intrusion. Les pirates ont pu accéder à des clusters Kubernetes de clients et aux secrets qu'ils contenaient, c'est-à-dire des identifiants, des clés et des mots de passe. Les clients ont jusqu'au 8 décembre pour migrer leurs services et récupérer leurs données. Pour les équipes concernées, la priorité est double : organiser la migration dans ce délai court, et considérer que tous les secrets stockés dans ces clusters sont compromis, donc les renouveler sans attendre."
+    },
+    {
+      "titre": "Radware : des clés d'accès cloud de clients exposées",
+      "rubrique": "Sécurité",
+      "articles": [
+        114
+      ],
+      "texte": "L'éditeur de cybersécurité Radware reconnaît une fuite touchant certains de ses clients. Des attaquants ont obtenu des informations de comptes et des clés d'accès au cloud en passant par une interface de gestion interne de son pare-feu applicatif web, hébergé dans le cloud, qui avait été laissée exposée sur Internet, sans protection. L'enseignement est classique mais toujours utile : une interface d'administration ne doit jamais être joignable depuis Internet sans authentification forte. Si vous utilisez ce service, renouvelez par précaution les clés d'accès cloud qui lui ont été confiées."
+    },
+    {
+      "titre": "Piratage de la base de données criminelles du FBI",
+      "rubrique": "Sécurité",
+      "articles": [
+        35
+      ],
+      "texte": "Des pirates ont réussi à s'attaquer à la base de données criminelles du FBI, appelée NCIC, que toutes les polices des États-Unis consultent chaque jour. Elle contient notamment des mandats d'arrêt, des avis de personnes disparues et des casiers judiciaires. La police fédérale américaine enquête sur ce piratage. À la surprise générale, le président Donald Trump y voit un aspect positif. Au-delà des polémiques, l'affaire rappelle qu'un fichier utilisé en permanence par un très grand nombre d'utilisateurs est une cible de choix, et que la gestion des accès y est un enjeu majeur."
+    },
+    {
+      "titre": "Shirudo : OpenAI et Cisco protègent Linux en attendant les correctifs",
+      "rubrique": "Sécurité",
+      "articles": [
+        121
+      ],
+      "texte": "OpenAI et Cisco lancent Shirudo, un outil open source pour Linux. Son principe : déployer des protections temporaires, au moment de l'exécution, pour bloquer l'exploitation d'une vulnérabilité pendant que les administrateurs préparent et déploient le correctif. Et cela sans redémarrer les services. Pour les équipes qui gèrent des parcs de serveurs, c'est une réponse à un problème quotidien : le délai, parfois long, entre la publication d'une faille et son correctif effectivement installé. À tester sur un environnement d'essai avant d'en faire un réflexe."
+    },
+    {
+      "titre": "Signal veut empêcher les agents IA de lire vos messages",
+      "rubrique": "IA",
+      "articles": [
+        68
+      ],
+      "texte": "Signal ajoute un nouveau réglage dans ses applications iOS et Android pour empêcher les agents d'intelligence artificielle de lire les messages. Le problème : ces agents sont capables de lire ce qui s'affiche à l'écran de l'utilisateur, ce qui menace la confidentialité des échanges, sur laquelle la messagerie a bâti sa réputation. Signal reconnaît toutefois qu'il ne peut pas aller aussi loin qu'il le voudrait. Pour les responsables sécurité, c'est un signal à retenir : donner à un agent IA l'accès à l'écran d'un poste, c'est lui donner accès à tout ce que l'on y lit, y compris les conversations privées ou professionnelles."
+    },
+    {
+      "titre": "GLM-5.4 : un nouveau modèle chinois pour le code",
+      "rubrique": "IA",
+      "articles": [
+        79,
+        102
+      ],
+      "texte": "Le laboratoire chinois Z.ai lance GLM-5.4, un modèle de 750 milliards de paramètres, doté de capacités de vision et d'un quota hebdomadaire de codage augmenté de 50 %. C'est son premier modèle phare fondé sur l'architecture dite Loop Transformer. Il est annoncé comme plus généraliste pour le code que GLM-5.2, sorti fin juin avec un angle cybersécurité. Certains le présentent comme le meilleur modèle de codage open source à ce jour, une affirmation à vérifier par vos propres tests. Pour les développeurs, c'est une alternative de plus aux modèles américains."
+    },
+    {
+      "titre": "Inkling 2 Mini : un modèle en boucle qui tourne sur un portable",
+      "rubrique": "IA",
+      "articles": [
+        108
+      ],
+      "texte": "Thinking Machines Lab dévoile Inkling 2 Mini, un petit modèle d'IA qui s'exécute localement sur un ordinateur portable. Il fait partie des premiers modèles à architecture en boucle mis à la disposition des chercheurs : au lieu d'ajouter des paramètres, il repasse plusieurs fois dans les mêmes couches de calcul. Selon l'annonce, il serait six fois moins cher et quatre fois plus rapide par tâche que Qwen3.8 27B. À suivre pour tous ceux qui veulent faire tourner des modèles en local, sans envoyer leurs données chez un fournisseur."
+    },
+    {
+      "titre": "Firefox 161 : un VPN par site et Firefox sur le tableau de bord",
+      "rubrique": "Développement",
+      "articles": [
+        32
+      ],
+      "texte": "Mozilla publie Firefox 161. La principale nouveauté est la possibilité de configurer un VPN site par site. La version apporte aussi la lecture audio sur Android, ajoute un bouton pour supprimer rapidement l'historique de navigation, et s'installe sur le tableau de bord de certaines voitures. Pour les équipes qui administrent des postes, le VPN par site permet d'acheminer seulement certains services par un tunnel, ce qui peut simplifier des configurations d'accès, à condition de bien en tester l'effet avant un déploiement général."
+    },
+    {
+      "titre": "Visual Studio Code 1.147 : programmer ses demandes aux agents",
+      "rubrique": "Développement",
+      "articles": [
+        98
+      ],
+      "texte": "Microsoft publie Visual Studio Code 1.147, sorti le 18 novembre. Sa nouveauté s'appelle Envoyer plus tard. Vous avez une tâche en tête mais n'êtes pas prêt à l'envoyer à un agent d'IA local ? Vous pouvez enregistrer la demande sous forme de brouillon, ou la programmer pour plus tard. Le moment venu, un routeur de modèles peut associer la tâche au modèle que vous préférez. C'est un pas de plus vers un éditeur qui sert de poste de pilotage pour des agents de programmation, et pas seulement de zone de saisie de code."
+    },
+    {
+      "titre": "Centres de données IA : le courant continu à 800 volts s'impose",
+      "rubrique": "Cloud et infrastructure",
+      "articles": [
+        48
+      ],
+      "texte": "Les serveurs d'intelligence artificielle consomment de plus en plus d'électricité et dégagent de plus en plus de chaleur. Les architectures traditionnelles en courant alternatif touchent leurs limites physiques. L'industrie prépare donc une grande bascule vers le courant continu à 800 volts, noté 800 VDC. Ce standard est poussé par Nvidia, Google, Microsoft et l'écosystème OCP, le projet de matériel ouvert pour centres de données. Son intérêt : alimenter les futurs supercalculateurs sans gaspiller de précieux mégawatts. Pour les exploitants, cela annonce de profonds changements dans la conception des salles et des baies."
+    },
+    {
+      "titre": "Panne mondiale de Microsoft : le rapport final",
+      "rubrique": "Cloud et infrastructure",
+      "articles": [
+        75
+      ],
+      "texte": "Microsoft a publié le rapport final sur sa panne mondiale, après un rapport préliminaire le 15 novembre. Le document, plus précis, écarte toute cyberattaque et tout rôle de l'intelligence artificielle. Il répond aussi à des questions restées en suspens, en particulier l'absence apparente de cloisonnement entre les régions. Selon le commentaire de Microsoft, tout a malheureusement fonctionné comme prévu. Pour les architectes, la leçon est claire : répartir ses services sur plusieurs régions d'un même fournisseur ne protège pas forcément d'une panne qui se propage d'une région à l'autre."
+    },
+    {
+      "titre": "Nvidia : Jensen Huang revient sous la pression de Donald Trump",
+      "rubrique": "Business et régulation",
+      "articles": [
+        44,
+        64,
+        67,
+        106,
+        107
+      ],
+      "texte": "Nouveau développement dans l'affaire Nvidia. Jensen Huang a retrouvé son poste de directeur général, onze jours après sa démission. Il est revenu le 23 novembre au siège de Santa Clara, où il a été ovationné, et affirme qu'il sera un meilleur patron. Le conseil d'administration avait pourtant exclu ce retour quelques jours plus tôt, avant de changer d'avis sous la pression de Donald Trump. Selon des sources, le président et son vice-président JD Vance se seraient impliqués après avoir été convaincus qu'il était le seul à défendre les modèles à poids ouverts. Jensen Huang témoignera devant le Sénat américain le 3 décembre sur le contrôle des exportations de puces."
+    },
+    {
+      "titre": "Washington met Megaspeed et une filiale d'Alibaba sur liste noire",
+      "rubrique": "Business et régulation",
+      "articles": [
+        94
+      ],
+      "texte": "Le département américain du Commerce a inscrit sur sa liste noire commerciale, le 23 novembre, Megaspeed, partenaire cloud de Nvidia basé à Singapour, ainsi qu'Apex Enterprise Solutions, filiale d'Alibaba. Plusieurs sociétés liées à Megaspeed sont également visées. La décision s'inscrit dans une enquête sur de possibles transferts de puces d'intelligence artificielle vers la Chine, en violation des restrictions américaines à l'exportation. Pour les entreprises qui achètent de la puissance de calcul auprès de fournisseurs intermédiaires, c'est un rappel de l'importance de connaître la chaîne de fournisseurs."
+    },
+    {
+      "titre": "Quad9 quitte la France",
+      "rubrique": "Business et régulation",
+      "articles": [
+        49,
+        72,
+        73
+      ],
+      "texte": "Le service de DNS alternatif Quad9, c'est-à-dire un résolveur qui traduit les noms de sites en adresses, a coupé hier l'accès à ses services pour les utilisateurs situés en France. La fondation basée en Suisse refuse de se plier à une décision de justice qui lui demandait de bloquer des sites diffusant des contenus piratés. Toute requête envoyée à ses adresses depuis la France est désormais refusée, et aucune résolution n'aboutit. Les administrateurs concernés doivent changer de résolveur, ou installer le leur : un tutoriel publié par Next explique comment le faire avec le logiciel unbound."
+    },
+    {
+      "titre": "Apple et la justice britannique : l'ordonnance secrète sur le chiffrement",
+      "rubrique": "Business et régulation",
+      "articles": [
+        105
+      ],
+      "texte": "Un tribunal britannique confirme l'existence d'une ordonnance gouvernementale secrète qui impose à Apple de contourner le chiffrement et de donner accès aux données de ses clients. Le gouvernement a rejeté l'argument selon lequel révéler l'existence de cette ordonnance porterait atteinte à la sécurité nationale. La Grande-Bretagne a donc été contrainte de reconnaître cette demande. Pour les professionnels, l'affaire montre que la protection des données chiffrées reste un sujet de bras de fer entre les États et les fabricants, et que les promesses de confidentialité faites aux clients peuvent se heurter à des décisions de justice tenues secrètes."
+    }
+  ],
+  "conclusion": "C'était le journal du matin, bonne route et à ce midi."
+}
