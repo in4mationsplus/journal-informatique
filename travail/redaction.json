@@ -1,0 +1,136 @@
+{
+ "introduction": "Bonjour, voici le journal informatique du mercredi 25 novembre 2026, édition de midi. Au programme : une faille Drupal exploitée, des problèmes d'authentification après les mises à jour de Microsoft, une intrusion à la CIA, les applications maison de Claude et le Quantum Act européen.",
+ "sujets": [
+  {
+   "titre": "Drupal : une faille critique exploitée",
+   "rubrique": "Sécurité",
+   "articles": [
+    48
+   ],
+   "texte": "L'équipe de sécurité de Drupal confirme qu'une vulnérabilité critique est activement exploitée depuis au moins jeudi dernier. Elle permet à un attaquant d'exécuter du code à distance et de prendre le contrôle des sites qui n'ont pas été corrigés. Autrement dit, tout site Drupal non mis à jour est exposé à un détournement pur et simple. Pour un informaticien qui administre un site ou un portail sous ce gestionnaire de contenu, le message est simple : vérifier la version installée, appliquer le correctif sans attendre, et examiner les journaux à la recherche de traces d'intrusion depuis jeudi, puisque l'exploitation a commencé avant l'annonce."
+  },
+  {
+   "titre": "Microsoft : des problèmes d'authentification après les mises à jour de novembre",
+   "rubrique": "Sécurité",
+   "articles": [
+    49
+   ],
+   "texte": "Microsoft reconnaît que certains clients peuvent rencontrer des problèmes d'authentification après avoir installé les mises à jour de sécurité de novembre. Ces correctifs traitent une vulnérabilité d'exécution de code à distance jugée de forte gravité. Le dilemme est classique pour les administrateurs : retarder l'installation laisse la faille ouverte, alors que l'installer sans précaution peut empêcher des utilisateurs ou des services de se connecter. Il est donc prudent de tester ces mises à jour sur un groupe pilote, de surveiller les échecs de connexion, et de suivre les consignes que Microsoft publie pour contourner le problème."
+  },
+  {
+   "titre": "Intrusion dans un système d'analyse de la CIA",
+   "rubrique": "Sécurité",
+   "articles": [
+    35,
+    50
+   ],
+   "texte": "Un système informatique utilisé par la CIA et par le Bureau du directeur du renseignement national américain a subi une intrusion, selon des sources du New York Times. Il s'agit d'un système d'analyse du renseignement à partir de sources ouvertes. La brèche a exposé des informations non classifiées concernant ces deux agences, et d'autres organismes fédéraux pourraient être touchés. Les auteurs de l'attaque restent inconnus. L'épisode rappelle que même les systèmes qui ne manipulent pas de données classifiées sont des cibles de choix, et que leur compromission peut révéler beaucoup sur les méthodes et les contacts des services concernés."
+  },
+  {
+   "titre": "Ipsos : le groupe Qilin revendique un vol de données",
+   "rubrique": "Sécurité",
+   "articles": [
+    42
+   ],
+   "texte": "Le groupe de cybercriminels Qilin revendique une attaque contre Ipsos, le spécialiste français des études de marché. Il affirme détenir des documents commerciaux de l'entreprise et a publié sur son site de divulgation plusieurs extraits de fichiers, qui mentionneraient notamment Roblox, KPMG et Ferrero. Ipsos avait reconnu, quelques jours plus tôt, une intrusion dans l'un de ses systèmes informatiques. Pour les clients d'un tel prestataire, le risque est indirect mais réel : leurs données d'études, parfois confidentielles, circulent chez lui. C'est un rappel de l'importance de contrôler la sécurité de ses fournisseurs."
+  },
+  {
+   "titre": "Le CHU de Bordeaux et SIG Sauer visés par ScarlettGroup",
+   "rubrique": "Sécurité",
+   "articles": [
+    46
+   ],
+   "texte": "Le CHU de Bordeaux confirme avoir subi une intrusion informatique. Le groupe ScarlettGroup menace de publier des données et revendique aussi une attaque contre SIG Sauer. Cette annonce s'ajoute aux attaques qui touchent régulièrement les établissements de santé français. Les hôpitaux restent des cibles privilégiées, car l'interruption de leurs systèmes met rapidement la pression sur les victimes et leur laisse peu de marge de négociation."
+  },
+  {
+   "titre": "GrapheneOS accuse Google de vouloir sa disparition",
+   "rubrique": "Sécurité",
+   "articles": [
+    29
+   ],
+   "texte": "GrapheneOS, un Android alternatif très axé sur la sécurité et basé sur le projet open source AOSP, accuse directement Google de vouloir le faire disparaître par des moyens détournés. L'équipe dénonce un travail de sabotage auprès des fabricants de téléphones et reproche à Google quatre points précis, à commencer par l'érosion de son programme de partenaires avec les constructeurs. Ces accusations posent une question de fond pour les professionnels qui s'appuient sur des systèmes mobiles durcis : l'écosystème Android alternatif dépend en grande partie de décisions que Google peut modifier unilatéralement."
+  },
+  {
+   "titre": "Claude permet de créer des applications pour Mac et Windows",
+   "rubrique": "IA",
+   "articles": [
+    7
+   ],
+   "texte": "Anthropic a lancé le 24 novembre une bêta qui permet d'installer les artefacts créés dans Claude comme de véritables logiciels pour Mac et Windows. Ces applications sortent de la conversation et, si l'utilisateur l'autorise, peuvent agir directement sur l'ordinateur. Le tout se fait sans écrire de code. Pour un informaticien, deux points comptent : la facilité avec laquelle des collègues non développeurs pourront produire de petits outils internes, et la question de la gouvernance, car ces applications qui agissent sur le poste de travail devront être encadrées comme n'importe quel autre logiciel."
+  },
+  {
+   "titre": "OpenAI et Anthropic : des salariés inquiets",
+   "rubrique": "IA",
+   "articles": [
+    5
+   ],
+   "texte": "Selon une enquête du site Axios, de nombreux employés d'OpenAI et d'Anthropic, qui sont les seuls à avoir accès aux modèles les plus puissants, doutent que ces modèles internes puissent un jour être proposés au public sans risque. Cette alerte intervient après une année marquée par des démissions fracassantes et des licenciements contestés. Pour ceux qui intègrent ces technologies dans leurs produits, le signal est à noter : les capacités les plus avancées ne sont pas forcément celles qui seront mises à disposition, et les éditeurs eux-mêmes hésitent sur leur sécurité."
+  },
+  {
+   "titre": "Epochal : trois cofondateurs de xAI lancent une start-up d'IA prédictive",
+   "rubrique": "IA",
+   "articles": [
+    37
+   ],
+   "texte": "Trois cofondateurs de xAI, Guodong Zhang, Zihang Dai et Manuel Kroiss, ont annoncé le 24 novembre le lancement d'Epochal. Cette start-up se spécialise dans les modèles d'intelligence artificielle capables d'anticiper des événements futurs. Son premier produit, Time Portal, donne aux agents d'IA accès à une archive du Web couvrant près de trente ans, afin de s'entraîner à formuler des prévisions. Le départ de trois fondateurs d'xAI pour créer une entreprise concurrente illustre la fluidité du marché de l'IA, où les talents fondent rapidement leur propre structure."
+  },
+  {
+   "titre": "Ladybird publie sa première version alpha",
+   "rubrique": "Développement",
+   "articles": [
+    21
+   ],
+   "texte": "Le navigateur Ladybird publie sa première version alpha pour macOS et Linux. Son moteur de rendu est écrit entièrement de zéro, ce qui n'était pas arrivé depuis 2013 sur un web verrouillé par trois moteurs, tous financés de près ou de loin par la publicité. Ladybird ne dépend donc ni de Google, ni d'Apple, ni de Mozilla. Il s'agit d'une alpha, donc encore loin d'un usage quotidien, mais pour les développeurs web, l'apparition d'un quatrième moteur indépendant est une bonne nouvelle pour la diversité du web et la vérification du respect des standards."
+  },
+  {
+   "titre": "Pop!_OS 26.04 : le bureau COSMIC arrive",
+   "rubrique": "Développement",
+   "articles": [
+    31
+   ],
+   "texte": "L'entreprise américaine System76 a enfin publié la version 26.04 de sa distribution Pop!_OS. Comme son numéro l'indique, elle repose sur Ubuntu 26.04, une version à support long. C'est aussi la première fois que la distribution embarque l'environnement de bureau COSMIC dans sa version finalisée. La sortie arrive avec un retard certain, mais elle intéresse les utilisateurs de Linux sur poste de travail, notamment les développeurs qui cherchent un environnement moderne, et elle apporte, selon Next, bon nombre de nouveautés comme les Constellations."
+  },
+  {
+   "titre": "Microsoft déclenche un « Code Red » après la panne de Microsoft 365",
+   "rubrique": "Cloud et infrastructure",
+   "articles": [
+    41
+   ],
+   "texte": "Après la panne mondiale qui a touché Exchange Online, Outlook, Teams et Copilot les 12 et 13 novembre, Microsoft a déclenché une procédure d'urgence baptisée « Code Red », selon des notes internes consultées par Reuters. Le groupe veut revoir ses méthodes de gestion des incidents et ramener à moins d'une heure le délai de résolution des futures interruptions majeures de ses services cloud. C'est un engagement ambitieux, et il rappelle aux entreprises qui dépendent de Microsoft 365 l'intérêt de prévoir des plans de continuité pour la messagerie et la collaboration."
+  },
+  {
+   "titre": "Oracle : jusqu'à 1 390 suppressions de postes en Europe",
+   "rubrique": "Cloud et infrastructure",
+   "articles": [
+    38
+   ],
+   "texte": "Oracle préparerait une troisième vague de suppressions de postes en Europe en douze mois. Selon une note attribuée à son comité d'entreprise européen, révélée le 24 novembre, l'éditeur envisagerait de supprimer jusqu'à 1 390 emplois supplémentaires dans l'Espace économique européen. Cette restructuration s'inscrirait dans la réorientation du groupe vers les infrastructures. Il s'agirait de la troisième réduction d'effectifs en Europe en un an, ce qui montre l'ampleur de la transformation en cours chez l'éditeur. Pour les clients et les équipes qui travaillent avec Oracle, c'est un signal à suivre : une telle réorganisation peut modifier les priorités de l'éditeur, ses offres et ses interlocuteurs habituels dans les mois à venir."
+  },
+  {
+   "titre": "Quantum Act : l'Union européenne veut soutenir son industrie quantique",
+   "rubrique": "Business et régulation",
+   "articles": [
+    36
+   ],
+   "texte": "La Commission européenne a présenté le 25 novembre son projet de Quantum Act, destiné à renforcer la recherche, la production et la sécurité des technologies quantiques dans l'Union. Bruxelles souhaite notamment privilégier les fournisseurs européens dans certains marchés publics et faciliter le financement des entreprises du secteur, avec un fonds souverain. Le texte pose aussi des bases juridiques pour la suite. Pour les entreprises et les administrations, cela pourrait influencer à terme leurs choix d'achat de technologies quantiques et leurs préparatifs de sécurité."
+  },
+  {
+   "titre": "SpaceX et Tesla : vers une fusion à 3 500 milliards de dollars ?",
+   "rubrique": "Business et régulation",
+   "articles": [
+    39
+   ],
+   "texte": "SpaceX et Tesla ont désigné cinq administrateurs pour négocier les conditions d'une éventuelle fusion, qui pourrait valoriser l'ensemble à 3 500 milliards de dollars. Selon le Financial Times, les deux entreprises dirigées par Elon Musk visent un accord avant la fin de l'année 2026. Les discussions portent notamment sur la répartition du capital, la gouvernance du futur groupe et les complémentarités entre les deux activités. Rien n'est encore décidé, mais l'ampleur de l'opération en ferait l'une des plus importantes de l'histoire de la technologie."
+  },
+  {
+   "titre": "Nvidia : Jensen Huang s'excuse, Trump évoque une grâce",
+   "rubrique": "Business et régulation",
+   "articles": [
+    16,
+    27
+   ],
+   "texte": "Une nouveauté dans l'affaire Nvidia. Mardi, Jensen Huang, de retour à la tête de l'entreprise, a présenté ses excuses à l'ensemble des employés pour avoir enfreint le code de conduite, en précisant qu'il suit désormais une thérapie quotidienne. Par ailleurs, avant ses auditions au Congrès les 1er et 3 décembre, il reçoit le soutien de Donald Trump, qui n'exclut pas de le gracier ni d'envisager une prise de participation des États-Unis dans Nvidia. Le ministre de la Justice, lui, ne dit pas si le patron de Nvidia fait l'objet d'une enquête."
+  }
+ ],
+ "conclusion": "C'était l'édition de midi, à ce soir pour la suite."
+}
