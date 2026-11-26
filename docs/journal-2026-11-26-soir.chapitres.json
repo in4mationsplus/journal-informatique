@@ -1,0 +1,59 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Introduction"
+  },
+  {
+   "startTime": 16.18,
+   "title": "La FIFA piratée, des données personnelles volées",
+   "url": "https://www.numerama.com/cyberguerre/2385419-infantino-peut-souffler-des-hackers-ont-pirate-la-fifa-mais-epargne-son-projet-le-plus-sensible.html"
+  },
+  {
+   "startTime": 60.82,
+   "title": "Deux logiciels espions volent les courriels Gmail et Outlook",
+   "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/"
+  },
+  {
+   "startTime": 106.34,
+   "title": "OpenAI réduit les quotas de ses abonnés après une erreur de facturation",
+   "url": "https://www.numerama.com/tech/2385489-on-a-fait-une-erreur-de-facturation-openai-corrige-le-tir-et-vos-quotas-gpt-6-2-vont-fondre-jusqua-40-plus-vite.html"
+  },
+  {
+   "startTime": 145.99,
+   "title": "Le Groupement Mousquetaires déploie l'IA avec Anthropic",
+   "url": "https://www.lemondeinformatique.fr/infrastructure-cloud/le-groupement-mousquetaires-choisi-anthropic-pour-deployer-l-ia-dans-500-points-de-vente"
+  },
+  {
+   "startTime": 180.19,
+   "title": "Nvidia : S&P menace de dégrader la note, les services de renseignement écartent la piste chinoise",
+   "url": "https://hardware.developpez.com/actu/389534/Les-renseignements-americains-n-ont-trouve-aucune-preuve-que-la-Chine-ait-orchestre-l-affaire-Jensen-Huang-ni-envoye-Alice-Huang-seduire-et-espionner-le-PDG-de-Nvidia-a-t-on-indique-au-Congres/"
+  },
+  {
+   "startTime": 225.96,
+   "title": "Des puces d'IA Nvidia inondent le marché après le durcissement des restrictions américaines",
+   "url": "https://intelligence-artificielle.developpez.com/actu/389501/Une-offre-exceptionnelle-de-puces-d-IA-Nvidia-de-pointe-inonde-le-marche-les-vendeurs-cherchant-de-nouveaux-acheteurs-apres-le-durcissement-des-restrictions-americaines-visant-les-entreprises-chinoises/"
+  },
+  {
+   "startTime": 256.97,
+   "title": "ASML : les Pays-Bas s'opposent au MATCH Act américain",
+   "url": "https://next.ink/270335/asml-en-chine-les-pays-bas-haussent-le-ton-face-a-washington/"
+  },
+  {
+   "startTime": 287.38,
+   "title": "RGPD : un registre allégé pour les entreprises de moins de mille salariés",
+   "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rgpd-le-registre-allege-pour-les-entreprises-de-moins-de-1-000-salaries"
+  },
+  {
+   "startTime": 320.57,
+   "title": "Les lunettes connectées de Meta devant la justice néerlandaise",
+   "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/les-lunettes-meta-dans-le-viseur-de-la-justice-neerlandaise"
+  },
+  {
+   "startTime": 354.94,
+   "title": "Gartner : 1 570 milliards de dollars de dépenses informatiques en Europe en 2027",
+   "url": "https://intelligence-artificielle.developpez.com/actu/389503/Les-depenses-informatiques-en-Europe-devraient-atteindre-1-570-milliards-en-2027-soit-une-hausse-de-9-9-pourcent-par-rapport-a-2026-d-apres-Gartner/"
+  }
+ ]
+}

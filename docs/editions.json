@@ -1,5 +1,147 @@
 [
  {
+  "titre": "Journal du jeudi 26 novembre 2026, édition du soir",
+  "fichier": "journal-2026-11-26-soir.mp3",
+  "date": "Thu, 26 Nov 2026 17:05:34 +0000",
+  "taille": 2345616,
+  "duree": 391,
+  "chapitres": [
+   {
+    "titre": "Introduction",
+    "rubrique": null,
+    "debut": 0.0,
+    "liens": []
+   },
+   {
+    "titre": "La FIFA piratée, des données personnelles volées",
+    "rubrique": "Sécurité",
+    "debut": 16.18,
+    "liens": [
+     {
+      "source": "Numerama",
+      "lien": "https://www.numerama.com/cyberguerre/2385419-infantino-peut-souffler-des-hackers-ont-pirate-la-fifa-mais-epargne-son-projet-le-plus-sensible.html"
+     },
+     {
+      "source": "01net",
+      "lien": "https://www.01net.com/actualites/la-fifa-a-ete-piratee-des-donnees-personnelles-et-professionnelles-ont-ete-compromises.html"
+     },
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-fifa-confirme-le-vol-de-donnees-personnelles-et-professionnelles"
+     }
+    ]
+   },
+   {
+    "titre": "Deux logiciels espions volent les courriels Gmail et Outlook",
+    "rubrique": "Sécurité",
+    "debut": 60.82,
+    "liens": [
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/"
+     },
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/"
+     }
+    ]
+   },
+   {
+    "titre": "OpenAI réduit les quotas de ses abonnés après une erreur de facturation",
+    "rubrique": "IA",
+    "debut": 106.34,
+    "liens": [
+     {
+      "source": "Numerama",
+      "lien": "https://www.numerama.com/tech/2385489-on-a-fait-une-erreur-de-facturation-openai-corrige-le-tir-et-vos-quotas-gpt-6-2-vont-fondre-jusqua-40-plus-vite.html"
+     }
+    ]
+   },
+   {
+    "titre": "Le Groupement Mousquetaires déploie l'IA avec Anthropic",
+    "rubrique": "IA",
+    "debut": 145.99,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/infrastructure-cloud/le-groupement-mousquetaires-choisi-anthropic-pour-deployer-l-ia-dans-500-points-de-vente"
+     }
+    ]
+   },
+   {
+    "titre": "Nvidia : S&P menace de dégrader la note, les services de renseignement écartent la piste chinoise",
+    "rubrique": "Business et régulation",
+    "debut": 180.19,
+    "liens": [
+     {
+      "source": "Developpez.com",
+      "lien": "https://hardware.developpez.com/actu/389534/Les-renseignements-americains-n-ont-trouve-aucune-preuve-que-la-Chine-ait-orchestre-l-affaire-Jensen-Huang-ni-envoye-Alice-Huang-seduire-et-espionner-le-PDG-de-Nvidia-a-t-on-indique-au-Congres/"
+     },
+     {
+      "source": "Developpez.com",
+      "lien": "https://hardware.developpez.com/actu/389506/S-P-Global-Ratings-l-une-des-trois-principales-agences-de-notation-envisage-d-abaisser-la-note-de-Nvidia-invoquant-des-inquietudes-liees-aux-pratiques-de-gestion-et-de-gouvernance-de-l-entreprise/"
+     }
+    ]
+   },
+   {
+    "titre": "Des puces d'IA Nvidia inondent le marché après le durcissement des restrictions américaines",
+    "rubrique": "Business et régulation",
+    "debut": 225.96,
+    "liens": [
+     {
+      "source": "Developpez.com",
+      "lien": "https://intelligence-artificielle.developpez.com/actu/389501/Une-offre-exceptionnelle-de-puces-d-IA-Nvidia-de-pointe-inonde-le-marche-les-vendeurs-cherchant-de-nouveaux-acheteurs-apres-le-durcissement-des-restrictions-americaines-visant-les-entreprises-chinoises/"
+     }
+    ]
+   },
+   {
+    "titre": "ASML : les Pays-Bas s'opposent au MATCH Act américain",
+    "rubrique": "Business et régulation",
+    "debut": 256.97,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/270335/asml-en-chine-les-pays-bas-haussent-le-ton-face-a-washington/"
+     }
+    ]
+   },
+   {
+    "titre": "RGPD : un registre allégé pour les entreprises de moins de mille salariés",
+    "rubrique": "Business et régulation",
+    "debut": 287.38,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rgpd-le-registre-allege-pour-les-entreprises-de-moins-de-1-000-salaries"
+     }
+    ]
+   },
+   {
+    "titre": "Les lunettes connectées de Meta devant la justice néerlandaise",
+    "rubrique": "Business et régulation",
+    "debut": 320.57,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/les-lunettes-meta-dans-le-viseur-de-la-justice-neerlandaise"
+     }
+    ]
+   },
+   {
+    "titre": "Gartner : 1 570 milliards de dollars de dépenses informatiques en Europe en 2027",
+    "rubrique": "Business et régulation",
+    "debut": 354.94,
+    "liens": [
+     {
+      "source": "Developpez.com",
+      "lien": "https://intelligence-artificielle.developpez.com/actu/389503/Les-depenses-informatiques-en-Europe-devraient-atteindre-1-570-milliards-en-2027-soit-une-hausse-de-9-9-pourcent-par-rapport-a-2026-d-apres-Gartner/"
+     }
+    ]
+   }
+  ],
+  "url": "https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-26-soir.mp3"
+ },
+ {
   "titre": "Journal du jeudi 26 novembre 2026, édition de midi",
   "fichier": "journal-2026-11-26-midi.mp3",
   "date": "Thu, 26 Nov 2026 11:05:26 +0000",
