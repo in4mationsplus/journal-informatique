@@ -1,0 +1,534 @@
+{
+ "date": "2026-11-26",
+ "edition": "soir",
+ "date_texte": "jeudi 26 novembre 2026",
+ "mots_vises": 2300,
+ "rubriques": [
+  "Sécurité",
+  "IA",
+  "Développement",
+  "Cloud et infrastructure",
+  "Business et régulation"
+ ],
+ "sujets_deja_racontes": [
+  "Cisco Expressway activement exploitée",
+  "Faille Azure API Management exploitée",
+  "OpenRouter exclut des fournisseurs d'IA après des fuites de secrets",
+  "Le CHU de Guadeloupe paralysé par un rançongiciel",
+  "Nissan : un outil de diagnostic compromis",
+  "Anthropic lance Claude Ship",
+  "L'IA et l'hypothèse de Riemann",
+  "Anthropic en Bourse : 1 600 milliards de dollars de valorisation",
+  "OpenAI propose des limites communes pour les modèles les plus puissants",
+  "Chez OpenAI, les agents surveillent mieux qu'ils ne codent",
+  "Amazon négocie le rachat de Decart",
+  "PowerShell 7 va s'intégrer à Windows",
+  "Pilotes graphiques AMD et NVIDIA : des écritures disque permanentes",
+  "OVHcloud vise deux milliards d'euros de chiffre d'affaires",
+  "Trump menace de taxer les datacenters construits à l'étranger",
+  "Jensen Huang redevient PDG de Nvidia",
+  "CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
+  "Bending Spoons rachète Mailchimp",
+  "Chrome : une faille critique corrigée",
+  "Check Point : des serveurs de gestion compromis",
+  "Rackspace ferme sa plateforme Spot après une intrusion",
+  "Radware : des clés d'accès cloud de clients exposées",
+  "Piratage de la base de données criminelles du FBI",
+  "Shirudo : OpenAI et Cisco protègent Linux en attendant les correctifs",
+  "Signal veut empêcher les agents IA de lire vos messages",
+  "GLM-5.4 : un nouveau modèle chinois pour le code",
+  "Inkling 2 Mini : un modèle en boucle qui tourne sur un portable",
+  "Firefox 161 : un VPN par site et Firefox sur le tableau de bord",
+  "Visual Studio Code 1.147 : programmer ses demandes aux agents",
+  "Centres de données IA : le courant continu à 800 volts s'impose",
+  "Panne mondiale de Microsoft : le rapport final",
+  "Nvidia : Jensen Huang revient sous la pression de Donald Trump",
+  "Washington met Megaspeed et une filiale d'Alibaba sur liste noire",
+  "Quad9 quitte la France",
+  "Apple et la justice britannique : l'ordonnance secrète sur le chiffrement",
+  "Drupal : une faille critique exploitée",
+  "Microsoft : des problèmes d'authentification après les mises à jour de novembre",
+  "Intrusion dans un système d'analyse de la CIA",
+  "Ipsos : le groupe Qilin revendique un vol de données",
+  "Le CHU de Bordeaux et SIG Sauer visés par ScarlettGroup",
+  "GrapheneOS accuse Google de vouloir sa disparition",
+  "Claude permet de créer des applications pour Mac et Windows",
+  "OpenAI et Anthropic : des salariés inquiets",
+  "Epochal : trois cofondateurs de xAI lancent une start-up d'IA prédictive",
+  "Ladybird publie sa première version alpha",
+  "Pop!_OS 26.04 : le bureau COSMIC arrive",
+  "Microsoft déclenche un « Code Red » après la panne de Microsoft 365",
+  "Oracle : jusqu'à 1 390 suppressions de postes en Europe",
+  "Quantum Act : l'Union européenne veut soutenir son industrie quantique",
+  "SpaceX et Tesla : vers une fusion à 3 500 milliards de dollars ?",
+  "Nvidia : Jensen Huang s'excuse, Trump évoque une grâce",
+  "Deux milliards d'identifiants exposés",
+  "Nvidia visée par une menace de rançongiciel",
+  "Une faille critique non corrigée dans des contrôleurs Danfoss",
+  "Les failles des composants tiers dans les équipements réseau",
+  "Black Friday : des attaques dopées à l'IA contre les distributeurs",
+  "L'alerte de sécurité ne vaut que si l'on agit : dette technique et IA offensive",
+  "CrowdStrike et Zscaler : un kill switch pour les agents IA",
+  "Yann LeCun contre Dario Amodei sur les modèles ouverts",
+  "Anthropic sous son prix d'introduction en Bourse",
+  "Bulle de l'IA : qui paiera si elle éclate ?",
+  "L'IA générative aggrave l'infobésité au travail",
+  "Gemini sépare historique et entraînement",
+  "Tidal bannit la musique générée par IA",
+  "Visual Studio 2026 et Qt Creator 21",
+  "OVHcloud : de l'eau chaude pour des GPU froids",
+  "ETIX investit cent millions d'euros dans ses centres de données",
+  "Les centres de données et la qualité de l'air",
+  "HPE : un trimestre en fanfare",
+  "Facture électronique : un rodage difficile",
+  "HarmonyOS dépasse 100 millions d'appareils",
+  "Palo Alto Networks : des failles exploitées sur PAN-OS",
+  "1Password : des données clients volées via un compte GitHub",
+  "Des agences suisse et italienne alertent sur les cyberattaques autonomes",
+  "Huawei reconnu coupable par un jury américain",
+  "Artex : les attaques pilotées par des agents IA progressent",
+  "De faux tests de recrutement piègent les développeurs .NET",
+  "Windows Update installe un pilote Intel obsolète et vulnérable",
+  "Anthropic mesure les évasions de bac à sable avec Siren",
+  "OpenAI et la multiplication de matrices : une limite à 2,25 ?",
+  "SpaceX autorisé à déployer un million de satellites de calcul",
+  "Dell : 132 milliards de dollars de commandes de serveurs IA",
+  "L'Australie vote un devoir de vigilance numérique"
+ ],
+ "articles": [
+  {
+   "id": 0,
+   "source": "Numerama",
+   "titre": "Guide GTA 6 : toutes les astuces de gameplay que le jeu ne vous explique pas",
+   "resume": "GTA 6 regorge de petites fonctionnalités et de commandes que le jeu ne prend pas toujours le temps de présenter. Voici un guide pour découvrir toutes ces astuces et profiter pleinement de Vice City.",
+   "lien": "https://www.numerama.com/pop-culture/2385417-guide-gta-6-toutes-les-astuces-de-gameplay-que-le-jeu-ne-vous-explique-pas.html"
+  },
+  {
+   "id": 1,
+   "source": "Numerama",
+   "titre": "FC 27 ressuscite un commentateur de foot décédé grâce à l’IA : sa voix est de retour",
+   "resume": "Electronic Arts ressuscite John Motson, voix historique des jeux FIFA (devenus EA Sports FC), grâce à l'IA générative. La famille du commentateur, mort en 2023, a donné son accord.",
+   "lien": "https://www.numerama.com/pop-culture/2385441-fc-27-ressuscite-un-commentateur-de-foot-decede-grace-a-lia-sa-voix-est-de-retour.html"
+  },
+  {
+   "id": 2,
+   "source": "Numerama",
+   "titre": "Avengers Doomsday : pourquoi la communication de Marvel tourne au fiasco à quelques semaines de la sortie",
+   "resume": "Malgré des préventes record qui laissent présager un démarrage colossal au box-office, la campagne promotionnelle d’Avengers: Doomsday suscite un malaise croissant chez une partie du public.",
+   "lien": "https://www.numerama.com/pop-culture/2385567-avengers-doomsday-pourquoi-la-communication-de-marvel-tourne-au-fiasco-a-quelques-semaines-de-la-sortie.html"
+  },
+  {
+   "id": 3,
+   "source": "Numerama",
+   "titre": "Ces 5 vélos électriques reconditionnés avec moteur haut de gamme passent sous les 2 500 €",
+   "resume": "[Les vélos du jour] En pleine semaine du Black Friday, Upway et Rebike cassent les prix de leurs vélos électriques reconditionnés. On a gardé 5 modèles récents (2025), tous équipés du moteur Bosch Performance Line CX de 85 Nm, et vendus entre 1 599 et 2 449 €.",
+   "lien": "https://www.numerama.com/tech/2385443-ces-5-velos-electriques-reconditionnes-avec-moteur-haut-de-gamme-passent-sous-les-2-500-e.html"
+  },
+  {
+   "id": 4,
+   "source": "Numerama",
+   "titre": "« On a fait une erreur de facturation » : OpenAI corrige le tir, et vos quotas GPT-6.2 vont fondre jusqu’à 40 % plus vite",
+   "resume": "Pendant une semaine, les nouveaux modèles d'OpenAI ont semblé étonnamment généreux. C'était une erreur. En la corrigeant, l'entreprise fait fondre les quotas de ses abonnés jusqu'à 40 % plus vite, deux jours après avoir annoncé un quota unique pour ChatGPT et Codex.",
+   "lien": "https://www.numerama.com/tech/2385489-on-a-fait-une-erreur-de-facturation-openai-corrige-le-tir-et-vos-quotas-gpt-6-2-vont-fondre-jusqua-40-plus-vite.html"
+  },
+  {
+   "id": 5,
+   "source": "Numerama",
+   "titre": "Acheter sa voiture sur Amazon, ça arrive en Europe",
+   "resume": "Amazon lancera début 2027 Amazon Autos, sa plateforme de recherche et de réservation de voitures, au Royaume-Uni, avec Hyundai et le distributeur Vertu Motors comme premiers partenaires. C'est la première fois que le service sort des États-Unis, où il existe depuis décembre 2024.",
+   "lien": "https://www.numerama.com/vroom/2385403-acheter-sa-voiture-sur-amazon-ca-arrive-en-europe.html"
+  },
+  {
+   "id": 6,
+   "source": "Numerama",
+   "titre": "Effondrement de jetée, routes inondées : comment El Niño fait déborder la Californie sans tempête",
+   "resume": "La côte californienne a connu des niveaux d'eau record les 24 et 25 novembre 2026, au point qu'une partie de la jetée de Pacifica s'est effondrée. En cause, un épisode d'El Niño qui a environ 60 % de chances de devenir le plus fort mesuré depuis 1950.",
+   "lien": "https://www.numerama.com/sciences/2385439-effondrement-de-jetee-routes-inondees-comment-el-nino-fait-deborder-la-californie-sans-tempete.html"
+  },
+  {
+   "id": 7,
+   "source": "Numerama",
+   "titre": "Infantino peut souffler : des hackers ont piraté la Fifa mais épargné son projet le plus sensible",
+   "resume": "La Fifa a confirmé jeudi 26 novembre avoir été victime d'une cyberattaque ayant exposé des informations personnelles et professionnelles. Un groupe de hackers, le Handsome Boy Hacking Club, revendique le vol de plus de 12 Go de fichiers.",
+   "lien": "https://www.numerama.com/cyberguerre/2385419-infantino-peut-souffler-des-hackers-ont-pirate-la-fifa-mais-epargne-son-projet-le-plus-sensible.html"
+  },
+  {
+   "id": 8,
+   "source": "Numerama",
+   "titre": "Après Riemann, ce chercheur de renom est « quasiment certain » que l’IA a trouvé autre chose, et ça concerne vos données",
+   "resume": "Hypothèse de Riemann, multiplication de matrices… Dans un billet survolté publié le 25 novembre 2026, l'informaticien Scott Aaronson raconte une semaine de percées mathématiques signées par l'IA. Avant de lâcher une phrase qui fait trembler la tech et les cryptos : les labos détiendraient aussi de quoi menacer nos systèmes de chiffrement.",
+   "lien": "https://www.numerama.com/tech/2385329-apres-riemann-ce-chercheur-de-renom-est-quasiment-certain-que-lia-a-trouve-autre-chose-et-ca-concerne-vos-donnees.html"
+  },
+  {
+   "id": 9,
+   "source": "Numerama",
+   "titre": "« Le véhicule autonome n’a aucun avenir » et ne ferait pas « 3 mètres dans Paris » : non, c’est faux (on a testé)",
+   "resume": "Invité sur le plateau de LCI, un chroniqueur automobile a affirmé avec aplomb que « le véhicule autonome n’a aucun avenir » et ne saurait même pas faire « 3 mètres dans le Marais » à Paris. Une sortie devenue virale sur X, que nos propres essais dans Paris contredisent.",
+   "lien": "https://www.numerama.com/vroom/2385409-le-vehicule-autonome-na-aucun-avenir-et-ne-ferait-pas-3-metres-dans-paris-non-cest-faux-on-a-teste.html"
+  },
+  {
+   "id": 10,
+   "source": "Numerama",
+   "titre": "Vous trouvez la conduite de GTA 6 particulièrement pointue ? C’est normal",
+   "resume": "Rockstar Games a fait travailler un ancien finaliste mondial de Gran Turismo sur la physique des véhicules de GTA 6. D'où cette conduite pointue, et un peu punitive.",
+   "lien": "https://www.numerama.com/pop-culture/2385185-vous-trouvez-la-conduite-de-gta-6-particulierement-pointue-cest-normal.html"
+  },
+  {
+   "id": 11,
+   "source": "Numerama",
+   "titre": "Avengers: Doomsday affole déjà les compteurs",
+   "resume": "À trois semaines de sa sortie en salles, le prochain mastodonte de Marvel Studios affole déjà les compteurs. Selon les informations de Deadline, Avengers: Doomsday a dépassé les 100 millions de dollars de préventes aux États-Unis.",
+   "lien": "https://www.numerama.com/pop-culture/2385397-avengers-doomsday-affole-deja-les-compteurs.html"
+  },
+  {
+   "id": 12,
+   "source": "01net",
+   "titre": "DJI Osmo Action 6 : les aventuriers la préfèrent à GoPro, surtout quand elle est à -40% 🥊",
+   "resume": "La Osmo Action 6 est une caméra d'action de DJI qui n'a presque pas de concurrence... surtout avec le tarif affiché dans le cadre du Black Friday. C'est le moment de foncer pour filmer ses souvenirs au ski !",
+   "lien": "https://www.01net.com/bons-plans/dji-osmo-action-6-les-aventuriers-la-preferent-a-gopro-surtout-quand-elle-est-a-40.html"
+  },
+  {
+   "id": 13,
+   "source": "01net",
+   "titre": "Roole Map : le GPS français se dote d’une fonction très pratique pour les longs trajets en électrique",
+   "resume": "L'application de navigation française Roole Map lance un planificateur d'itinéraires pour voitures électriques, conçu avec IFP Énergies nouvelles. Déjà disponible sur CarPlay, la fonction propose un seul trajet, calcule les recharges au plus juste et enchaîne sur la navigation sans changer d'application.",
+   "lien": "https://www.01net.com/actualites/roole-map-planificateur-voiture-electrique.html"
+  },
+  {
+   "id": 14,
+   "source": "01net",
+   "titre": "AMD s’attaque en frontal à Intel : le Ryzen 7 5700X à -70% met le turbo à votre PC gaming",
+   "resume": "Vous cherchez un processeur pour gagner en fluidité dans les tâches courantes ? Ce processeur AMD avec une fréquence maximale de 4,6 GHz et une mémoire cache de 32 Mo fera amplement l'affaire et avec cette belle remise au Black Friday, il ne coûte presque rien.",
+   "lien": "https://www.01net.com/bons-plans/amd-sattaque-en-frontal-a-intel-le-ryzen-7-5700x-a-70-met-le-turbo-a-votre-pc-gaming.html"
+  },
+  {
+   "id": 15,
+   "source": "01net",
+   "titre": "La FIFA a été piratée : des données personnelles et professionnelles ont été compromises",
+   "resume": "La FIFA confirme avoir été victime d’une cyberattaque. Les pirates ont eu accès à une foule de données personnelles et professionnelles à la suite de l'intrusion. Un nouveau gang spécialisé dans les attaques par ransomware, le Handsome Boys Hacking Club, revendique la cyberattaque.",
+   "lien": "https://www.01net.com/actualites/la-fifa-a-ete-piratee-des-donnees-personnelles-et-professionnelles-ont-ete-compromises.html"
+  },
+  {
+   "id": 16,
+   "source": "01net",
+   "titre": "“Adieu mon iPhone” : Google écoule le Pixel 10a à -50% pour vider l’entrepôt avant la fin d’année",
+   "resume": "Le Black Friday débute ce vendredi à minuit sur AliExpress et les offres du marchand sur toute la téléphonie sont folles. L'un des deals à ne pas rater concerne le Pixel 10a qui se vend à moitié prix avec des caractéristiques assez folles.",
+   "lien": "https://www.01net.com/bons-plans/adieu-mon-iphone-google-ecoule-le-pixel-10a-a-50-pour-vider-lentrepot-avant-la-fin-dannee.html"
+  },
+  {
+   "id": 17,
+   "source": "01net",
+   "titre": "Black Friday : xTool mise sur la créativité (jusqu’à -68%)",
+   "resume": "C’est le moment idéal pour laisser libre cours à votre imagination.",
+   "lien": "https://www.01net.com/bons-plans/black-friday-xtool-mise-sur-la-creativite-jusqua-68.html"
+  },
+  {
+   "id": 18,
+   "source": "01net",
+   "titre": "Citroën 2CV électrique : le mythe français sera plus chinois que prévu",
+   "resume": "Citroën a déchaîné les passions avec sa 2CV électrique. Le modèle de série, qui arrivera en 2028, devra donc tenir sa promesse tarifaire en restant sous les 15 000 €. Pour ce faire, Leapmotor devrait participer activement au développement du véhicule.",
+   "lien": "https://www.01net.com/actualites/citroen-2cv-electrique-mythe-francais-technologie-chinoise.html"
+  },
+  {
+   "id": 19,
+   "source": "01net",
+   "titre": "Xiaomi cloue le bec des Samsung, Honor ou Apple : la Pad 7 256 Go à -60% fait de gros jaloux",
+   "resume": "AliExpress vous fait profiter de superbes remises sur de nombreux produits et l'une d'entre elles concerne cette très bonne tablette signée Xiaomi. C'est l'un de nos coups de coeur du Black Friday.",
+   "lien": "https://www.01net.com/bons-plans/xiaomi-cloue-le-bec-des-samsung-honor-ou-apple-la-pad-7-256-go-a-60-fait-de-gros-jaloux.html"
+  },
+  {
+   "id": 20,
+   "source": "01net",
+   "titre": "Une loi de guerre pour ramener Jensen Huang chez Nvidia : le Pentagone aurait été prêt à tout",
+   "resume": "Onze jours après avoir quitté la tête de Nvidia, Jensen Huang a retrouvé son fauteuil. Dans les coulisses de Washington, certains auraient été prêts à employer les grands moyens. Très grands, même : une loi datant de la guerre de Corée.",
+   "lien": "https://www.01net.com/actualites/une-loi-de-guerre-pour-ramener-jensen-huang-chez-nvidia-le-pentagone-aurait-ete-pret-a-tout.html"
+  },
+  {
+   "id": 21,
+   "source": "01net",
+   "titre": "Xiaomi déstock le Mix Flip : il est à -72% et cartonne le Galaxy Z Flip8 de Samsung",
+   "resume": "Bien que sorti en 2024, le Xiaomi Mix Flip continue de valoir le coup aujourd'hui parmi les smartphones \"à clapet\". D'un point de vue rapport qualité prix, vous ne ferez pas mieux.",
+   "lien": "https://www.01net.com/bons-plans/xiaomi-destock-le-mix-flip-il-est-a-72-et-cartonne-le-galaxy-z-flip8-de-samsung.html"
+  },
+  {
+   "id": 22,
+   "source": "01net",
+   "titre": "Le Porsche 718 Boxster passe à l’électrique, mais refuse de céder sur un point",
+   "resume": "Porsche prépare le lancement de son premier roadster 100 % électrique avec le nouveau 718 Boxster. La marque allemande dévoile de premières informations techniques et promet de préserver les sensations de conduite qui ont fait le succès de son modèle.",
+   "lien": "https://www.01net.com/actualites/le-porsche-718-boxster-passe-a-lelectrique-mais-refuse-de-ceder-sur-un-point.html"
+  },
+  {
+   "id": 23,
+   "source": "01net",
+   "titre": "Le Ryzen 7 9800X3D est la superstar des CPU gaming et il s’écoule à -51% lors du Black Friday",
+   "resume": "C'est parti pour le Black Friday sur AliExpress ! Si c'est un processeur gaming qui vous intéresse, le Ryzen 7 9800X3D est justement proposé à un tarif imbattable et c'est l'un des plus puissants de tout le marché.",
+   "lien": "https://www.01net.com/bons-plans/amd-vide-tout-son-stock-au-black-friday-xx-a-saisir-rapidement-sur-le-ryzen-7-9800x3d.html"
+  },
+  {
+   "id": 24,
+   "source": "01net",
+   "titre": "Le casque Shokz OpenRun Pro 2 à -55% fait des dégâts : il se vend par millions à tous les coureurs 🏃🏻‍♂️",
+   "resume": "Si vous faites du sport et que vous souhaitez profiter du meilleur confort d'écoute possible pendant vos entraînements, le casque OpenRun Pro 2 est le meilleur casque audio sans fil pour vous. Il permet de ne pas se couper de son entourage tout en profitant de la conduction osseuse pour avoir un son ultra qualitatif.",
+   "lien": "https://www.01net.com/bons-plans/le-casque-shokz-openrun-pro-2-a-55-fait-des-degats-il-se-vend-par-millions-a-tous-les-coureurs.html"
+  },
+  {
+   "id": 25,
+   "source": "01net",
+   "titre": "Pourquoi 2 000 panneaux de signalisation vont bientôt disparaître des rues de Paris",
+   "resume": "Présents dans la capitale depuis les années 70, près de 2 000 panneaux de direction blancs vont disparaître des rues de Paris. Jugés obsolètes à l'ère des smartphones et du GPS, ces panneaux seront retirés pour désencombrer l’espace public et faire toujours plus de place aux piétons.",
+   "lien": "https://www.01net.com/actualites/pourquoi-2-000-panneaux-de-signalisation-vont-bientot-disparaitre-des-rues-de-paris.html"
+  },
+  {
+   "id": 26,
+   "source": "01net",
+   "titre": "Le Xiaomi 17T perd -46% sur le Jour-J du Black Friday : Xiaomi a des palettes à écouler",
+   "resume": "Le Xiaomi 17T est un flagship killer, il a les qualités pour rivaliser avec les smartphones Android les plus puissants du marché, sauf qu'il est beaucoup plus accessible. Avec ce deal spécial Black Friday poussé par AliExpress, c'est encore plus vrai.",
+   "lien": "https://www.01net.com/bons-plans/le-xiaomi-17t-perd-46-sur-le-jour-j-du-black-friday-xiaomi-a-des-palettes-a-ecouler.html"
+  },
+  {
+   "id": 27,
+   "source": "01net",
+   "titre": "Des iPad sous macOS : Apple en aurait sous la main, mais il ne voudrait jamais les vendre",
+   "resume": "Selon le journaliste de « Bloomberg » Mark Gurman, Apple utiliserait des iPad en interne, dotés de macOS. Malheureusement, l'entreprise ne semble absolument pas prête à les commercialiser.",
+   "lien": "https://www.01net.com/actualites/des-ipad-sous-macos-apple-en-aurait-sous-la-main-mais-il-ne-voudrait-jamais-les-vendre.html"
+  },
+  {
+   "id": 28,
+   "source": "01net",
+   "titre": "Proton VPN tient son meilleur prix de l’année depuis un mois : 2,49 € à la veille du Black Friday",
+   "resume": "À la veille du Black Friday, Proton VPN Plus est à 2,49 € par mois, un tarif que la marque présente comme son meilleur de l'année et qu'elle affiche depuis le 26 octobre.",
+   "lien": "https://www.01net.com/bons-plans/proton-vpn-tient-son-meilleur-prix-de-lannee-depuis-un-mois-249-e-a-la-veille-du-black-friday.html"
+  },
+  {
+   "id": 29,
+   "source": "01net",
+   "titre": "Tous les fabricants de smartphones revoient leurs ambitions à la baisse pour 2027, sauf un",
+   "resume": "La crise mondiale de la mémoire pousse les principaux fabricants de smartphones à revoir leurs objectifs de livraison à la baisse pour 2027 : - 5,6 % pour Apple, - 25 % pour Xiaomi et jusqu’à - 29 % pour Vivo.",
+   "lien": "https://www.01net.com/actualites/tous-les-fabricants-de-smartphones-revoient-leurs-ambitions-a-la-baisse-pour-2027-sauf-un.html"
+  },
+  {
+   "id": 30,
+   "source": "01net",
+   "titre": "Un film ou une série GTA ? Le patron de Take-Two ne l’exclut pas, à une condition",
+   "resume": "Près de 19 millions d’exemplaires estimés en un jour, une note presque parfaite, et toujours rien à regarder sur un écran de cinéma. Le patron de Take-Two vient pourtant d’entrouvrir la porte, du bout des doigts.",
+   "lien": "https://www.01net.com/actualites/un-film-ou-une-serie-gta-le-patron-de-take-two-ne-lexclut-pas-a-une-condition.html"
+  },
+  {
+   "id": 31,
+   "source": "01net",
+   "titre": "Le premier radar sonore homologué en France est prêt, mais il ne peut pas encore vous flasher",
+   "resume": "Le spécialiste de l'acoustique MicrodB affirme avoir obtenu la première homologation française d'un radar sonore pour son dBFlash. Une étape attendue depuis des années, qui ne suffira pourtant pas à verbaliser les véhicules trop bruyants : il manque encore une loi.",
+   "lien": "https://www.01net.com/actualites/le-premier-radar-sonore-homologue-en-france-est-pret-mais-il-ne-peut-pas-encore-vous-flasher.html"
+  },
+  {
+   "id": 32,
+   "source": "01net",
+   "titre": "Arnaque au faux conseiller bancaire : le Crédit Agricole doit rembourser près de 10 000 euros à une victime",
+   "resume": "Une cliente du Crédit Agricole, victime d’une arnaque au faux conseiller bancaire, a obtenu le remboursement de près de 10 000 euros, malgré le fait qu’elle ait elle-même validé les virements. Le tribunal de Draguignan a estimé qu’elle avait fait preuve d’imprudence, mais pas de négligence grave.",
+   "lien": "https://www.01net.com/actualites/arnaque-au-faux-conseiller-bancaire-le-credit-agricole-doit-rembourser-pres-de-10-000-euros-a-une-victime.html"
+  },
+  {
+   "id": 33,
+   "source": "ZDNet",
+   "titre": "Les meilleurs casques micros pour le télétravail pour les pros en 2026",
+   "resume": "Voici notre sélection de 5 casques micros taillés pour les visioconférences exigeantes et les workflows distants, passés au crible de la captation vocale, de l'endurance et de l'intégration IT.",
+   "lien": "https://www.zdnet.fr/selection-expert-zdnet-france/les-meilleurs-casques-micros-pour-le-teletravail-pour-les-pros-en-2026-508730.htm#xtor=RSS-1"
+  },
+  {
+   "id": 34,
+   "source": "ZDNet",
+   "titre": "Jean-Christophe Conticello, Giants, ADNEOM et Wemanity : La souveraineté numérique ne se décrète pas, elle s’achète",
+   "resume": "Le transfert des données de santé françaises vers Scaleway le prouve : un acteur européen peut héberger les données les plus sensibles. Jean-Christophe Conticello, fondateur de Giants, d'ADNEOM et de Wemanity, estime que la souveraineté numérique ne tient plus qu'à la volonté de l'État d'orienter sa commande publique.",
+   "lien": "https://www.zdnet.fr/tribune/jean-christophe-conticello-giants-adneom-et-wemanity-la-souverainete-numerique-ne-se-decrete-pas-elle-sachete-508519.htm#xtor=RSS-1"
+  },
+  {
+   "id": 35,
+   "source": "ZDNet",
+   "titre": "La Génération Z est celle qui s'intéresse le moins à l'IA au boulot, et de loin",
+   "resume": "Selon une récente enquête, les jeunes actifs ne trouvent pas l'IA utile.",
+   "lien": "https://www.zdnet.fr/actualites/la-generation-z-est-celle-qui-sinteresse-le-moins-a-lia-au-boulot-et-de-loin-508708.htm#xtor=RSS-1"
+  },
+  {
+   "id": 36,
+   "source": "ZDNet",
+   "titre": "Vous pouvez désormais transformer les artefacts Claude en applications Windows et Mac, voici comment procéder",
+   "resume": "La nouvelle fonctionnalité « Installer en tant qu'application » d'Anthropic permet de transformer facilement vos artefacts Claude en applications de bureau sur votre ordinateur, avec toutefois certaines restrictions.",
+   "lien": "https://www.zdnet.fr/actualites/vous-pouvez-desormais-transformer-les-artefacts-claude-en-applications-windows-et-mac-voici-comment-proceder-508702.htm#xtor=RSS-1"
+  },
+  {
+   "id": 37,
+   "source": "ZDNet",
+   "titre": "Télécoms : les TPE deux fois moins équipées que les grandes entreprises",
+   "resume": "La fracture numérique n’est pas tant géographique que liée à la taille de l’entreprise. Si la généralisation de l’IA incite au raccordement à la fibre, la méconnaissance des décideurs de l’arrêt du réseau ADSL inquiète.",
+   "lien": "https://www.zdnet.fr/actualites/telecoms-les-tpe-deux-fois-moins-equipees-que-les-grandes-entreprises-508695.htm#xtor=RSS-1"
+  },
+  {
+   "id": 38,
+   "source": "Next",
+   "titre": "ASML en Chine : les Pays-Bas haussent le ton face à Washington",
+   "resume": "Les Pays-Bas pressent le Congrès américain de ne pas intégrer le MATCH Act à son texte annuel sur la défense. Le projet de loi durcit les restrictions sur les ventes de machines d’ASML à la Chine, mais aussi sur l’entretien de celles qui y sont déjà installées. Les Pays-Bas haussent le ton contre le MATCH […]",
+   "lien": "https://next.ink/270335/asml-en-chine-les-pays-bas-haussent-le-ton-face-a-washington/"
+  },
+  {
+   "id": 39,
+   "source": "Next",
+   "titre": "Ladybird : ciel, un nouveau navigateur !",
+   "resume": "Le navigateur Ladybird est disponible depuis peu dans une première version alpha publique, capable de se mettre à jour. Ses développeurs vont devoir essayer de se faire une place au soleil, dans un marché très concurrentiel et largement dominé par Chrome et les navigateurs qui reprennent sa base Chromium. Un nouveau navigateur doté d’un moteur […]",
+   "lien": "https://next.ink/270193/ladybird-ciel-un-nouveau-navigateur/"
+  },
+  {
+   "id": 40,
+   "source": "Next",
+   "titre": "☕️ Temu promet des prix plus clairs et moins de pression à l’achat en Europe",
+   "resume": "Temu va revoir en profondeur plusieurs de ses pratiques commerciales dans l’Union européenne. Cela va commencer par un processus de commande et de paiement plus clair : le site web de la plateforme de commerce en ligne affiche désormais un bouton de confirmation « commander et payer ». Ça n’a l’air de rien, mais jusqu’à […]",
+   "lien": "https://next.ink/brief-article/temu-promet-des-prix-plus-clairs-et-moins-de-pression-a-lachat-en-europe/"
+  },
+  {
+   "id": 41,
+   "source": "Next",
+   "titre": "☕️ L’ANSM rappelle que les chatbots IA ne remplacent pas le conseil d’un médecin",
+   "resume": "Les leaders de l’IA générative ont lancé en début d’année leurs chatbots spécialisés dans la santé. Mais, en France, l’Agence nationale de sécurité du médicament et des produits de santé (ANSM) alerte les patients et leur demande de redoubler de prudence. OpenAI puis Anthropic avaient lancé leurs outils suite au relâchement de la surveillance des […]",
+   "lien": "https://next.ink/brief-article/lansm-rappelle-que-les-chatbots-ia-ne-remplacent-pas-le-conseil-dun-medecin/"
+  },
+  {
+   "id": 42,
+   "source": "LeMagIT",
+   "titre": "Airbus branche ses données sur le temps réel",
+   "resume": "<p>Airbus a plus de 10 000 avions à livrer sur les dix prochaines années. Pour tenir ses engagements, le groupe, contributeur de Gaia-X et des espaces de données sectoriels, a également investir dans ses propres socles Big Data.</p> <p>L’avionneur veut assurer ainsi la continuité des données sur tout le cycle de vie des produits, de la conception à la livraison aux compagnies aériennes. Il s’appuie historiquement sur une plateforme analytique centrale. En production depuis dix ans, elle réunit 6",
+   "lien": "https://www.lemagit.fr/etude/Airbus-branche-ses-donnees-sur-le-temps-reel"
+  },
+  {
+   "id": 43,
+   "source": "Le Monde Informatique",
+   "titre": "Les lunettes Meta dans le viseur de la justice néerlandaise",
+   "resume": "Deux associations néerlandaises demandent à la justice de suspendre la commercialisation des lunettes connectées de Meta et Ray-Ban. Elles dénoncent un dispositif qui permet de filmer des personnes à leur insu, en contradiction avec les règles européennes sur la protection de la vie privée.",
+   "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/les-lunettes-meta-dans-le-viseur-de-la-justice-neerlandaise"
+  },
+  {
+   "id": 44,
+   "source": "Le Monde Informatique",
+   "titre": "Le groupement mousquetaires choisi Anthropic pour déployer l'IA dans 500 points de vente",
+   "resume": "De la logistique aux ressources humaines, en passant par les magasins et les fonctions centrales, le Groupement Mousquetaires veut étendre les usages de l'IA générative à l'ensemble de ses métiers. Un partenariat avec Anthropic doit amorcer ce déploiement dès janvier 2027.",
+   "lien": "https://www.lemondeinformatique.fr/infrastructure-cloud/le-groupement-mousquetaires-choisi-anthropic-pour-deployer-l-ia-dans-500-points-de-vente"
+  },
+  {
+   "id": 45,
+   "source": "Le Monde Informatique",
+   "titre": "RGPD : le registre allégé pour les entreprises de moins de 1 000 salariés",
+   "resume": "Les eurodéputés ont adopté une mesure de simplification qui dispense certaines entreprises de tenir un registre exhaustif de leurs traitements de données personnelles. Cette évolution du RGPD, intégrée au règlement Omnibus IV, maintient toutefois des obligations pour les activités présentant des risques élevés.",
+   "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rgpd-le-registre-allege-pour-les-entreprises-de-moins-de-1-000-salaries"
+  },
+  {
+   "id": 46,
+   "source": "Le Monde Informatique",
+   "titre": "Cyberattaque : la FIFA confirme le vol de données personnelles et professionnelles",
+   "resume": "La Fédération internationale de football (FIFA) a été victime d'une cyberattaque ayant permis à des pirates d'accéder à des informations personnelles et professionnelles. l'organisation assure que les documents liés à son projet controversé de cession d'une partie de ses activités commerciales n'ont pas été touchés.",
+   "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-fifa-confirme-le-vol-de-donnees-personnelles-et-professionnelles"
+  },
+  {
+   "id": 47,
+   "source": "Le Monde Informatique",
+   "titre": "Choose France : les data centers au cœur des investissements dans le numérique",
+   "resume": "Parmi les secteurs mis en avant, le numérique et la souveraineté technologique occupent une place importante, avec plusieurs annonces concernant les data centers, le cloud et les infrastructures dédiées à l'IA.",
+   "lien": "https://www.lemondeinformatique.fr/donnees-ia/choose-france-les-data-centers-au-c-ur-des-investissements-dans-le-numerique"
+  },
+  {
+   "id": 48,
+   "source": "Developpez.com",
+   "titre": "« Workslop » : les patrons qui ont encouragé l'utilisation de l'IA au travail croulent désormais sous des contenus médiocres et automatisés qui abîment les relations humaines et brident la créativité",
+   "resume": "« Workslop » : les patrons qui ont encouragé l'utilisation de l'IA au travail croulent désormais sous des contenus médiocres et automatisés qui abîment les relations humaines et brident la créativité Les entreprises font face à un écueil : l'utilisation massive de l'IA au travail a entraîné une prolifération de contenus médiocres et automatisés que les employés appellent « workslop ». Ce torrent d'informations impersonnelles détériore les relations humaines et nuit à la créativité. Face à ce déf",
+   "lien": "https://intelligence-artificielle.developpez.com/actu/389536/-Workslop-les-patrons-qui-ont-encourage-l-utilisation-de-l-IA-au-travail-croulent-desormais-sous-des-contenus-mediocres-et-automatises-qui-abiment-les-relations-humaines-et-brident-la-creativite/"
+  },
+  {
+   "id": 49,
+   "source": "Developpez.com",
+   "titre": "Les renseignements américains n'ont trouvé aucune preuve que la Chine ait orchestré l'affaire Jensen Huang ni envoyé Alice Huang séduire et espionner le PDG de Nvidia, a-t-on indiqué au Congrès",
+   "resume": "Les renseignements américains n'ont trouvé aucune preuve que la Chine ait orchestré l'affaire Jensen Huang ni envoyé Alice Huang séduire et espionner le PDG de Nvidia, a-t-on indiqué au Congrès Les USA n'ont trouvé aucune preuve indiquant que la Chine ait ordonné à Alice Huang, qui entretenait une liaison avec Jensen Huang, de l'espionner, ont déclaré des responsables des services de renseignement à des collaborateurs du Congrès lors d'une réunion d'information classifiée. Des responsables du FB",
+   "lien": "https://hardware.developpez.com/actu/389534/Les-renseignements-americains-n-ont-trouve-aucune-preuve-que-la-Chine-ait-orchestre-l-affaire-Jensen-Huang-ni-envoye-Alice-Huang-seduire-et-espionner-le-PDG-de-Nvidia-a-t-on-indique-au-Congres/"
+  },
+  {
+   "id": 50,
+   "source": "Developpez.com",
+   "titre": "Comment Trump et la Silicon Valley ont contraint Nvidia à réintégrer Jensen Huang : un groupe d'alliés avait demandé à Trump et Vance de faire pression sur le conseil d'administration de Nvidia",
+   "resume": "Comment Trump et la Silicon Valley ont contraint Nvidia à réintégrer Jensen Huang : un groupe d'alliés avait demandé à Trump et Vance de faire pression sur le conseil d'administration de Nvidia Jensen Huang a signé un retour spectaculaire à la tête de Nvidia. Sa réintégration serait le résultat d'un lobbying intense d'alliés de la Silicon Valley et d'une pression politique menée par le président Donald Trump et le vice-président JD Vance, qui seraient intervenus personnellement auprès du conseil",
+   "lien": "https://hardware.developpez.com/actu/389507/Comment-Trump-et-la-Silicon-Valley-ont-contraint-Nvidia-a-reintegrer-Jensen-Huang-un-groupe-d-allies-avait-demande-a-Trump-et-Vance-de-faire-pression-sur-le-conseil-d-administration-de-Nvidia/"
+  },
+  {
+   "id": 51,
+   "source": "Developpez.com",
+   "titre": "S&P Global Ratings, l'une des trois principales agences de notation, envisage d'abaisser la note de Nvidia, invoquant des inquiétudes liées aux pratiques de gestion et de gouvernance de l'entreprise",
+   "resume": "S&P Global Ratings, l'une des trois principales agences de notation, envisage d'abaisser la note de Nvidia, invoquant des inquiétudes liées aux pratiques de gestion et de gouvernance de l'entreprise S&P Global Ratings envisage d'abaisser la note de crédit de Nvidia de « AA » à « AA- » dans un délai de 90 jours, invoquant un manque de supervision de la part de la direction et un risque lié à la dépendance vis-à-vis d'une personnalité clé, à la suite de la démission puis de la réintégration...",
+   "lien": "https://hardware.developpez.com/actu/389506/S-P-Global-Ratings-l-une-des-trois-principales-agences-de-notation-envisage-d-abaisser-la-note-de-Nvidia-invoquant-des-inquietudes-liees-aux-pratiques-de-gestion-et-de-gouvernance-de-l-entreprise/"
+  },
+  {
+   "id": 52,
+   "source": "Developpez.com",
+   "titre": "Anthropic et OpenAI font face à un problème de plus en plus urgent : leurs modèles IA non publiés deviennent si puissants que les employés ne pensent plus qu'ils puissent être lancés en toute sécurité",
+   "resume": "Anthropic et OpenAI font face à un problème de plus en plus urgent : leurs modèles IA non publiés deviennent si puissants que les employés ne pensent plus qu'ils puissent être lancés en toute sécurité Les employés d'Anthropic et d'OpenAI craignent que leurs modèles d'intelligence artificielle (IA) les plus avancés, qui n'ont pas encore été rendus publics, ne soient jamais assez sûrs pour être commercialisés, selon un rapport citant plus d'une vingtaine de sources proches des débats internes. Ces",
+   "lien": "https://intelligence-artificielle.developpez.com/actu/389505/Anthropic-et-OpenAI-font-face-a-un-probleme-de-plus-en-plus-urgent-leurs-modeles-IA-non-publies-deviennent-si-puissants-que-les-employes-ne-pensent-plus-qu-ils-puissent-etre-lances-en-toute-securite/"
+  },
+  {
+   "id": 53,
+   "source": "Developpez.com",
+   "titre": "Jensen Huang a enfreint le code de conduite de Nvidia, et ses employés ne sont pas près de l'oublier, mais cela « ne signifie pas qu'on se retrouve immédiatement mis à la porte », a-t-il déclaré",
+   "resume": "Jensen Huang a enfreint le code de conduite de Nvidia, et ses employés ne sont pas près de l'oublier, mais cela « ne signifie pas qu'on se retrouve immédiatement mis à la porte », a-t-il déclaré Jensen Huang a déclaré à ses employés qu'il avait enfreint certaines dispositions du code de conduite de l'entreprise et commis « de terribles erreurs ». S'adressant au personnel lors d'une réunion générale d'une heure au siège de Nvidia à Santa Clara, en Californie — au lendemain de son retour à la tête",
+   "lien": "https://hardware.developpez.com/actu/389504/Jensen-Huang-a-enfreint-le-code-de-conduite-de-Nvidia-et-ses-employes-ne-sont-pas-pres-de-l-oublier-mais-cela-ne-signifie-pas-qu-on-se-retrouve-immediatement-mis-a-la-porte-a-t-il-declare/"
+  },
+  {
+   "id": 54,
+   "source": "Developpez.com",
+   "titre": "Les dépenses informatiques en Europe devraient atteindre 1 570 milliards $ en 2027, soit une hausse de 9,9 % par rapport à 2026, d'après Gartner",
+   "resume": "Les dépenses informatiques en Europe devraient atteindre 1 570 milliards $ en 2027, soit une hausse de 9,9 % par rapport à 2026, d'après Gartner Les dépenses informatiques en Europe devraient atteindre 1 570 milliards de dollars en 2027, soit une hausse de 9,9 % par rapport à 2026, selon les dernières prévisions de Gartner, Inc., une société spécialisée dans l'analyse des tendances commerciales et technologiques. Portés par la demande croissante en calcul haute performance et par des prix des se",
+   "lien": "https://intelligence-artificielle.developpez.com/actu/389503/Les-depenses-informatiques-en-Europe-devraient-atteindre-1-570-milliards-en-2027-soit-une-hausse-de-9-9-pourcent-par-rapport-a-2026-d-apres-Gartner/"
+  },
+  {
+   "id": 55,
+   "source": "Developpez.com",
+   "titre": "Violation de données chez 1Password, un pirate informatique dérobe les noms et adresses e-mail de clients après avoir accédé aux systèmes internes, les exposant à des risques d'hameçonnage",
+   "resume": "Violation de données chez 1Password, un pirate informatique dérobe les noms et adresses e-mail de clients après avoir accédé aux systèmes internes, les exposant à des risques d'hameçonnage Le gestionnaire de mots de passe 1Password a révélé qu'un pirate informatique avait accédé au compte GitHub professionnel d'un employé et l'avait utilisé pour télécharger des données clients. Le pirate « a utilisé ce compte pour accéder au code source et injecter du code malveillant dans les services backend, ",
+   "lien": "https://securite.developpez.com/actu/389502/Violation-de-donnees-chez-1Password-un-pirate-informatique-derobe-les-noms-et-adresses-e-mail-de-clients-apres-avoir-accede-aux-systemes-internes-les-exposant-a-des-risques-d-hameconnage/"
+  },
+  {
+   "id": 56,
+   "source": "Developpez.com",
+   "titre": "Une offre exceptionnelle de puces d'IA Nvidia de pointe inonde le marché, les vendeurs cherchant de nouveaux acheteurs après le durcissement des restrictions américaines, visant les entreprises chinoi",
+   "resume": "Une offre exceptionnelle de puces d'IA Nvidia de pointe inonde le marché, les vendeurs cherchant de nouveaux acheteurs après le durcissement des restrictions américaines visant les entreprises chinoises Une offre exceptionnellement importante de puces Nvidia de pointe dédiées à l'IA a soudainement envahi le marché, les vendeurs se précipitant pour trouver de nouveaux acheteurs à la suite d'un durcissement de la réglementation américaine visant à empêcher les entreprises chinoises d'accéder à dis",
+   "lien": "https://intelligence-artificielle.developpez.com/actu/389501/Une-offre-exceptionnelle-de-puces-d-IA-Nvidia-de-pointe-inonde-le-marche-les-vendeurs-cherchant-de-nouveaux-acheteurs-apres-le-durcissement-des-restrictions-americaines-visant-les-entreprises-chinoises/"
+  },
+  {
+   "id": 57,
+   "source": "Developpez.com",
+   "titre": "SpaceX obtient le feu vert pour déployer un million de satellites dédiés aux centres de données spatiaux, une constellation qui multiplierait par environ 50 le nombre de satellites en orbite",
+   "resume": "SpaceX obtient le feu vert de la FCC pour déployer un million de satellites dédiés aux centres de données spatiaux, une constellation qui multiplierait par environ 50 le nombre de satellites en orbite Le projet d'Elon Musk visant à installer des centres de données dans l'espace a reçu un feu vert décisif : la FCC a autorisé SpaceX à lancer un million de satellites afin de constituer une « constellation » de centres de données en orbite autour de la Terre. En approuvant cette demande, la FCC a dé",
+   "lien": "https://reseau.developpez.com/actu/389500/SpaceX-obtient-le-feu-vert-pour-deployer-un-million-de-satellites-dedies-aux-centres-de-donnees-spatiaux-une-constellation-qui-multiplierait-par-environ-50-le-nombre-de-satellites-en-orbite/"
+  },
+  {
+   "id": 58,
+   "source": "Developpez.com",
+   "titre": "Offre Black Friday : JetBrains offre 40 % de réduction sur tout nouvel abonnement individuel annuel à un EDI JetBrains ou à ReSharper, et les mises à niveau JetBrains",
+   "resume": "Offre Black Friday : JetBrains offre 40 % de réduction sur tout nouvel abonnement individuel annuel à un EDI JetBrains ou à ReSharper, et les mises à niveau JetBrains JetBrains est une société internationale spécialisée dans le développement de logiciels, qui conçoit des outils destinés aux développeurs et aux chefs de projet. JetBrains propose divers environnements de développement intégrés (EDI), tels que IntelliJ IDEA, PyCharm, WebStorm et CLion. Elle a également créé en 2011 le langage de pr",
+   "lien": "https://jetbrains.developpez.com/actu/389499/Offre-Black-Friday-JetBrains-offre-40-pourcent-de-reduction-sur-tout-nouvel-abonnement-individuel-annuel-a-un-EDI-JetBrains-ou-a-ReSharper-et-les-mises-a-niveau-JetBrains/"
+  },
+  {
+   "id": 59,
+   "source": "Developpez.com",
+   "titre": "En réunion générale, Jensen Huang remercie Donald Trump, s'excuse auprès de ses collaborateurs et révèle suivre une thérapie, avouant avoir commis de terribles erreurs et été infidèle à sa femme",
+   "resume": "En réunion générale, Jensen Huang remercie Donald Trump, s'excuse auprès de ses collaborateurs et révèle suivre une thérapie, avouant avoir commis de terribles erreurs et été infidèle à sa femme Jensen Huang a présenté ses excuses à l'entreprise et a admis suivre une thérapie quotidienne lors de sa première réunion générale avec les employés depuis sa réintégration. « J'ai commis de terribles erreurs », a déclaré Huang à ses employés, ajoutant qu'il avait été infidèle à sa femme. « J'ai fait du ",
+   "lien": "https://hardware.developpez.com/actu/389498/En-reunion-generale-Jensen-Huang-remercie-Donald-Trump-s-excuse-aupres-de-ses-collaborateurs-et-revele-suivre-une-therapie-avouant-avoir-commis-de-terribles-erreurs-et-ete-infidele-a-sa-femme/"
+  },
+  {
+   "id": 60,
+   "source": "BleepingComputer",
+   "titre": "Remus malware steals Gmail messages via fake Google Sheets extension",
+   "resume": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/"
+  },
+  {
+   "id": 61,
+   "source": "BleepingComputer",
+   "titre": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+   "resume": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/"
+  }
+ ]
+}
