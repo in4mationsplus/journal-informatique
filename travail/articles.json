@@ -1,0 +1,200 @@
+{
+ "date": "2026-11-26",
+ "edition": "matin",
+ "date_texte": "jeudi 26 novembre 2026",
+ "mots_vises": 2300,
+ "rubriques": [
+  "Sécurité",
+  "IA",
+  "Développement",
+  "Cloud et infrastructure",
+  "Business et régulation"
+ ],
+ "sujets_deja_racontes": [
+  "Cisco Expressway activement exploitée",
+  "Faille Azure API Management exploitée",
+  "OpenRouter exclut des fournisseurs d'IA après des fuites de secrets",
+  "Le CHU de Guadeloupe paralysé par un rançongiciel",
+  "Nissan : un outil de diagnostic compromis",
+  "Anthropic lance Claude Ship",
+  "L'IA et l'hypothèse de Riemann",
+  "Anthropic en Bourse : 1 600 milliards de dollars de valorisation",
+  "OpenAI propose des limites communes pour les modèles les plus puissants",
+  "Chez OpenAI, les agents surveillent mieux qu'ils ne codent",
+  "Amazon négocie le rachat de Decart",
+  "PowerShell 7 va s'intégrer à Windows",
+  "Pilotes graphiques AMD et NVIDIA : des écritures disque permanentes",
+  "OVHcloud vise deux milliards d'euros de chiffre d'affaires",
+  "Trump menace de taxer les datacenters construits à l'étranger",
+  "Jensen Huang redevient PDG de Nvidia",
+  "CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
+  "Bending Spoons rachète Mailchimp",
+  "Chrome : une faille critique corrigée",
+  "Check Point : des serveurs de gestion compromis",
+  "Rackspace ferme sa plateforme Spot après une intrusion",
+  "Radware : des clés d'accès cloud de clients exposées",
+  "Piratage de la base de données criminelles du FBI",
+  "Shirudo : OpenAI et Cisco protègent Linux en attendant les correctifs",
+  "Signal veut empêcher les agents IA de lire vos messages",
+  "GLM-5.4 : un nouveau modèle chinois pour le code",
+  "Inkling 2 Mini : un modèle en boucle qui tourne sur un portable",
+  "Firefox 161 : un VPN par site et Firefox sur le tableau de bord",
+  "Visual Studio Code 1.147 : programmer ses demandes aux agents",
+  "Centres de données IA : le courant continu à 800 volts s'impose",
+  "Panne mondiale de Microsoft : le rapport final",
+  "Nvidia : Jensen Huang revient sous la pression de Donald Trump",
+  "Washington met Megaspeed et une filiale d'Alibaba sur liste noire",
+  "Quad9 quitte la France",
+  "Apple et la justice britannique : l'ordonnance secrète sur le chiffrement",
+  "Drupal : une faille critique exploitée",
+  "Microsoft : des problèmes d'authentification après les mises à jour de novembre",
+  "Intrusion dans un système d'analyse de la CIA",
+  "Ipsos : le groupe Qilin revendique un vol de données",
+  "Le CHU de Bordeaux et SIG Sauer visés par ScarlettGroup",
+  "GrapheneOS accuse Google de vouloir sa disparition",
+  "Claude permet de créer des applications pour Mac et Windows",
+  "OpenAI et Anthropic : des salariés inquiets",
+  "Epochal : trois cofondateurs de xAI lancent une start-up d'IA prédictive",
+  "Ladybird publie sa première version alpha",
+  "Pop!_OS 26.04 : le bureau COSMIC arrive",
+  "Microsoft déclenche un « Code Red » après la panne de Microsoft 365",
+  "Oracle : jusqu'à 1 390 suppressions de postes en Europe",
+  "Quantum Act : l'Union européenne veut soutenir son industrie quantique",
+  "SpaceX et Tesla : vers une fusion à 3 500 milliards de dollars ?",
+  "Nvidia : Jensen Huang s'excuse, Trump évoque une grâce",
+  "Deux milliards d'identifiants exposés",
+  "Nvidia visée par une menace de rançongiciel",
+  "Une faille critique non corrigée dans des contrôleurs Danfoss",
+  "Les failles des composants tiers dans les équipements réseau",
+  "Black Friday : des attaques dopées à l'IA contre les distributeurs",
+  "L'alerte de sécurité ne vaut que si l'on agit : dette technique et IA offensive",
+  "CrowdStrike et Zscaler : un kill switch pour les agents IA",
+  "Yann LeCun contre Dario Amodei sur les modèles ouverts",
+  "Anthropic sous son prix d'introduction en Bourse",
+  "Bulle de l'IA : qui paiera si elle éclate ?",
+  "L'IA générative aggrave l'infobésité au travail",
+  "Gemini sépare historique et entraînement",
+  "Tidal bannit la musique générée par IA",
+  "Visual Studio 2026 et Qt Creator 21",
+  "OVHcloud : de l'eau chaude pour des GPU froids",
+  "ETIX investit cent millions d'euros dans ses centres de données",
+  "Les centres de données et la qualité de l'air",
+  "HPE : un trimestre en fanfare",
+  "Facture électronique : un rodage difficile",
+  "HarmonyOS dépasse 100 millions d'appareils"
+ ],
+ "articles": [
+  {
+   "id": 0,
+   "source": "Numerama",
+   "titre": "Décollage d’Ariane 6 : que s’est-il passé avec l’incendie déclenché par la fusée et qui a approché une cuve d’hydrogène ?",
+   "resume": "Le décollage d'Ariane 6, ce mardi 24 novembre à Kourou, a mis le feu à environ cinq hectares de végétation autour du pas de tir. Avant d'être éteintes, les flammes se sont approchées d'une cuve de propane et d'hydrogène liquide.",
+   "lien": "https://www.numerama.com/sciences/2385057-decollage-dariane-6-que-sest-il-passe-avec-lincendie-declenche-non-loin-dune-cuve-dhydrogene.html"
+  },
+  {
+   "id": 1,
+   "source": "Numerama",
+   "titre": "Pourquoi le premier jour rouge Tempo d’EDF tombe si tôt cette année, dès le 26 novembre ?",
+   "resume": "Ce jeudi 26 novembre 2026 sera le premier jour rouge Tempo de l'hiver, avec un kWh à 0,7295 € entre 6 heures et 22 heures. RTE n'en avait jamais placé un aussi tôt depuis qu'il choisit les couleurs, en 2014.",
+   "lien": "https://www.numerama.com/sciences/2384971-pourquoi-le-premier-jour-rouge-tempo-dedf-tombe-si-tot-cette-annee-des-le-26-novembre.html"
+  },
+  {
+   "id": 2,
+   "source": "Numerama",
+   "titre": "GTA 6 fait flamber les ventes de PS5 d’occasion, et les escrocs de Vinted en profitent",
+   "resume": "Alors que la sortie de GTA 6, le jeudi 19 novembre 2026, provoque une ruée sur les consoles et vide les rayons de PS5, les escrocs sautent sur l’occasion. Depuis quelques jours, une vieille arnaque particulièrement sournoise se propage sur Vinted.",
+   "lien": "https://www.numerama.com/tech/2384719-gta-6-fait-flamber-les-ventes-de-ps5-doccasion-et-les-escrocs-de-vinted-en-profitent.html"
+  },
+  {
+   "id": 3,
+   "source": "01net",
+   "titre": "Streaming PSG AS Rome : où regarder le match gratuit en direct HD ? 🔴",
+   "resume": "Le PSG affronte l'AS Rome ce mercredi 25 novembre à 21h pour la 5e journée de Ligue des champions. En France, Canal+ retransmet la rencontre en intégralité, et les temps forts du match sont disponibles gratuitement en direct grâce au Multi-Live SPORT+. Les Français expatriés peuvent également retrouver le match sur plusieurs chaînes étrangères en clair, notamment en Roumanie, en Grèce, en Croatie et en Serbie. Voici comment regarder PSG AS Rome en streaming, avec ou sans VPN.",
+   "lien": "https://www.01net.com/bons-plans/streaming-psg-as-rome-ou-regarder-le-match-gratuit-en-direct-hd.html"
+  },
+  {
+   "id": 4,
+   "source": "01net",
+   "titre": "7 places, 400 km d’autonomie et un prix cassé : le futur Dacia Jogger électrique va frapper un grand coup",
+   "resume": "Dacia envisage très sérieusement de renouveler le Jogger avec la nouvelle plateforme CMF-B. La familiale proposera ainsi une version électrique à l’instar de la future Sandero. Pour conserver un prix cassé, on y retrouvera du Renault sous le capot…",
+   "lien": "https://www.01net.com/actualites/7-places-400-km-autonomie-prix-casse-28-000-euros-futur-dacia-jogger-electrique-frapper-grand-coup.html"
+  },
+  {
+   "id": 5,
+   "source": "ZDNet",
+   "titre": "Test ExpressVPN Fortify : une protection rapide dans toute la maison",
+   "resume": "Côté matériel, c’est un routeur Wifi re-designé. Côté logiciel, c’est un service VPN performant proposé sans frais supplémentaire durant les 12 premiers mois.",
+   "lien": "https://www.zdnet.fr/guide-achat/test-expressvpn-fortify-une-protection-rapide-dans-toute-la-maison-508570.htm#xtor=RSS-1"
+  },
+  {
+   "id": 6,
+   "source": "ZDNet",
+   "titre": "Web pratique : Ladybird est déjà très prometteur pour un tout nouveau navigateur",
+   "resume": "Open source, disponible en version alpha, fondé sur une nouvelle architecture, sa navigation Web débute en faisant bonne impression. A essayer !",
+   "lien": "https://www.zdnet.fr/pratique/web-pratique-ladybird-est-deja-tres-prometteur-pour-un-tout-nouveau-navigateur-508573.htm#xtor=RSS-1"
+  },
+  {
+   "id": 7,
+   "source": "ZDNet",
+   "titre": "Quantique et IA : l'UE prépare un fonds souverain de 50 milliards d'euros pour contrer les États-Unis et la Chine",
+   "resume": "La Commission européenne propose un fonds souverain de 50 milliards d'euros et le Quantum Act pour industrialiser le quantique et l'IA. Bruxelles veut combler son déficit de capitaux privés face aux États-Unis, et favoriser les fournisseurs européens dans la commande publique.",
+   "lien": "https://www.zdnet.fr/actualites/quantique-et-ia-lue-prepare-un-fonds-souverain-de-50-milliards-deuros-pour-contrer-les-etats-unis-et-la-chine-508633.htm#xtor=RSS-1"
+  },
+  {
+   "id": 8,
+   "source": "ZDNet",
+   "titre": "Condamnation de Huawei aux Etats-Unis : quels risques de conformité et de chaîne d'approvisionnement pour les DSI ?",
+   "resume": "Un jury a reconnu Huawei coupable de 10 des 12 chefs d'accusation retenus contre l'équipementier chinois, incluant la fraude bancaire, la violation des sanctions en Iran et le vol de secrets industriels. Le tribunal a toutefois écarté les poursuites pour racket.",
+   "lien": "https://www.zdnet.fr/actualites/condamnation-de-huawei-aux-etats-unis-quels-risques-de-conformite-et-de-chaine-dapprovisionnement-pour-les-dsi-508631.htm#xtor=RSS-1"
+  },
+  {
+   "id": 9,
+   "source": "ZDNet",
+   "titre": "Fermeture d'Office Depot France : la numérisation achève un acteur historique du B2B",
+   "resume": "Le tribunal de commerce de Bobigny met fin à l'activité d'Office Depot en France. Faute de repreneur, la société Ankaa ferme ses 27 magasins et son site e-commerce, illustrant l'impact de la numérisation des bureaux sur la distribution B2B traditionnelle.",
+   "lien": "https://www.zdnet.fr/actualites/fermeture-doffice-depot-france-la-numerisation-acheve-un-acteur-historique-du-b2b-508628.htm#xtor=RSS-1"
+  },
+  {
+   "id": 10,
+   "source": "ZDNet",
+   "titre": "Télétravail, déplacements, Wi-Fi public : comment protéger les connexions de tous les collaborateurs d’une équipe ?",
+   "resume": "Une PME dont les salariés travaillent depuis leur domicile, un hôtel ou un espace de coworking multiplie les réseaux qu'elle ne contrôle pas réellement, et ce sont précisément ces réseaux qui peuvent causer des soucis de sécurité auprès du tout-venant, et a fortiori dans le cadre d’une entreprise. Un bon VPN répondra donc bien à ce problème, mais sa protection a un périmètre bien défini : de fait, être bien renseigné évite de sous-estimer son importance. Alors lisez bien ce qui va suivre.",
+   "lien": "https://www.zdnet.fr/publicite/teletravail-deplacements-wi-fi-public-comment-proteger-les-connexions-de-tous-les-collaborateurs-dune-equipe-508623.htm#xtor=RSS-1"
+  },
+  {
+   "id": 11,
+   "source": "LeMagIT",
+   "titre": "Shirudo : le « bouclier » IA pour Linux d’OpenAI et Cisco, encore loin de parer tous les assauts",
+   "resume": "<p>Les cyberattaquants s’appuient désormais sur l’IA agentique pour accélérer l’exploitation de vulnérabilités. <a href=\"https://www.lemagit.fr/actualites/366655137/Ransomware-les-frameworks-offensifs-agentiques-sont-entres-dans-la-danse\">L’existence du framework Artex</a> en est la preuve. Les défenseurs, aussi, exploitent pleinement les agents IA pour produire des correctifs et les tester. Les responsables des déploiements, eux, ont plus de mal à suivre la valse des patches.</p> <p>C’est là qu",
+   "lien": "https://www.lemagit.fr/actualites/366655460/Shirudo-le-bouclier-IA-pour-Linux-dOpenAI-et-Cisco-encore-loin-de-parer-tous-les-assauts"
+  },
+  {
+   "id": 12,
+   "source": "Developpez.com",
+   "titre": "Des portages non officiels font tourner GTA 6 sur Windows 11. Take-Two a riposté avec un avis DMCA qui a contraint GitHub à supprimer plus de 3 000 dépôts GTA 6 pour PC, suscitant la colère des joueur",
+   "resume": "Des portages non officiels font tourner GTA 6 sur Windows 11. Take-Two a riposté avec un avis DMCA qui a contraint GitHub à supprimer plus de 3 000 dépôts GTA 6 pour PC suscitant la colère des joueurs Plusieurs équipes de développeurs et de hackers collaborent activement pour porter et émuler une version divulguée de GTA 6 sur PC et Mac. Certains projets parviennent déjà à afficher des graphismes basiques et à faire interagir des personnages. Take-Two Interactive, la société mère de Rockstar Gam",
+   "lien": "https://jeux.developpez.com/actu/389495/Des-portages-non-officiels-font-tourner-GTA-6-sur-Windows-11-Take-Two-a-riposte-avec-un-avis-DMCA-qui-a-contraint-GitHub-a-supprimer-plus-de-3-000-depots-GTA-6-pour-PC-suscitant-la-colere-des-joueurs/"
+  },
+  {
+   "id": 13,
+   "source": "BleepingComputer",
+   "titre": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+   "resume": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"
+  },
+  {
+   "id": 14,
+   "source": "BleepingComputer",
+   "titre": "1Password customer data stolen after employee GitHub account breach",
+   "resume": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+  },
+  {
+   "id": 15,
+   "source": "BleepingComputer",
+   "titre": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+   "resume": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+  }
+ ]
+}
