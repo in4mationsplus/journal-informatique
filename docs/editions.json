@@ -1,5 +1,133 @@
 [
  {
+  "titre": "Journal du jeudi 26 novembre 2026, édition de midi",
+  "fichier": "journal-2026-11-26-midi.mp3",
+  "date": "Thu, 26 Nov 2026 11:05:26 +0000",
+  "taille": 2445552,
+  "duree": 408,
+  "chapitres": [
+   {
+    "titre": "Introduction",
+    "rubrique": null,
+    "debut": 0.0,
+    "liens": []
+   },
+   {
+    "titre": "Artex : les attaques pilotées par des agents IA progressent",
+    "rubrique": "Sécurité",
+    "debut": 19.61,
+    "liens": [
+     {
+      "source": "01net",
+      "lien": "https://www.01net.com/actualites/artex-encore-frappe-ia-soupconnee-avoir-pirate-un-reseau-de-la-cia.html"
+     },
+     {
+      "source": "ZDNet",
+      "lien": "https://www.zdnet.fr/actualites/artex-et-les-autres-ces-frameworks-offensifs-bases-sur-lia-qui-accelerent-le-tempo-de-la-menace-508642.htm#xtor=RSS-1"
+     },
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/artex-les-cyberattaquants-intensifient-l-utilisation-d-agents-ia-offensifs"
+     }
+    ]
+   },
+   {
+    "titre": "De faux tests de recrutement piègent les développeurs .NET",
+    "rubrique": "Sécurité",
+    "debut": 74.28,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/de-faux-tests-de-recrutement-ciblent-les-developpeurs-net-via-nuget"
+     }
+    ]
+   },
+   {
+    "titre": "Windows Update installe un pilote Intel obsolète et vulnérable",
+    "rubrique": "Sécurité",
+    "debut": 126.62,
+    "liens": [
+     {
+      "source": "01net",
+      "lien": "https://www.01net.com/actualites/windows-11-distribue-des-pilotes-intel-obsoletes-et-vulnerables-via-windows-update.html"
+     }
+    ]
+   },
+   {
+    "titre": "Anthropic mesure les évasions de bac à sable avec Siren",
+    "rubrique": "IA",
+    "debut": 169.85,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/donnees-ia/agents-ia-anthropic-mesure-les-risques-de-sortie-des-sandbox-avec-siren"
+     }
+    ]
+   },
+   {
+    "titre": "OpenAI et la multiplication de matrices : une limite à 2,25 ?",
+    "rubrique": "IA",
+    "debut": 222.53,
+    "liens": [
+     {
+      "source": "ActuIA",
+      "lien": "https://www.actuia.com/actualite/openai-revendique-une-limite-de-vitesse-pour-le-calcul-qui-fait-tourner-lia/"
+     },
+     {
+      "source": "Numerama",
+      "lien": "https://www.numerama.com/tech/2385329-ne-soyez-pas-un-cretin-enrage-lia-bouscule-les-maths-et-ce-chercheur-star-pense-que-le-chiffrement-est-le-prochain-sur-la-liste.html"
+     }
+    ]
+   },
+   {
+    "titre": "SpaceX autorisé à déployer un million de satellites de calcul",
+    "rubrique": "Cloud et infrastructure",
+    "debut": 277.61,
+    "liens": [
+     {
+      "source": "Numerama",
+      "lien": "https://www.numerama.com/sciences/2385245-un-million-de-satellites-spacex-obtient-le-feu-vert-pour-son-projet-de-data-centers-dans-lespace.html"
+     },
+     {
+      "source": "Numerama",
+      "lien": "https://www.numerama.com/sciences/2385165-civilisation-de-kardachev-de-type-ii-en-autorisant-le-million-de-satellites-de-spacex-la-fcc-vise-toute-la-puissance-du-soleil.html"
+     },
+     {
+      "source": "ZDNet",
+      "lien": "https://www.zdnet.fr/actualites/starmind-la-fcc-donne-son-feu-vert-a-un-million-de-satellites-dia-de-spacex-508656.htm#xtor=RSS-1"
+     },
+     {
+      "source": "Next",
+      "lien": "https://next.ink/270110/datacenter-spatial-spacex-veut-multiplier-par-50-le-nombre-de-satellites-en-orbite/"
+     }
+    ]
+   },
+   {
+    "titre": "Dell : 132 milliards de dollars de commandes de serveurs IA",
+    "rubrique": "Cloud et infrastructure",
+    "debut": 326.42,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/infrastructure-cloud/dell-defend-la-solidite-de-ses-132-3-milliards-de-dollars-de-commandes-de-serveurs-ia"
+     }
+    ]
+   },
+   {
+    "titre": "L'Australie vote un devoir de vigilance numérique",
+    "rubrique": "Business et régulation",
+    "debut": 366.07,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/brief-article/laustralie-impose-un-devoir-de-vigilance-numerique-aux-grandes-plateformes/"
+     }
+    ]
+   }
+  ],
+  "url": "https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-26-midi.mp3"
+ },
+ {
   "titre": "Journal du jeudi 26 novembre 2026, édition du matin",
   "fichier": "journal-2026-11-26-matin.mp3",
   "date": "Thu, 26 Nov 2026 05:04:50 +0000",

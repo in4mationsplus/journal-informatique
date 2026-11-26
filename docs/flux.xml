@@ -7,6 +7,21 @@
 <description>Les news informatiques du jour, sans doublons, en 15 minutes.</description>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>Journal du jeudi 26 novembre 2026, édition de midi</title>
+<guid isPermaLink="false">journal-2026-11-26-midi.mp3</guid>
+<pubDate>Thu, 26 Nov 2026 11:05:26 +0000</pubDate>
+<enclosure url="https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-26-midi.mp3" length="2445552" type="audio/mpeg"/>
+<podcast:chapters url="https://in4mationsplus.github.io/journal-informatique/journal-2026-11-26-midi.chapitres.json" type="application/json+chapters"/>
+<description>&lt;p&gt;&lt;b&gt;[Sécurité] Artex : les attaques pilotées par des agents IA progressent&lt;/b&gt; — &lt;a href="https://www.01net.com/actualites/artex-encore-frappe-ia-soupconnee-avoir-pirate-un-reseau-de-la-cia.html"&gt;01net&lt;/a&gt; · &lt;a href="https://www.zdnet.fr/actualites/artex-et-les-autres-ces-frameworks-offensifs-bases-sur-lia-qui-accelerent-le-tempo-de-la-menace-508642.htm#xtor=RSS-1"&gt;ZDNet&lt;/a&gt; · &lt;a href="https://www.lemondeinformatique.fr/cybersecurite-conformite/artex-les-cyberattaquants-intensifient-l-utilisation-d-agents-ia-offensifs"&gt;Le Monde Informatique&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] De faux tests de recrutement piègent les développeurs .NET&lt;/b&gt; — &lt;a href="https://www.lemondeinformatique.fr/cybersecurite-conformite/de-faux-tests-de-recrutement-ciblent-les-developpeurs-net-via-nuget"&gt;Le Monde Informatique&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] Windows Update installe un pilote Intel obsolète et vulnérable&lt;/b&gt; — &lt;a href="https://www.01net.com/actualites/windows-11-distribue-des-pilotes-intel-obsoletes-et-vulnerables-via-windows-update.html"&gt;01net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[IA] Anthropic mesure les évasions de bac à sable avec Siren&lt;/b&gt; — &lt;a href="https://www.lemondeinformatique.fr/donnees-ia/agents-ia-anthropic-mesure-les-risques-de-sortie-des-sandbox-avec-siren"&gt;Le Monde Informatique&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[IA] OpenAI et la multiplication de matrices : une limite à 2,25 ?&lt;/b&gt; — &lt;a href="https://www.actuia.com/actualite/openai-revendique-une-limite-de-vitesse-pour-le-calcul-qui-fait-tourner-lia/"&gt;ActuIA&lt;/a&gt; · &lt;a href="https://www.numerama.com/tech/2385329-ne-soyez-pas-un-cretin-enrage-lia-bouscule-les-maths-et-ce-chercheur-star-pense-que-le-chiffrement-est-le-prochain-sur-la-liste.html"&gt;Numerama&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Cloud et infrastructure] SpaceX autorisé à déployer un million de satellites de calcul&lt;/b&gt; — &lt;a href="https://www.numerama.com/sciences/2385245-un-million-de-satellites-spacex-obtient-le-feu-vert-pour-son-projet-de-data-centers-dans-lespace.html"&gt;Numerama&lt;/a&gt; · &lt;a href="https://www.numerama.com/sciences/2385165-civilisation-de-kardachev-de-type-ii-en-autorisant-le-million-de-satellites-de-spacex-la-fcc-vise-toute-la-puissance-du-soleil.html"&gt;Numerama&lt;/a&gt; · &lt;a href="https://www.zdnet.fr/actualites/starmind-la-fcc-donne-son-feu-vert-a-un-million-de-satellites-dia-de-spacex-508656.htm#xtor=RSS-1"&gt;ZDNet&lt;/a&gt; · &lt;a href="https://next.ink/270110/datacenter-spatial-spacex-veut-multiplier-par-50-le-nombre-de-satellites-en-orbite/"&gt;Next&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Cloud et infrastructure] Dell : 132 milliards de dollars de commandes de serveurs IA&lt;/b&gt; — &lt;a href="https://www.lemondeinformatique.fr/infrastructure-cloud/dell-defend-la-solidite-de-ses-132-3-milliards-de-dollars-de-commandes-de-serveurs-ia"&gt;Le Monde Informatique&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Business et régulation] L'Australie vote un devoir de vigilance numérique&lt;/b&gt; — &lt;a href="https://next.ink/brief-article/laustralie-impose-un-devoir-de-vigilance-numerique-aux-grandes-plateformes/"&gt;Next&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
 <title>Journal du jeudi 26 novembre 2026, édition du matin</title>
 <guid isPermaLink="false">journal-2026-11-26-matin.mp3</guid>
 <pubDate>Thu, 26 Nov 2026 05:04:50 +0000</pubDate>

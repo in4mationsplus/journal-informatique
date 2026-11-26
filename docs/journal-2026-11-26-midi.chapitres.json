@@ -1,0 +1,49 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Introduction"
+  },
+  {
+   "startTime": 19.61,
+   "title": "Artex : les attaques pilotées par des agents IA progressent",
+   "url": "https://www.01net.com/actualites/artex-encore-frappe-ia-soupconnee-avoir-pirate-un-reseau-de-la-cia.html"
+  },
+  {
+   "startTime": 74.28,
+   "title": "De faux tests de recrutement piègent les développeurs .NET",
+   "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/de-faux-tests-de-recrutement-ciblent-les-developpeurs-net-via-nuget"
+  },
+  {
+   "startTime": 126.62,
+   "title": "Windows Update installe un pilote Intel obsolète et vulnérable",
+   "url": "https://www.01net.com/actualites/windows-11-distribue-des-pilotes-intel-obsoletes-et-vulnerables-via-windows-update.html"
+  },
+  {
+   "startTime": 169.85,
+   "title": "Anthropic mesure les évasions de bac à sable avec Siren",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/agents-ia-anthropic-mesure-les-risques-de-sortie-des-sandbox-avec-siren"
+  },
+  {
+   "startTime": 222.53,
+   "title": "OpenAI et la multiplication de matrices : une limite à 2,25 ?",
+   "url": "https://www.actuia.com/actualite/openai-revendique-une-limite-de-vitesse-pour-le-calcul-qui-fait-tourner-lia/"
+  },
+  {
+   "startTime": 277.61,
+   "title": "SpaceX autorisé à déployer un million de satellites de calcul",
+   "url": "https://www.numerama.com/sciences/2385245-un-million-de-satellites-spacex-obtient-le-feu-vert-pour-son-projet-de-data-centers-dans-lespace.html"
+  },
+  {
+   "startTime": 326.42,
+   "title": "Dell : 132 milliards de dollars de commandes de serveurs IA",
+   "url": "https://www.lemondeinformatique.fr/infrastructure-cloud/dell-defend-la-solidite-de-ses-132-3-milliards-de-dollars-de-commandes-de-serveurs-ia"
+  },
+  {
+   "startTime": 366.07,
+   "title": "L'Australie vote un devoir de vigilance numérique",
+   "url": "https://next.ink/brief-article/laustralie-impose-un-devoir-de-vigilance-numerique-aux-grandes-plateformes/"
+  }
+ ]
+}
