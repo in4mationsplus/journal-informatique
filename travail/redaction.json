@@ -1,0 +1,38 @@
+{
+  "introduction": "Bonjour, voici le journal informatique du matin, jeudi 26 novembre 2026. Au programme : des attaques contre des pare-feu Palo Alto Networks, une fuite de données chez 1Password, des alertes sur les cyberattaques pilotées par des agents d'intelligence artificielle, et la condamnation de Huawei aux États-Unis.",
+  "sujets": [
+    {
+      "titre": "Palo Alto Networks : des failles exploitées sur PAN-OS",
+      "rubrique": "Sécurité",
+      "articles": [
+        13
+      ],
+      "texte": "Palo Alto Networks avertit que des attaquants exploitent actuellement deux vulnérabilités, baptisées PHP2Shell et Fragnesia, contre ses équipements fonctionnant sous PAN-OS, le système de ses pare-feu. Les pirates enchaînent les deux failles l'une après l'autre. Les appareils visés sont ceux dont l'interface d'administration est accessible depuis Internet. Pour un informaticien, le message est clair : une interface de gestion de pare-feu ne doit jamais être exposée publiquement. Si vous administrez de tels équipements, vérifiez dès aujourd'hui qu'elle est réservée à un réseau d'administration interne, et consultez l'avis de l'éditeur pour appliquer les correctifs et les mesures de contournement recommandés."
+    },
+    {
+      "titre": "1Password : des données clients volées via un compte GitHub",
+      "rubrique": "Sécurité",
+      "articles": [
+        14
+      ],
+      "texte": "1Password a révélé une fuite de données touchant ses clients. Point de départ : le compte GitHub professionnel d'un employé, qui a été piraté. Les attaquants s'en sont servis pour déployer du code malveillant sur les services informatiques internes de l'entreprise, ce qui leur a permis de dérober des données de clients. L'affaire est d'autant plus frappante que 1Password est un éditeur de gestionnaire de mots de passe, donc une société dont la sécurité est le métier. Elle rappelle que les comptes des développeurs, et les droits qu'ils donnent sur le code et son déploiement, sont une cible de choix. Protéger ces accès par une authentification forte et surveiller ce qui est déployé reste indispensable."
+    },
+    {
+      "titre": "Des agences suisse et italienne alertent sur les cyberattaques autonomes",
+      "rubrique": "IA",
+      "articles": [
+        15
+      ],
+      "texte": "Les agences de cybersécurité de la Suisse et de l'Italie lancent un avertissement sur des cyberattaques automatisées, menées par des agents d'intelligence artificielle. Elles visent en particulier les organisations du secteur des infrastructures critiques. Ces agents sont des programmes capables d'enchaîner seuls les étapes d'une attaque, sans intervention humaine à chaque étape. Pour les équipes informatiques, cela signifie que le délai entre la découverte d'une faille et son exploitation peut se réduire fortement. L'alerte invite donc à tenir ses correctifs à jour sans attendre, et à surveiller ses systèmes en continu, surtout dans les secteurs sensibles."
+    },
+    {
+      "titre": "Huawei reconnu coupable par un jury américain",
+      "rubrique": "Business et régulation",
+      "articles": [
+        8
+      ],
+      "texte": "Aux États-Unis, un jury a déclaré Huawei coupable de dix des douze chefs d'accusation retenus contre l'équipementier chinois. Il lui est reproché notamment une fraude bancaire, la violation des sanctions contre l'Iran et le vol de secrets industriels. Le tribunal a en revanche écarté les poursuites pour racket. Pour les directions informatiques, cette décision soulève des questions de conformité et de chaîne d'approvisionnement : les entreprises qui utilisent ou achètent du matériel Huawei, directement ou via des partenaires, doivent évaluer leur exposition. Il est prudent de cartographier ces équipements et d'anticiper d'éventuelles restrictions."
+    }
+  ],
+  "conclusion": "Voilà pour ce matin. Bonne route, et à bientôt pour la prochaine édition."
+}
