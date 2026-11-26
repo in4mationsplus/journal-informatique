@@ -364,7 +364,23 @@
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/": 1795626353.7871704,
   "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/": 1795626353.7871704,
   "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/": 1795626353.7871704,
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/": 1795626353.7871704
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/": 1795626353.7871704,
+  "https://www.numerama.com/sciences/2385057-decollage-dariane-6-que-sest-il-passe-avec-lincendie-declenche-non-loin-dune-cuve-dhydrogene.html": 1795669490.5662785,
+  "https://www.numerama.com/sciences/2384971-pourquoi-le-premier-jour-rouge-tempo-dedf-tombe-si-tot-cette-annee-des-le-26-novembre.html": 1795669490.5662785,
+  "https://www.numerama.com/tech/2384719-gta-6-fait-flamber-les-ventes-de-ps5-doccasion-et-les-escrocs-de-vinted-en-profitent.html": 1795669490.5662785,
+  "https://www.01net.com/bons-plans/streaming-psg-as-rome-ou-regarder-le-match-gratuit-en-direct-hd.html": 1795669490.5662785,
+  "https://www.01net.com/actualites/7-places-400-km-autonomie-prix-casse-28-000-euros-futur-dacia-jogger-electrique-frapper-grand-coup.html": 1795669490.5662785,
+  "https://www.zdnet.fr/guide-achat/test-expressvpn-fortify-une-protection-rapide-dans-toute-la-maison-508570.htm#xtor=RSS-1": 1795669490.5662785,
+  "https://www.zdnet.fr/pratique/web-pratique-ladybird-est-deja-tres-prometteur-pour-un-tout-nouveau-navigateur-508573.htm#xtor=RSS-1": 1795669490.5662785,
+  "https://www.zdnet.fr/actualites/quantique-et-ia-lue-prepare-un-fonds-souverain-de-50-milliards-deuros-pour-contrer-les-etats-unis-et-la-chine-508633.htm#xtor=RSS-1": 1795669490.5662785,
+  "https://www.zdnet.fr/actualites/condamnation-de-huawei-aux-etats-unis-quels-risques-de-conformite-et-de-chaine-dapprovisionnement-pour-les-dsi-508631.htm#xtor=RSS-1": 1795669490.5662785,
+  "https://www.zdnet.fr/actualites/fermeture-doffice-depot-france-la-numerisation-acheve-un-acteur-historique-du-b2b-508628.htm#xtor=RSS-1": 1795669490.5662785,
+  "https://www.zdnet.fr/publicite/teletravail-deplacements-wi-fi-public-comment-proteger-les-connexions-de-tous-les-collaborateurs-dune-equipe-508623.htm#xtor=RSS-1": 1795669490.5662785,
+  "https://www.lemagit.fr/actualites/366655460/Shirudo-le-bouclier-IA-pour-Linux-dOpenAI-et-Cisco-encore-loin-de-parer-tous-les-assauts": 1795669490.5662785,
+  "https://jeux.developpez.com/actu/389495/Des-portages-non-officiels-font-tourner-GTA-6-sur-Windows-11-Take-Two-a-riposte-avec-un-avis-DMCA-qui-a-contraint-GitHub-a-supprimer-plus-de-3-000-depots-GTA-6-pour-PC-suscitant-la-colere-des-joueurs/": 1795669490.5662785,
+  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/": 1795669490.5662785,
+  "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/": 1795669490.5662785,
+  "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/": 1795669490.5662785
  },
  "sujets_recents": [
   {
@@ -650,9 +666,85 @@
   {
    "titre": "HarmonyOS dépasse 100 millions d'appareils",
    "t": 1795626353.7871704
+  },
+  {
+   "titre": "Palo Alto Networks : des failles exploitées sur PAN-OS",
+   "t": 1795669490.5662785
+  },
+  {
+   "titre": "1Password : des données clients volées via un compte GitHub",
+   "t": 1795669490.5662785
+  },
+  {
+   "titre": "Des agences suisse et italienne alertent sur les cyberattaques autonomes",
+   "t": 1795669490.5662785
+  },
+  {
+   "titre": "Huawei reconnu coupable par un jury américain",
+   "t": 1795669490.5662785
   }
  ],
  "episodes": [
+  {
+   "titre": "Journal du jeudi 26 novembre 2026, édition du matin",
+   "fichier": "journal-2026-11-26-matin.mp3",
+   "date": "Thu, 26 Nov 2026 05:04:50 +0000",
+   "taille": 1135440,
+   "duree": 189,
+   "notes": "<p><b>[Sécurité] Palo Alto Networks : des failles exploitées sur PAN-OS</b> — <a href=\"https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/\">BleepingComputer</a></p>\n<p><b>[Sécurité] 1Password : des données clients volées via un compte GitHub</b> — <a href=\"https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/\">BleepingComputer</a></p>\n<p><b>[IA] Des agences suisse et italienne alertent sur les cyberattaques autonomes</b> — <a href=\"https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/\">BleepingComputer</a></p>\n<p><b>[Business et régulation] Huawei reconnu coupable par un jury américain</b> — <a href=\"https://www.zdnet.fr/actualites/condamnation-de-huawei-aux-etats-unis-quels-risques-de-conformite-et-de-chaine-dapprovisionnement-pour-les-dsi-508631.htm#xtor=RSS-1\">ZDNet</a></p>",
+   "chapitres": [
+    {
+     "titre": "Introduction",
+     "rubrique": null,
+     "debut": 0.0,
+     "liens": []
+    },
+    {
+     "titre": "Palo Alto Networks : des failles exploitées sur PAN-OS",
+     "rubrique": "Sécurité",
+     "debut": 20.06,
+     "liens": [
+      {
+       "source": "BleepingComputer",
+       "lien": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"
+      }
+     ]
+    },
+    {
+     "titre": "1Password : des données clients volées via un compte GitHub",
+     "rubrique": "Sécurité",
+     "debut": 63.1,
+     "liens": [
+      {
+       "source": "BleepingComputer",
+       "lien": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+      }
+     ]
+    },
+    {
+     "titre": "Des agences suisse et italienne alertent sur les cyberattaques autonomes",
+     "rubrique": "IA",
+     "debut": 103.61,
+     "liens": [
+      {
+       "source": "BleepingComputer",
+       "lien": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+      }
+     ]
+    },
+    {
+     "titre": "Huawei reconnu coupable par un jury américain",
+     "rubrique": "Business et régulation",
+     "debut": 143.16,
+     "liens": [
+      {
+       "source": "ZDNet",
+       "lien": "https://www.zdnet.fr/actualites/condamnation-de-huawei-aux-etats-unis-quels-risques-de-conformite-et-de-chaine-dapprovisionnement-pour-les-dsi-508631.htm#xtor=RSS-1"
+      }
+     ]
+    }
+   ]
+  },
   {
    "titre": "Journal du mercredi 25 novembre 2026, édition du soir",
    "fichier": "journal-2026-11-25-soir.mp3",

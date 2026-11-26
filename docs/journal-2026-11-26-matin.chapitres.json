@@ -1,0 +1,29 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Introduction"
+  },
+  {
+   "startTime": 20.06,
+   "title": "Palo Alto Networks : des failles exploitées sur PAN-OS",
+   "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"
+  },
+  {
+   "startTime": 63.1,
+   "title": "1Password : des données clients volées via un compte GitHub",
+   "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+  },
+  {
+   "startTime": 103.61,
+   "title": "Des agences suisse et italienne alertent sur les cyberattaques autonomes",
+   "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+  },
+  {
+   "startTime": 143.16,
+   "title": "Huawei reconnu coupable par un jury américain",
+   "url": "https://www.zdnet.fr/actualites/condamnation-de-huawei-aux-etats-unis-quels-risques-de-conformite-et-de-chaine-dapprovisionnement-pour-les-dsi-508631.htm#xtor=RSS-1"
+  }
+ ]
+}

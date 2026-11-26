@@ -7,6 +7,17 @@
 <description>Les news informatiques du jour, sans doublons, en 15 minutes.</description>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>Journal du jeudi 26 novembre 2026, édition du matin</title>
+<guid isPermaLink="false">journal-2026-11-26-matin.mp3</guid>
+<pubDate>Thu, 26 Nov 2026 05:04:50 +0000</pubDate>
+<enclosure url="https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-26-matin.mp3" length="1135440" type="audio/mpeg"/>
+<podcast:chapters url="https://in4mationsplus.github.io/journal-informatique/journal-2026-11-26-matin.chapitres.json" type="application/json+chapters"/>
+<description>&lt;p&gt;&lt;b&gt;[Sécurité] Palo Alto Networks : des failles exploitées sur PAN-OS&lt;/b&gt; — &lt;a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] 1Password : des données clients volées via un compte GitHub&lt;/b&gt; — &lt;a href="https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[IA] Des agences suisse et italienne alertent sur les cyberattaques autonomes&lt;/b&gt; — &lt;a href="https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Business et régulation] Huawei reconnu coupable par un jury américain&lt;/b&gt; — &lt;a href="https://www.zdnet.fr/actualites/condamnation-de-huawei-aux-etats-unis-quels-risques-de-conformite-et-de-chaine-dapprovisionnement-pour-les-dsi-508631.htm#xtor=RSS-1"&gt;ZDNet&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
 <title>Journal du mercredi 25 novembre 2026, édition du soir</title>
 <guid isPermaLink="false">journal-2026-11-25-soir.mp3</guid>
 <pubDate>Wed, 25 Nov 2026 17:05:53 +0000</pubDate>

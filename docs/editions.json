@@ -1,5 +1,65 @@
 [
  {
+  "titre": "Journal du jeudi 26 novembre 2026, édition du matin",
+  "fichier": "journal-2026-11-26-matin.mp3",
+  "date": "Thu, 26 Nov 2026 05:04:50 +0000",
+  "taille": 1135440,
+  "duree": 189,
+  "chapitres": [
+   {
+    "titre": "Introduction",
+    "rubrique": null,
+    "debut": 0.0,
+    "liens": []
+   },
+   {
+    "titre": "Palo Alto Networks : des failles exploitées sur PAN-OS",
+    "rubrique": "Sécurité",
+    "debut": 20.06,
+    "liens": [
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"
+     }
+    ]
+   },
+   {
+    "titre": "1Password : des données clients volées via un compte GitHub",
+    "rubrique": "Sécurité",
+    "debut": 63.1,
+    "liens": [
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+     }
+    ]
+   },
+   {
+    "titre": "Des agences suisse et italienne alertent sur les cyberattaques autonomes",
+    "rubrique": "IA",
+    "debut": 103.61,
+    "liens": [
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+     }
+    ]
+   },
+   {
+    "titre": "Huawei reconnu coupable par un jury américain",
+    "rubrique": "Business et régulation",
+    "debut": 143.16,
+    "liens": [
+     {
+      "source": "ZDNet",
+      "lien": "https://www.zdnet.fr/actualites/condamnation-de-huawei-aux-etats-unis-quels-risques-de-conformite-et-de-chaine-dapprovisionnement-pour-les-dsi-508631.htm#xtor=RSS-1"
+     }
+    ]
+   }
+  ],
+  "url": "https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-26-matin.mp3"
+ },
+ {
   "titre": "Journal du mercredi 25 novembre 2026, édition du soir",
   "fichier": "journal-2026-11-25-soir.mp3",
   "date": "Wed, 25 Nov 2026 17:05:53 +0000",
