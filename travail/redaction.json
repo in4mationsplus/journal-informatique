@@ -1,0 +1,109 @@
+{
+  "introduction": "Bonjour, voici le journal de midi du vendredi 27 novembre 2026. Au programme : la cyberattaque chez SAP et celle de l'AFP, la faille NFS2ROOT dans Linux, OpenAI qui fusionne Chat et Work, et le retrait de l'application Talkie.",
+  "sujets": [
+    {
+      "titre": "SAP : une cyberattaque et des soupçons d'accès au code source",
+      "rubrique": "Sécurité",
+      "articles": [
+        6,
+        59,
+        67
+      ],
+      "texte": "SAP a confirmé avoir détecté des activités suspectes dans son environnement informatique. L'aveu est venu après un article du Spiegel, qui disait avoir eu accès à un message interne demandant de garder l'affaire strictement au sein de l'entreprise. Selon plusieurs médias allemands, des attaquants auraient utilisé des jetons d'authentification volés à des employés pour accéder à du code source hébergé sur GitHub. L'incident, désigné en interne sous le nom de Project Granite, fait toujours l'objet d'investigations. L'éditeur affirme n'avoir trouvé aucune preuve d'accès non autorisé aux données métier de ses clients, et dit avoir pris des mesures urgentes pour les protéger. Pour un informaticien, le cas rappelle qu'un simple jeton volé suffit à ouvrir des dépôts de code : jetons à durée courte, droits minimaux et surveillance des accès restent des défenses de base."
+    },
+    {
+      "titre": "L'AFP coupe sa plateforme AFP Forum après une cyberattaque",
+      "rubrique": "Sécurité",
+      "articles": [
+        12,
+        16,
+        61
+      ],
+      "texte": "L'Agence France-Presse a été visée par une cyberattaque dans la nuit du 25 au 26 novembre. Par précaution, elle a coupé l'accès à AFP Forum, la plateforme où ses clients, notamment les médias, consultent et téléchargent dépêches, photos et vidéos. Selon un des articles, la plateforme était toujours inaccessible ce vendredi. Des solutions de secours ont été proposées aux abonnés, et des investigations sont menées avec l'appui d'experts extérieurs. L'identité des attaquants et l'étendue de l'incident restent pour l'instant inconnues. Pour les équipes techniques, c'est un exemple de la réaction classique : isoler rapidement le service touché, quitte à interrompre l'activité, puis enquêter, tout en prévoyant un canal de repli pour les clients."
+    },
+    {
+      "titre": "NFS2ROOT : une faille vieille de douze ans dans le serveur NFS de Linux",
+      "rubrique": "Sécurité",
+      "articles": [
+        51,
+        69
+      ],
+      "texte": "Une vulnérabilité critique surnommée NFS2ROOT touche le serveur NFS du noyau Linux. Corrigée le 19 novembre, elle était présente depuis douze ans. Elle permet à n'importe quel client qui atteint le port 2049 d'un serveur NFS d'écrire dans la mémoire du noyau sans s'authentifier, et donc d'obtenir les droits root à distance. Elle a été repérée la première fois par un chercheur de l'ANSSI, Jérémy Jean. Sont concernés les NAS et les nœuds Kubernetes qui exposent NFS. Le conseil pratique est double : installer le correctif du noyau, et vérifier qu'aucun port NFS n'est joignable depuis des réseaux non maîtrisés, car ce service n'a jamais vocation à être exposé largement."
+    },
+    {
+      "titre": "Drupal : une seconde faille critique exploitée",
+      "rubrique": "Sécurité",
+      "articles": [
+        66
+      ],
+      "texte": "L'équipe de sécurité de Drupal avertit que des attaquants exploitent une seconde vulnérabilité critique, qui permet de pénétrer dans des sites non corrigés et d'en prendre le contrôle. C'est une suite de l'alerte déjà évoquée sur une première faille exploitée du même gestionnaire de contenu. Les articles disponibles ne donnent pas plus de détails techniques. Pour les administrateurs de sites Drupal, l'urgence est de consulter l'avis de sécurité officiel et d'appliquer sans attendre les mises à jour, puisque l'exploitation est déjà en cours."
+    },
+    {
+      "titre": "Microsoft publie un correctif d'urgence pour Windows Server 2025",
+      "rubrique": "Sécurité",
+      "articles": [
+        68
+      ],
+      "texte": "Microsoft a publié une mise à jour d'urgence de type hotpatch pour corriger des plantages de Windows Server 2025. Ces plantages étaient provoqués par l'installation du hotpatch de sécurité de ce mois-ci, référencé KB5131077. Le hotpatch permet d'appliquer des correctifs sans redémarrer le serveur, ce qui rend l'incident d'autant plus gênant pour les administrateurs qui l'avaient adopté. Les équipes concernées devraient installer ce nouveau correctif. Cela confirme l'intérêt de tester les mises à jour sur quelques machines avant un déploiement général, même pour les correctifs de sécurité."
+    },
+    {
+      "titre": "Binance rétablit les retraits après un vol de 6,3 milliards de dollars",
+      "rubrique": "Sécurité",
+      "articles": [
+        56
+      ],
+      "texte": "Près d'un mois après le vol de crypto-actifs survenu le 29 octobre, Binance annonce avoir terminé la remise en service des retraits sur sa plateforme. Le montant dérobé est de 6,3 milliards de dollars. L'exchange avait suspendu cette fonctionnalité pour contenir l'incident et sécuriser ses infrastructures, après la compromission de plusieurs portefeuilles. Le retour à la normale prend donc un mois. Pour les équipes de sécurité, l'épisode montre le coût d'une compromission de portefeuilles de grande valeur : isoler les systèmes, reconstruire la confiance et rouvrir les services progressivement demande beaucoup plus de temps que l'attaque elle-même."
+    },
+    {
+      "titre": "OpenAI fusionne Chat et Work, avec des quotas partagés",
+      "rubrique": "IA",
+      "articles": [
+        64
+      ],
+      "texte": "OpenAI commence à réunir les fonctions de conversation de ChatGPT et les capacités d'agent de Work dans une même interface. À partir de décembre, les conversations avec les modèles avancés partageront leurs quotas avec Work et Codex, pour les abonnés Plus, Pro et Business. La majorité des utilisateurs ne devrait pas être affectée, mais les plus intensifs pourraient atteindre leurs limites plus vite. OpenAI n'a pas précisé la taille des nouvelles enveloppes. Si votre équipe s'appuie sur Codex pour programmer, il faudra surveiller la consommation de décembre, puisque les échanges de conversation et les tâches d'agent puiseront désormais dans le même réservoir."
+    },
+    {
+      "titre": "Perplexity lance Time Machine pour les agents IA",
+      "rubrique": "IA",
+      "articles": [
+        65
+      ],
+      "texte": "Perplexity a lancé le 25 novembre Time Machine, une fonction de ses interfaces de programmation Search et Context. Elle permet à un agent d'intelligence artificielle d'interroger le Web tel qu'il existait à une date donnée. L'objectif est l'entraînement, l'évaluation et les simulations historiques : on évite ainsi qu'un modèle accède à des informations publiées après les événements qu'il doit analyser. La fenêtre rétrospective couvre 365 jours et s'appuie sur des copies de pages conservées. Pour les développeurs d'agents, c'est un outil utile pour tester un système sans que des données récentes faussent les résultats."
+    },
+    {
+      "titre": "Talkie retiré de l'App Store, MiniMax visé par deux affaires",
+      "rubrique": "IA",
+      "articles": [
+        52,
+        63
+      ],
+      "texte": "Apple a retiré de son App Store l'application de compagnons virtuels Talkie, développée par le groupe chinois MiniMax. Une enquête a révélé des échanges à caractère sexuel ou abusif entre ses chatbots et des mineurs. Les documents de MiniMax montrent aussi que l'entreprise a cherché à renforcer l'attachement des utilisateurs à leurs compagnons virtuels pour les faire parler plus longtemps. Parallèlement, selon une enquête de Dragos révélée par Reuters, des liens confidentiels transmis aux modèles de MiniMax auraient été consultés par des parties non identifiées, malgré des demandes de non-conservation des données. Ces deux affaires rappellent que ce que l'on confie à un service d'IA peut être conservé ou exposé."
+    },
+    {
+      "titre": "Linux remplace Windows sur 2 400 postes de la CNAF",
+      "rubrique": "Cloud et infrastructure",
+      "articles": [
+        43
+      ],
+      "texte": "La CNAF, la Caisse nationale des affaires familiales, bascule 2 400 ordinateurs en libre-service, dans ses agences, de Windows vers des systèmes basés sur Linux. Ce choix est justifié à la fois par des considérations de sécurité, de souveraineté technologique et par les conditions tarifaires. Ce sont des postes ouverts au public, donc un cas d'usage où un système maîtrisé et verrouillé est un atout. Pour les responsables informatiques, c'est un exemple concret d'administration publique qui s'éloigne d'un éditeur américain pour des raisons de coût et de contrôle, un mouvement qui s'observe de plus en plus en Europe."
+    },
+    {
+      "titre": "SAP envisage jusqu'à 10 000 suppressions de postes",
+      "rubrique": "Business et régulation",
+      "articles": [
+        48,
+        53
+      ],
+      "texte": "SAP envisage une restructuration qui pourrait supprimer jusqu'à 10 000 postes, soit environ 9 % de ses plus de 110 000 salariés. L'information a été révélée jeudi par Bloomberg et n'a pas été confirmée par l'éditeur, qui indique revoir en permanence son organisation. Selon un autre article, la direction a demandé à tous ses services d'identifier des réductions possibles, surtout dans le produit, l'ingénierie et la vente. Le motif avancé est la transformation par l'intelligence artificielle. Pour un informaticien, c'est un signal de plus sur la pression que l'IA exerce sur l'emploi, y compris chez les grands éditeurs de logiciels."
+    },
+    {
+      "titre": "Navigateurs sur iPhone : Google rejoint Mozilla contre Apple",
+      "rubrique": "Business et régulation",
+      "articles": [
+        27
+      ],
+      "texte": "Trois ans après l'entrée en vigueur du règlement européen sur les marchés numériques, aucun navigateur n'a pu lancer son propre moteur sur iPhone : Chrome et Firefox restent donc des habillages de Safari. Cinquante signataires, Mozilla en tête, réclament l'ouverture d'une procédure contre Apple. Google leur apporte son soutien et estime que le choix existe sur le papier, pas dans les faits. Pour les développeurs web, l'enjeu est concret : tant qu'un seul moteur est autorisé sur iPhone, les fonctions et les bogues de Safari s'imposent à tous les navigateurs de cette plateforme."
+    }
+  ],
+  "conclusion": "C'était le journal de midi, bonne route et à ce soir."
+}
