@@ -1,5 +1,76 @@
 [
  {
+  "titre": "Journal du vendredi 27 novembre 2026, édition du matin",
+  "fichier": "journal-2026-11-27-matin.mp3",
+  "date": "Fri, 27 Nov 2026 05:05:08 +0000",
+  "taille": 1540944,
+  "duree": 257,
+  "chapitres": [
+   {
+    "titre": "Introduction",
+    "rubrique": null,
+    "debut": 0.0,
+    "liens": []
+   },
+   {
+    "titre": "GoodGuys : de fausses interviews d'experts pour voler des accès Google",
+    "rubrique": "Sécurité",
+    "debut": 20.16,
+    "liens": [
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/"
+     }
+    ]
+   },
+   {
+    "titre": "Rançongiciels : une menace qui s'intensifie",
+    "rubrique": "Sécurité",
+    "debut": 70.01,
+    "liens": [
+     {
+      "source": "LeMagIT",
+      "lien": "https://www.lemagit.fr/actualites/366655557/Rancongiciels-une-menace-qui-sintensifie"
+     }
+    ]
+   },
+   {
+    "titre": "Les outils d'IA accélèrent la livraison de logiciels, mais aussi les coûts informatiques",
+    "rubrique": "Développement",
+    "debut": 114.67,
+    "liens": [
+     {
+      "source": "LeMagIT",
+      "lien": "https://www.lemagit.fr/actualites/366655558/Les-outils-IA-accelerent-la-livraison-logicielle-et-la-hausse-des-couts-IT-etude"
+     }
+    ]
+   },
+   {
+    "titre": "IA sur site : Microsoft s'associe à Dell",
+    "rubrique": "Cloud et infrastructure",
+    "debut": 162.6,
+    "liens": [
+     {
+      "source": "LeMagIT",
+      "lien": "https://www.lemagit.fr/actualites/366655357/IA-sur-site-Microsoft-Azure-sassocie-a-Dell"
+     }
+    ]
+   },
+   {
+    "titre": "Données de santé : la Cour des comptes déplore l'absence de stratégie nationale",
+    "rubrique": "Business et régulation",
+    "debut": 209.52,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/270315/donnees-de-sante-la-cour-des-comptes-deplore-labsence-de-strategie-nationale/"
+     }
+    ]
+   }
+  ],
+  "url": "https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-27-matin.mp3"
+ },
+ {
   "titre": "Journal du jeudi 26 novembre 2026, édition du soir",
   "fichier": "journal-2026-11-26-soir.mp3",
   "date": "Thu, 26 Nov 2026 17:05:34 +0000",

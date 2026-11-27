@@ -7,6 +7,18 @@
 <description>Les news informatiques du jour, sans doublons, en 15 minutes.</description>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>Journal du vendredi 27 novembre 2026, édition du matin</title>
+<guid isPermaLink="false">journal-2026-11-27-matin.mp3</guid>
+<pubDate>Fri, 27 Nov 2026 05:05:08 +0000</pubDate>
+<enclosure url="https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-27-matin.mp3" length="1540944" type="audio/mpeg"/>
+<podcast:chapters url="https://in4mationsplus.github.io/journal-informatique/journal-2026-11-27-matin.chapitres.json" type="application/json+chapters"/>
+<description>&lt;p&gt;&lt;b&gt;[Sécurité] GoodGuys : de fausses interviews d'experts pour voler des accès Google&lt;/b&gt; — &lt;a href="https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] Rançongiciels : une menace qui s'intensifie&lt;/b&gt; — &lt;a href="https://www.lemagit.fr/actualites/366655557/Rancongiciels-une-menace-qui-sintensifie"&gt;LeMagIT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Cloud et infrastructure] IA sur site : Microsoft s'associe à Dell&lt;/b&gt; — &lt;a href="https://www.lemagit.fr/actualites/366655357/IA-sur-site-Microsoft-Azure-sassocie-a-Dell"&gt;LeMagIT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Développement] Les outils d'IA accélèrent la livraison de logiciels, mais aussi les coûts informatiques&lt;/b&gt; — &lt;a href="https://www.lemagit.fr/actualites/366655558/Les-outils-IA-accelerent-la-livraison-logicielle-et-la-hausse-des-couts-IT-etude"&gt;LeMagIT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Business et régulation] Données de santé : la Cour des comptes déplore l'absence de stratégie nationale&lt;/b&gt; — &lt;a href="https://next.ink/270315/donnees-de-sante-la-cour-des-comptes-deplore-labsence-de-strategie-nationale/"&gt;Next&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
 <title>Journal du jeudi 26 novembre 2026, édition du soir</title>
 <guid isPermaLink="false">journal-2026-11-26-soir.mp3</guid>
 <pubDate>Thu, 26 Nov 2026 17:05:34 +0000</pubDate>
