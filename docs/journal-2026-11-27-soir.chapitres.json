@@ -1,0 +1,64 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Introduction"
+  },
+  {
+   "startTime": 16.66,
+   "title": "Cloud One de l'US Air Force piraté",
+   "url": "https://www.numerama.com/cyberguerre/2386483-serie-noire-aux-etats-unis-des-pirates-se-sont-infiltres-dans-cloud-one-la-plateforme-cloud-geante-de-lus-air-force.html"
+  },
+  {
+   "startTime": 81.05,
+   "title": "Artex : l'enchaînement d'une attaque observé par le DIVD",
+   "url": "https://www.lemagit.fr/actualites/366655506/Artex-le-DIVD-donne-un-apercu-precieux-de-ce-a-quoi-sattendre"
+  },
+  {
+   "startTime": 128.06,
+   "title": "Photoshop 2027 : le New York Times s'inquiète de l'IA générative",
+   "url": "https://next.ink/brief-article/le-new-york-times-interdit-photoshop-2027-a-ses-photographes-a-cause-de-lia/"
+  },
+  {
+   "startTime": 172.25,
+   "title": "macOS 27 démarre sur Linux, sans machine virtuelle",
+   "url": "https://next.ink/270674/oui-on-peut-faire-tourner-macos-sur-une-base-linux/"
+  },
+  {
+   "startTime": 212.23,
+   "title": "Nvidia et Kioxia étendent la mémoire des GPU avec des SSD",
+   "url": "https://www.lemagit.fr/actualites/366655464/Stockage-Nvidia-et-Kioxia-etendent-la-memoire-des-GPU-avec-des-SSD"
+  },
+  {
+   "startTime": 254.9,
+   "title": "Cloud souverain : S3NS avec Red Hat, Atos avec Scaleway",
+   "url": "https://www.zdnet.fr/actualites/cloud-de-confiance-s3ns-integre-red-hat-openshift-rhel-et-ansible-sur-premi3ns-508820.htm#xtor=RSS-1"
+  },
+  {
+   "startTime": 307.18,
+   "title": "Windows Server 2028 sans WSUS",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/"
+  },
+  {
+   "startTime": 340.99,
+   "title": "Ariane remplace la DINUM",
+   "url": "https://next.ink/270519/ariane-succede-officiellement-a-la-dinum-et-pourra-imposer-ses-outils-aux-ministeres/"
+  },
+  {
+   "startTime": 380.02,
+   "title": "Google va publier les coordonnées des développeurs d'applications",
+   "url": "https://www.01net.com/actualites/google-va-devoiler-les-coordonnees-personnelles-des-developpeurs-dapplications-au-monde-entier.html"
+  },
+  {
+   "startTime": 413.42,
+   "title": "Nvidia règle le litige sur le minage pour 290 millions de dollars",
+   "url": "https://next.ink/270694/nvidia-accepte-de-verser-290-millions-de-dollars-pour-solder-le-litige-sur-le-minage/"
+  },
+  {
+   "startTime": 444.24,
+   "title": "Le Royaume-Uni refuse d'interdire les datacenters d'IA",
+   "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/le-royaume-uni-rejette-une-petition-reclamant-l-interdiction-de-nouveaux-datacenters-dedies-a-l-ia"
+  }
+ ]
+}

@@ -1,5 +1,158 @@
 [
  {
+  "titre": "Journal du vendredi 27 novembre 2026, édition du soir",
+  "fichier": "journal-2026-11-27-soir.mp3",
+  "date": "Fri, 27 Nov 2026 17:05:56 +0000",
+  "taille": 2916288,
+  "duree": 486,
+  "chapitres": [
+   {
+    "titre": "Introduction",
+    "rubrique": null,
+    "debut": 0.0,
+    "liens": []
+   },
+   {
+    "titre": "Cloud One de l'US Air Force piraté",
+    "rubrique": "Sécurité",
+    "debut": 16.66,
+    "liens": [
+     {
+      "source": "Numerama",
+      "lien": "https://www.numerama.com/cyberguerre/2386483-serie-noire-aux-etats-unis-des-pirates-se-sont-infiltres-dans-cloud-one-la-plateforme-cloud-geante-de-lus-air-force.html"
+     },
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/"
+     },
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-en-serie-es-systemes-it-sous-pression"
+     },
+     {
+      "source": "LeMagIT",
+      "lien": "https://www.lemagit.fr/actualites/366655521/Cyberhebdo-du-27-novembre-2026-une-semaine-dune-intensite-sans-precedent"
+     }
+    ]
+   },
+   {
+    "titre": "Artex : l'enchaînement d'une attaque observé par le DIVD",
+    "rubrique": "Sécurité",
+    "debut": 81.05,
+    "liens": [
+     {
+      "source": "LeMagIT",
+      "lien": "https://www.lemagit.fr/actualites/366655506/Artex-le-DIVD-donne-un-apercu-precieux-de-ce-a-quoi-sattendre"
+     }
+    ]
+   },
+   {
+    "titre": "Photoshop 2027 : le New York Times s'inquiète de l'IA générative",
+    "rubrique": "IA",
+    "debut": 128.06,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/brief-article/le-new-york-times-interdit-photoshop-2027-a-ses-photographes-a-cause-de-lia/"
+     }
+    ]
+   },
+   {
+    "titre": "macOS 27 démarre sur Linux, sans machine virtuelle",
+    "rubrique": "Développement",
+    "debut": 172.25,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/270674/oui-on-peut-faire-tourner-macos-sur-une-base-linux/"
+     }
+    ]
+   },
+   {
+    "titre": "Nvidia et Kioxia étendent la mémoire des GPU avec des SSD",
+    "rubrique": "Cloud et infrastructure",
+    "debut": 212.23,
+    "liens": [
+     {
+      "source": "LeMagIT",
+      "lien": "https://www.lemagit.fr/actualites/366655464/Stockage-Nvidia-et-Kioxia-etendent-la-memoire-des-GPU-avec-des-SSD"
+     }
+    ]
+   },
+   {
+    "titre": "Cloud souverain : S3NS avec Red Hat, Atos avec Scaleway",
+    "rubrique": "Cloud et infrastructure",
+    "debut": 254.9,
+    "liens": [
+     {
+      "source": "ZDNet",
+      "lien": "https://www.zdnet.fr/actualites/cloud-de-confiance-s3ns-integre-red-hat-openshift-rhel-et-ansible-sur-premi3ns-508820.htm#xtor=RSS-1"
+     },
+     {
+      "source": "ZDNet",
+      "lien": "https://www.zdnet.fr/actualites/atos-et-scaleway-sallient-pour-industrialiser-le-cloud-souverain-par-lia-508817.htm#xtor=RSS-1"
+     }
+    ]
+   },
+   {
+    "titre": "Windows Server 2028 sans WSUS",
+    "rubrique": "Cloud et infrastructure",
+    "debut": 307.18,
+    "liens": [
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/"
+     }
+    ]
+   },
+   {
+    "titre": "Ariane remplace la DINUM",
+    "rubrique": "Business et régulation",
+    "debut": 340.99,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/270519/ariane-succede-officiellement-a-la-dinum-et-pourra-imposer-ses-outils-aux-ministeres/"
+     }
+    ]
+   },
+   {
+    "titre": "Google va publier les coordonnées des développeurs d'applications",
+    "rubrique": "Business et régulation",
+    "debut": 380.02,
+    "liens": [
+     {
+      "source": "01net",
+      "lien": "https://www.01net.com/actualites/google-va-devoiler-les-coordonnees-personnelles-des-developpeurs-dapplications-au-monde-entier.html"
+     }
+    ]
+   },
+   {
+    "titre": "Nvidia règle le litige sur le minage pour 290 millions de dollars",
+    "rubrique": "Business et régulation",
+    "debut": 413.42,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/270694/nvidia-accepte-de-verser-290-millions-de-dollars-pour-solder-le-litige-sur-le-minage/"
+     }
+    ]
+   },
+   {
+    "titre": "Le Royaume-Uni refuse d'interdire les datacenters d'IA",
+    "rubrique": "Business et régulation",
+    "debut": 444.24,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/le-royaume-uni-rejette-une-petition-reclamant-l-interdiction-de-nouveaux-datacenters-dedies-a-l-ia"
+     }
+    ]
+   }
+  ],
+  "url": "https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-27-soir.mp3"
+ },
+ {
   "titre": "Journal du vendredi 27 novembre 2026, édition de midi",
   "fichier": "journal-2026-11-27-midi.mp3",
   "date": "Fri, 27 Nov 2026 11:05:20 +0000",
