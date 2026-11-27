@@ -1,5 +1,181 @@
 [
  {
+  "titre": "Journal du vendredi 27 novembre 2026, édition de midi",
+  "fichier": "journal-2026-11-27-midi.mp3",
+  "date": "Fri, 27 Nov 2026 11:05:20 +0000",
+  "taille": 2995344,
+  "duree": 499,
+  "chapitres": [
+   {
+    "titre": "Introduction",
+    "rubrique": null,
+    "debut": 0.0,
+    "liens": []
+   },
+   {
+    "titre": "SAP : une cyberattaque et des soupçons d'accès au code source",
+    "rubrique": "Sécurité",
+    "debut": 16.44,
+    "liens": [
+     {
+      "source": "Numerama",
+      "lien": "https://www.numerama.com/cyberguerre/2385947-a-garder-strictement-au-sein-de-sap-un-message-interne-trahit-une-cyberattaque-contre-le-geant-allemand-du-logiciel.html"
+     },
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-chez-sap-des-soupcons-d-acces-au-code-source-sur-github"
+     },
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/"
+     }
+    ]
+   },
+   {
+    "titre": "L'AFP coupe sa plateforme AFP Forum après une cyberattaque",
+    "rubrique": "Sécurité",
+    "debut": 68.83,
+    "liens": [
+     {
+      "source": "Numerama",
+      "lien": "https://www.numerama.com/cyberguerre/2385847-victime-dune-cyberattaque-lagence-france-presse-ferme-brutalement-lacces-a-une-de-ses-plateformes-voici-ce-que-lon-sait.html"
+     },
+     {
+      "source": "01net",
+      "lien": "https://www.01net.com/actualites/victime-dune-cyberattaque-lafp-bloque-une-plateforme-pour-contrer-les-pirates.html"
+     },
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-l-afp-la-plateforme-afp-forum-mise-hors-ligne"
+     }
+    ]
+   },
+   {
+    "titre": "NFS2ROOT : une faille vieille de douze ans dans le serveur NFS de Linux",
+    "rubrique": "Sécurité",
+    "debut": 113.93,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/270556/la-faille-nfs2root-permet-de-prendre-le-controle-de-nas-et-noeuds-kubernetes/"
+     },
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/"
+     }
+    ]
+   },
+   {
+    "titre": "Drupal : une seconde faille critique exploitée",
+    "rubrique": "Sécurité",
+    "debut": 155.98,
+    "liens": [
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/"
+     }
+    ]
+   },
+   {
+    "titre": "Microsoft publie un correctif d'urgence pour Windows Server 2025",
+    "rubrique": "Sécurité",
+    "debut": 187.22,
+    "liens": [
+     {
+      "source": "BleepingComputer",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/"
+     }
+    ]
+   },
+   {
+    "titre": "Binance rétablit les retraits après un vol de 6,3 milliards de dollars",
+    "rubrique": "Sécurité",
+    "debut": 223.94,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/binance-retablit-les-retraits-apres-le-piratage-de-6-3-md-de-crypto-actifs"
+     }
+    ]
+   },
+   {
+    "titre": "OpenAI fusionne Chat et Work, avec des quotas partagés",
+    "rubrique": "IA",
+    "debut": 262.25,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/donnees-ia/openai-fusionne-chat-et-work-avec-des-quotas-partages-des-decembre"
+     }
+    ]
+   },
+   {
+    "titre": "Perplexity lance Time Machine pour les agents IA",
+    "rubrique": "IA",
+    "debut": 302.88,
+    "liens": [
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/donnees-ia/perplexity-lance-time-machine-pour-faire-explorer-le-web-passe-aux-agents-ia"
+     }
+    ]
+   },
+   {
+    "titre": "Talkie retiré de l'App Store, MiniMax visé par deux affaires",
+    "rubrique": "IA",
+    "debut": 339.74,
+    "liens": [
+     {
+      "source": "Next",
+      "lien": "https://next.ink/270438/messages-sexuels-et-chantage-affectif-apple-retire-le-chatbot-talkie-de-lapp-store/"
+     },
+     {
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/minimax-vise-par-des-soupcons-d-exposition-de-donnees-apple-retire-talkie-de-l-app-store"
+     }
+    ]
+   },
+   {
+    "titre": "Linux remplace Windows sur 2 400 postes de la CNAF",
+    "rubrique": "Cloud et infrastructure",
+    "debut": 380.3,
+    "liens": [
+     {
+      "source": "ZDNet",
+      "lien": "https://www.zdnet.fr/actualites/la-cnaf-bascule-ses-ordinateurs-en-libre-service-de-windows-a-linux-508732.htm#xtor=RSS-1"
+     }
+    ]
+   },
+   {
+    "titre": "SAP envisage jusqu'à 10 000 suppressions de postes",
+    "rubrique": "Business et régulation",
+    "debut": 420.12,
+    "liens": [
+     {
+      "source": "ZDNet",
+      "lien": "https://www.zdnet.fr/actualites/sap-envisage-de-supprimer-au-moins-10-000-postes-pour-se-recentrer-sur-lia-508769.htm#xtor=RSS-1"
+     },
+     {
+      "source": "Next",
+      "lien": "https://next.ink/brief-article/sap-envisage-jusqua-10-000-suppressions-de-postes-au-nom-de-la-transformation-par-lia/"
+     }
+    ]
+   },
+   {
+    "titre": "Navigateurs sur iPhone : Google rejoint Mozilla contre Apple",
+    "rubrique": "Business et régulation",
+    "debut": 461.52,
+    "liens": [
+     {
+      "source": "01net",
+      "lien": "https://www.01net.com/actualites/google-se-rallie-a-mozilla-chrome-et-firefox-sur-iphone-restent-des-safari-deguises-3-ans-apres-le-dma.html"
+     }
+    ]
+   }
+  ],
+  "url": "https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-27-midi.mp3"
+ },
+ {
   "titre": "Journal du vendredi 27 novembre 2026, édition du matin",
   "fichier": "journal-2026-11-27-matin.mp3",
   "date": "Fri, 27 Nov 2026 05:05:08 +0000",

@@ -1,0 +1,69 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Introduction"
+  },
+  {
+   "startTime": 16.44,
+   "title": "SAP : une cyberattaque et des soupçons d'accès au code source",
+   "url": "https://www.numerama.com/cyberguerre/2385947-a-garder-strictement-au-sein-de-sap-un-message-interne-trahit-une-cyberattaque-contre-le-geant-allemand-du-logiciel.html"
+  },
+  {
+   "startTime": 68.83,
+   "title": "L'AFP coupe sa plateforme AFP Forum après une cyberattaque",
+   "url": "https://www.numerama.com/cyberguerre/2385847-victime-dune-cyberattaque-lagence-france-presse-ferme-brutalement-lacces-a-une-de-ses-plateformes-voici-ce-que-lon-sait.html"
+  },
+  {
+   "startTime": 113.93,
+   "title": "NFS2ROOT : une faille vieille de douze ans dans le serveur NFS de Linux",
+   "url": "https://next.ink/270556/la-faille-nfs2root-permet-de-prendre-le-controle-de-nas-et-noeuds-kubernetes/"
+  },
+  {
+   "startTime": 155.98,
+   "title": "Drupal : une seconde faille critique exploitée",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/"
+  },
+  {
+   "startTime": 187.22,
+   "title": "Microsoft publie un correctif d'urgence pour Windows Server 2025",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/"
+  },
+  {
+   "startTime": 223.94,
+   "title": "Binance rétablit les retraits après un vol de 6,3 milliards de dollars",
+   "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/binance-retablit-les-retraits-apres-le-piratage-de-6-3-md-de-crypto-actifs"
+  },
+  {
+   "startTime": 262.25,
+   "title": "OpenAI fusionne Chat et Work, avec des quotas partagés",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/openai-fusionne-chat-et-work-avec-des-quotas-partages-des-decembre"
+  },
+  {
+   "startTime": 302.88,
+   "title": "Perplexity lance Time Machine pour les agents IA",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/perplexity-lance-time-machine-pour-faire-explorer-le-web-passe-aux-agents-ia"
+  },
+  {
+   "startTime": 339.74,
+   "title": "Talkie retiré de l'App Store, MiniMax visé par deux affaires",
+   "url": "https://next.ink/270438/messages-sexuels-et-chantage-affectif-apple-retire-le-chatbot-talkie-de-lapp-store/"
+  },
+  {
+   "startTime": 380.3,
+   "title": "Linux remplace Windows sur 2 400 postes de la CNAF",
+   "url": "https://www.zdnet.fr/actualites/la-cnaf-bascule-ses-ordinateurs-en-libre-service-de-windows-a-linux-508732.htm#xtor=RSS-1"
+  },
+  {
+   "startTime": 420.12,
+   "title": "SAP envisage jusqu'à 10 000 suppressions de postes",
+   "url": "https://www.zdnet.fr/actualites/sap-envisage-de-supprimer-au-moins-10-000-postes-pour-se-recentrer-sur-lia-508769.htm#xtor=RSS-1"
+  },
+  {
+   "startTime": 461.52,
+   "title": "Navigateurs sur iPhone : Google rejoint Mozilla contre Apple",
+   "url": "https://www.01net.com/actualites/google-se-rallie-a-mozilla-chrome-et-firefox-sur-iphone-restent-des-safari-deguises-3-ans-apres-le-dma.html"
+  }
+ ]
+}
