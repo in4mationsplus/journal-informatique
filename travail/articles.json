@@ -1,0 +1,605 @@
+{
+ "date": "2026-11-27",
+ "edition": "midi",
+ "date_texte": "vendredi 27 novembre 2026",
+ "mots_vises": 2300,
+ "rubriques": [
+  "Sécurité",
+  "IA",
+  "Développement",
+  "Cloud et infrastructure",
+  "Business et régulation"
+ ],
+ "sujets_deja_racontes": [
+  "Cisco Expressway activement exploitée",
+  "Faille Azure API Management exploitée",
+  "OpenRouter exclut des fournisseurs d'IA après des fuites de secrets",
+  "Le CHU de Guadeloupe paralysé par un rançongiciel",
+  "Nissan : un outil de diagnostic compromis",
+  "Anthropic lance Claude Ship",
+  "L'IA et l'hypothèse de Riemann",
+  "Anthropic en Bourse : 1 600 milliards de dollars de valorisation",
+  "OpenAI propose des limites communes pour les modèles les plus puissants",
+  "Chez OpenAI, les agents surveillent mieux qu'ils ne codent",
+  "Amazon négocie le rachat de Decart",
+  "PowerShell 7 va s'intégrer à Windows",
+  "Pilotes graphiques AMD et NVIDIA : des écritures disque permanentes",
+  "OVHcloud vise deux milliards d'euros de chiffre d'affaires",
+  "Trump menace de taxer les datacenters construits à l'étranger",
+  "Jensen Huang redevient PDG de Nvidia",
+  "CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
+  "Bending Spoons rachète Mailchimp",
+  "Chrome : une faille critique corrigée",
+  "Check Point : des serveurs de gestion compromis",
+  "Rackspace ferme sa plateforme Spot après une intrusion",
+  "Radware : des clés d'accès cloud de clients exposées",
+  "Piratage de la base de données criminelles du FBI",
+  "Shirudo : OpenAI et Cisco protègent Linux en attendant les correctifs",
+  "Signal veut empêcher les agents IA de lire vos messages",
+  "GLM-5.4 : un nouveau modèle chinois pour le code",
+  "Inkling 2 Mini : un modèle en boucle qui tourne sur un portable",
+  "Firefox 161 : un VPN par site et Firefox sur le tableau de bord",
+  "Visual Studio Code 1.147 : programmer ses demandes aux agents",
+  "Centres de données IA : le courant continu à 800 volts s'impose",
+  "Panne mondiale de Microsoft : le rapport final",
+  "Nvidia : Jensen Huang revient sous la pression de Donald Trump",
+  "Washington met Megaspeed et une filiale d'Alibaba sur liste noire",
+  "Quad9 quitte la France",
+  "Apple et la justice britannique : l'ordonnance secrète sur le chiffrement",
+  "Drupal : une faille critique exploitée",
+  "Microsoft : des problèmes d'authentification après les mises à jour de novembre",
+  "Intrusion dans un système d'analyse de la CIA",
+  "Ipsos : le groupe Qilin revendique un vol de données",
+  "Le CHU de Bordeaux et SIG Sauer visés par ScarlettGroup",
+  "GrapheneOS accuse Google de vouloir sa disparition",
+  "Claude permet de créer des applications pour Mac et Windows",
+  "OpenAI et Anthropic : des salariés inquiets",
+  "Epochal : trois cofondateurs de xAI lancent une start-up d'IA prédictive",
+  "Ladybird publie sa première version alpha",
+  "Pop!_OS 26.04 : le bureau COSMIC arrive",
+  "Microsoft déclenche un « Code Red » après la panne de Microsoft 365",
+  "Oracle : jusqu'à 1 390 suppressions de postes en Europe",
+  "Quantum Act : l'Union européenne veut soutenir son industrie quantique",
+  "SpaceX et Tesla : vers une fusion à 3 500 milliards de dollars ?",
+  "Nvidia : Jensen Huang s'excuse, Trump évoque une grâce",
+  "Deux milliards d'identifiants exposés",
+  "Nvidia visée par une menace de rançongiciel",
+  "Une faille critique non corrigée dans des contrôleurs Danfoss",
+  "Les failles des composants tiers dans les équipements réseau",
+  "Black Friday : des attaques dopées à l'IA contre les distributeurs",
+  "L'alerte de sécurité ne vaut que si l'on agit : dette technique et IA offensive",
+  "CrowdStrike et Zscaler : un kill switch pour les agents IA",
+  "Yann LeCun contre Dario Amodei sur les modèles ouverts",
+  "Anthropic sous son prix d'introduction en Bourse",
+  "Bulle de l'IA : qui paiera si elle éclate ?",
+  "L'IA générative aggrave l'infobésité au travail",
+  "Gemini sépare historique et entraînement",
+  "Tidal bannit la musique générée par IA",
+  "Visual Studio 2026 et Qt Creator 21",
+  "OVHcloud : de l'eau chaude pour des GPU froids",
+  "ETIX investit cent millions d'euros dans ses centres de données",
+  "Les centres de données et la qualité de l'air",
+  "HPE : un trimestre en fanfare",
+  "Facture électronique : un rodage difficile",
+  "HarmonyOS dépasse 100 millions d'appareils",
+  "Palo Alto Networks : des failles exploitées sur PAN-OS",
+  "1Password : des données clients volées via un compte GitHub",
+  "Des agences suisse et italienne alertent sur les cyberattaques autonomes",
+  "Huawei reconnu coupable par un jury américain",
+  "Artex : les attaques pilotées par des agents IA progressent",
+  "De faux tests de recrutement piègent les développeurs .NET",
+  "Windows Update installe un pilote Intel obsolète et vulnérable",
+  "Anthropic mesure les évasions de bac à sable avec Siren",
+  "OpenAI et la multiplication de matrices : une limite à 2,25 ?",
+  "SpaceX autorisé à déployer un million de satellites de calcul",
+  "Dell : 132 milliards de dollars de commandes de serveurs IA",
+  "L'Australie vote un devoir de vigilance numérique",
+  "La FIFA piratée, des données personnelles volées",
+  "Deux logiciels espions volent les courriels Gmail et Outlook",
+  "OpenAI réduit les quotas de ses abonnés après une erreur de facturation",
+  "Le Groupement Mousquetaires déploie l'IA avec Anthropic",
+  "Nvidia : S&P menace de dégrader la note, les services de renseignement écartent la piste chinoise",
+  "Des puces d'IA Nvidia inondent le marché après le durcissement des restrictions américaines",
+  "ASML : les Pays-Bas s'opposent au MATCH Act américain",
+  "RGPD : un registre allégé pour les entreprises de moins de mille salariés",
+  "Les lunettes connectées de Meta devant la justice néerlandaise",
+  "Gartner : 1 570 milliards de dollars de dépenses informatiques en Europe en 2027",
+  "GoodGuys : de fausses interviews d'experts pour voler des accès Google",
+  "Rançongiciels : une menace qui s'intensifie",
+  "IA sur site : Microsoft s'associe à Dell",
+  "Les outils d'IA accélèrent la livraison de logiciels, mais aussi les coûts informatiques",
+  "Données de santé : la Cour des comptes déplore l'absence de stratégie nationale"
+ ],
+ "articles": [
+  {
+   "id": 0,
+   "source": "Numerama",
+   "titre": "Voici les conseils de Christopher Nolan pour regarder L’Odyssée à la maison",
+   "resume": "Un vidéoprojecteur et du pop-corn : voilà les recommandations de Christopher Nolan pour regarder L'Odyssée chez soi, maintenant que le film est sorti en DVD, Blu-ray et 4K.",
+   "lien": "https://www.numerama.com/pop-culture/2385933-voici-les-conseils-de-christopher-nolan-pour-regarder-lodyssee-a-la-maison.html"
+  },
+  {
+   "id": 1,
+   "source": "Numerama",
+   "titre": "Einstein, mécanique quantique et trous noirs : ce physicien propose une nouvelle théorie et GPT-6 Astra y est pour quelque chose",
+   "resume": "Réconcilier la gravité d'Einstein et la mécanique quantique reste l'un des grands problèmes de la physique. Le 25 novembre, un physicien de Stanford a publié une nouvelle piste. Dans ses remerciements, il explique avoir développé une partie de ses démonstrations en discutant pendant des mois avec l'IA d'OpenAI.",
+   "lien": "https://www.numerama.com/sciences/2385919-einstein-mecanique-quantique-et-trous-noirs-ce-physicien-propose-une-nouvelle-theorie-et-gpt-6-astra-y-est-pour-quelque-chose.html"
+  },
+  {
+   "id": 2,
+   "source": "Numerama",
+   "titre": "Un mystérieux conducteur de Lyft harcèle les robotaxis Waymo avec leur jettant des œufs",
+   "resume": "Waymo a recensé au moins 30 attaques aux œufs contre ses robotaxis à Denver depuis le lancement du service en septembre 2026, toutes attribuées au même individu. Sa voiture appartient à une flotte louée à des chauffeurs Lyft.",
+   "lien": "https://www.numerama.com/vroom/2385971-un-mysterieux-conducteur-de-lyft-harcele-les-robotaxis-waymo-avec-leur-jettant-des-oeufs.html"
+  },
+  {
+   "id": 3,
+   "source": "Numerama",
+   "titre": "Black Friday Fnac et Darty : voici les meilleures offres tech à ne pas manquer",
+   "resume": "La Fnac et Darty profitent du Black Friday pour multiplier les promotions sur les produits high-tech et les équipements du quotidien. Smartphones, PC portables, téléviseurs, casques audio… Voici les meilleures offres que nous avons repérées chez les deux enseignes.",
+   "lien": "https://www.numerama.com/tech/2385815-black-friday-fnac-et-darty-voici-les-meilleures-offres-tech-a-ne-pas-manquer.html"
+  },
+  {
+   "id": 4,
+   "source": "Numerama",
+   "titre": "« Les mathématiques sont infinies » : face à la puissance de l’IA, le médaillé Fields Terence Tao a un plan, les maths 2.0",
+   "resume": "À Harvard, mi-novembre 2026, le médaillé Fields Terence Tao a demandé aux mathématiciens de passer aux maths 2.0 et de juger leurs pairs sur leur capacité à expliquer leurs travaux. Il parlait quelques jours avant qu'un chercheur d'Anthropic annonce une preuve de l'hypothèse de Riemann obtenue avec Claude.",
+   "lien": "https://www.numerama.com/tech/2385877-les-mathematiques-sont-infinies-face-a-la-puissance-de-lia-le-medaille-fields-terence-tao-a-un-plan-les-maths-2-0.html"
+  },
+  {
+   "id": 5,
+   "source": "Numerama",
+   "titre": "Trop de bips dans votre voiture neuve ? Euro NCAP s’apprête enfin à sévir",
+   "resume": "Euro NCAP veut sanctionner à partir de 2029 les voitures dont les aides à la conduite bipent trop. L'organisme donne pourtant depuis des années des points aux voitures équipées de ces systèmes.",
+   "lien": "https://www.numerama.com/vroom/2385921-trop-de-bips-dans-votre-voiture-neuve-euro-ncap-sapprete-enfin-a-sevir.html"
+  },
+  {
+   "id": 6,
+   "source": "Numerama",
+   "titre": "« À garder strictement au sein de SAP » : un message interne trahit une cyberattaque contre le géant allemand du logiciel",
+   "resume": "Le géant allemand du logiciel SAP a reconnu avoir détecté des « activités suspectes » sur ses systèmes. Une prise de parole survenue après la parution d'un article du média Der Spiegel, qui dit avoir eu accès à un message interne de l'entreprise.",
+   "lien": "https://www.numerama.com/cyberguerre/2385947-a-garder-strictement-au-sein-de-sap-un-message-interne-trahit-une-cyberattaque-contre-le-geant-allemand-du-logiciel.html"
+  },
+  {
+   "id": 7,
+   "source": "Numerama",
+   "titre": "Le Black Friday est lancé : voici le top 100 des offres Amazon, Fnac, Boulanger et Cdiscount (EN DIRECT)",
+   "resume": "Le Black Friday 2026, c'est aujourd'hui. Après plusieurs semaines de promos, Amazon, la Fnac, Boulanger et Cdiscount abattent leurs dernières cartes : voici, en direct, les meilleures offres du jour.",
+   "lien": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html"
+  },
+  {
+   "id": 8,
+   "source": "Numerama",
+   "titre": "Passe Navigo non validé : l’amende tombe à 15 €, mais pas pour tout le monde",
+   "resume": "À partir du 1er janvier 2027, un abonné Navigo mensuel ou annuel contrôlé sans avoir validé son passe dans le métro paiera 15 € d'amende, contre 70 € aujourd'hui. La RATP revient ainsi sur la hausse de juin 2025, qui avait doublé ce montant.",
+   "lien": "https://www.numerama.com/vroom/2385945-passe-navigo-non-valide-lamende-tombe-a-15-e-mais-pas-pour-tout-le-monde.html"
+  },
+  {
+   "id": 9,
+   "source": "Numerama",
+   "titre": "Jeu en ligne, mods et 60 fps… GTA 6 sur PC avance à une vitesse phénoménale",
+   "resume": "Huit jours après la sortie de GTA 6 sur consoles, les portages pirates sur PC se multiplient et se permettent même d'ajouter des fonctions au jeu. Un mode multijoueur maison, des menus de triche et des cinématiques à plus de 60 images par seconde sont apparus en quelques heures.",
+   "lien": "https://www.numerama.com/pop-culture/2385939-jeu-en-ligne-mods-et-60-fps-gta-6-sur-pc-avance-a-une-vitesse-phenomenale.html"
+  },
+  {
+   "id": 10,
+   "source": "Numerama",
+   "titre": "Dark vous manque ? Voici Sonnental, la nouvelle série des mêmes créateurs qui devrait cartonner",
+   "resume": "Six ans après le final culte de Dark, Jantje Friese et Baran bo Odar produisent Sonnental. HBO Max vient de mettre en ligne un premier teaser angoissant pour ce thriller policier allemand porté par Lisa Vicari, attendu en mars 2027.",
+   "lien": "https://www.numerama.com/pop-culture/2385963-dark-vous-manque-voici-sonnental-la-nouvelle-serie-des-memes-createurs-qui-devrait-cartonner.html"
+  },
+  {
+   "id": 11,
+   "source": "Numerama",
+   "titre": "GTA 6 a failli avoir un parc d’attractions inspiré de Disney World",
+   "resume": "Dans une interview, Rob Nelson, producteur de GTA 6 et codirecteur du studio Rockstar North, a expliqué pourquoi Rockstar Games a dû abandonner l'idée de reproduire Disney World dans sa Floride fictive. Une question de ressources, mais aussi de narration.",
+   "lien": "https://www.numerama.com/pop-culture/2385841-gta-6-a-failli-avoir-un-parc-dattractions-inspire-de-disney-world.html"
+  },
+  {
+   "id": 12,
+   "source": "Numerama",
+   "titre": "Victime d’une cyberattaque, l’Agence France-Presse ferme brutalement l’accès à une de ses plateformes : voici ce que l’on sait",
+   "resume": "L'Agence France-Presse a été la cible d'une cyberattaque dans la nuit du 25 au 26 novembre 2026. Par précaution, elle a coupé l'accès à AFP Forum, la plateforme où ses clients récupèrent dépêches, photos et vidéos.",
+   "lien": "https://www.numerama.com/cyberguerre/2385847-victime-dune-cyberattaque-lagence-france-presse-ferme-brutalement-lacces-a-une-de-ses-plateformes-voici-ce-que-lon-sait.html"
+  },
+  {
+   "id": 13,
+   "source": "Numerama",
+   "titre": "Les profils criminels de GTA 6 font jaser, et Rockstar le savait",
+   "resume": "Rockstar Games savait pertinemment que les profils criminels de GTA 6, qui dépendent de vos actions dans le jeu, ne feraient pas l'unanimité.",
+   "lien": "https://www.numerama.com/pop-culture/2385817-les-profils-criminels-de-gta-6-font-jaser-et-rockstar-le-savait.html"
+  },
+  {
+   "id": 14,
+   "source": "Numerama",
+   "titre": "Black Friday Dyson : l’aspirateur balai V16 Piston Animal perd 250 euros, le haut de gamme enfin accessible [Sponso]",
+   "resume": "Cet article a été réalisé en collaboration avec Dyson Pour le Black Friday, Dyson baisse le prix de trois appareils : l’aspirateur balai V16 Piston Animal passe à 599 euros au lieu de 849 euros, le V16 Piston Animal Submarine à 599 euros au lieu de 999 euros et le lisseur séchant Airstrait à 299 euros au lieu de 399 euros. Le code exclusif NUMERAMA ajoute 5 % de réduction supplémentaire.",
+   "lien": "https://www.numerama.com/tech/2380169-black-friday-dyson-laspirateur-balai-v16-piston-animal-perd-250-euros-le-haut-de-gamme-enfin-accessible.html"
+  },
+  {
+   "id": 15,
+   "source": "01net",
+   "titre": "Black Friday : Samsung vide le stock de Galaxy S26, -50% sur la version avec Snapdragon 8 Elite 🔥",
+   "resume": "Le Galaxy S26 est le dernier smartphone haut de gamme de Samsung avec une sortie cette année. Modèle standard de cette génération, c'est le plus vendu et le plus apprécié des utilisateurs. Avec ce deal flash de Singles Day, AliExpress achève son prix de -50%.",
+   "lien": "https://www.01net.com/bons-plans/black-friday-samsung-vide-le-stock-de-galaxy-s26-50-sur-la-version-avec-snapdragon-8-elite.html"
+  },
+  {
+   "id": 16,
+   "source": "01net",
+   "titre": "Victime d’une cyberattaque, l’AFP bloque une plateforme pour contrer les pirates",
+   "resume": "L’Agence France-Presse a été visée par une cyberattaque. Dos au mur, l'AFP a coupé sa plateforme AFP Forum, utilisée par les médias pour consulter et télécharger ses contenus. Celle-ci est toujours inaccessible.",
+   "lien": "https://www.01net.com/actualites/victime-dune-cyberattaque-lafp-bloque-une-plateforme-pour-contrer-les-pirates.html"
+  },
+  {
+   "id": 17,
+   "source": "01net",
+   "titre": "Samsung One UI 9.5 : la liste des smartphones Galaxy qui devraient recevoir la mise à jour",
+   "resume": "Samsung prépare le lancement de sa nouvelle interface One UI 9.5, dont la phase de test bêta vient de débuter sur les Galaxy S26. Prévue pour le premier trimestre 2027 aux côtés des futurs Galaxy S27, cette mise à jour basée sur Android 17 apportera plusieurs nouveautés, mais pourrait laisser de côté certaines anciennes générations de smartphones.",
+   "lien": "https://www.01net.com/actualites/samsung-one-ui-9-5-liste-smartphones-galaxy-qui-devraient-recevoir-mise-a-jour.html"
+  },
+  {
+   "id": 18,
+   "source": "01net",
+   "titre": "Pixel 11 : de retour en version 512 Go après une rupture de stock… à un prix au ras des pâquerettes 🌼",
+   "resume": "Le Pixel 11 est un smartphone haut de gamme, il a été présenté par Google à l'été 2026. Il compte sur une qualité photo de folie et de belles performances avec son processeur, ce qui en fait un modèle très polyvalent. Aujourd'hui, il est de retour sur Amazon avec -34% pour Black Friday. Attention, stock très limité.",
+   "lien": "https://www.01net.com/bons-plans/pixel-11-de-retour-en-version-512-go-apres-une-rupture-de-stock-a-un-prix-au-ras-des-paquerettes.html"
+  },
+  {
+   "id": 19,
+   "source": "01net",
+   "titre": "Black Friday NordVPN : 2,88 € par mois avec le code 01NET, 75 % de remise et 4 mois offerts",
+   "resume": "Ce vendredi de Black Friday, NordVPN est à 2,88 € par mois avec le code 01NET, soit 75 % de remise et 4 mois offerts.",
+   "lien": "https://www.01net.com/bons-plans/black-friday-nordvpn-288-e-par-mois-avec-le-code-01net-75-de-remise-et-4-mois-offerts.html"
+  },
+  {
+   "id": 20,
+   "source": "01net",
+   "titre": "Le prodigieux Poco F9 Ultra passe à -35% au Black Friday : Apple et Samsung ont du souci à se faire 😬",
+   "resume": "Si vous souhaitez faire une excellente affaire sur un smartphone au coude à coude avec l'iPhone 18 Pro, c'est le bon moment avec cette offre du Black Friday signée AliExpress.",
+   "lien": "https://www.01net.com/bons-plans/le-prodigieux-poco-f9-ultra-passe-a-35-au-black-friday-apple-et-samsung-ont-du-souci-a-se-faire.html"
+  },
+  {
+   "id": 21,
+   "source": "01net",
+   "titre": "Pour le prix d’un aspirateur basique, ce JONR P20 Pro aspire et passe la serpillère comme un Pro",
+   "resume": "Le JONR P20 Pro est un aspirateur robot : il aspire la poussière, passe la serpillière et se nettoie seul depuis sa station automatique. Parfait pour s'occuper du ménage de vos sols à votre place, il devient la star de Black Friday sur AliExpress avec cette vente flash.",
+   "lien": "https://www.01net.com/bons-plans/pour-le-prix-dun-aspirateur-basique-ce-jonr-p20-pro-aspire-et-passe-la-serpillere-comme-un-pro.html"
+  },
+  {
+   "id": 22,
+   "source": "01net",
+   "titre": "MacBook Air OLED : Apple ne changerait pas que l’écran, mais il va falloir être patient",
+   "resume": "Selon le bien informé Mark Gurman de Bloomberg, Apple préparerait un nouveau MacBook Air avec écran OLED pour fin 2027 ou 2028.",
+   "lien": "https://www.01net.com/actualites/macbook-air-oled-apple-ne-changerait-pas-que-ecran-mais-il-va-falloir-etre-patient.html"
+  },
+  {
+   "id": 23,
+   "source": "01net",
+   "titre": "Garmin vous souhaite un Noël très sportif : la Forerunner 165 se vend pour une bouchée de pain 🤯",
+   "resume": "La Forerunner 165 est à l'honneur pour ce vendredi du Black Friday, et c'est AliExpress qui met en avant cette offre démente. Si vous voulez une belle montre connectée pour suivre vos activités physiques et votre quotidien, elle n'attend plus que vous.",
+   "lien": "https://www.01net.com/bons-plans/garmin-vous-souhaite-un-noel-tres-sportif-la-forerunner-165-se-vend-pour-une-bouchee-de-pain.html"
+  },
+  {
+   "id": 24,
+   "source": "01net",
+   "titre": "DJI inonde le marché de sa Osmo Pocket 4 : pas un seul vloggeur ira voir ailleurs à ce prix de fou 🧨",
+   "resume": "La DJI Osmo Pocket 4 est une caméra de poche bien connue des vloggers puisque c'est ce qu'il se fait de mieux aujourd'hui sur le marché. Avec son format compact, sa stabilisation et ses fonctions avancées, elle a tout pour plaire. Même son prix devient dingue avec cette vente flash spécial Black Friday chez AliExpress.",
+   "lien": "https://www.01net.com/bons-plans/dji-inonde-le-marche-de-sa-osmo-pocket-4-pas-un-seul-vloggeur-ira-voir-ailleurs-a-ce-prix-de-fou.html"
+  },
+  {
+   "id": 25,
+   "source": "01net",
+   "titre": "Ce Ryzen 7 9700X transforme votre PC en machine de guerre et il est vendu à -65% ⚔️",
+   "resume": "Vous souhaitez vous équiper d'un processeur polyvalent pour le quotidien ? Le Ryzen 7 9700X d'AMD est parfait et en prime, il tombe à un tout petit prix.",
+   "lien": "https://www.01net.com/bons-plans/ce-ryzen-7-9700x-transforme-votre-pc-en-machine-de-guerre-et-il-est-vendu-a-65-%e2%9a%94%ef%b8%8f.html"
+  },
+  {
+   "id": 26,
+   "source": "01net",
+   "titre": "Windows 11 : le masquage automatique de la barre des tâches à gauche et à droite « arrive bientôt »",
+   "resume": "La nouvelle barre des tâches de Windows 11 peut maintenant être déplacée à gauche, à droite et en haut de l’écran, mais ne peut toujours pas être masquée automatiquement dans l’une de ces positions. Les choses pourraient toutefois changer très prochainement.",
+   "lien": "https://www.01net.com/actualites/windows-11-le-masquage-automatique-de-la-barre-des-taches-a-gauche-et-a-droite-arrive-bientot.html"
+  },
+  {
+   "id": 27,
+   "source": "01net",
+   "titre": "Google se rallie à Mozilla : Chrome et Firefox sur iPhone restent des Safari déguisés, 3 ans après le DMA",
+   "resume": "Aucun navigateur sur iPhone n’a pu lancer son propre moteur depuis que l’Europe l’impose. Cinquante signataires, Mozilla en tête, réclament une procédure contre Apple. Et Google valide : le choix existe « sur le papier, pas dans les faits ».",
+   "lien": "https://www.01net.com/actualites/google-se-rallie-a-mozilla-chrome-et-firefox-sur-iphone-restent-des-safari-deguises-3-ans-apres-le-dma.html"
+  },
+  {
+   "id": 28,
+   "source": "01net",
+   "titre": "Le Ryzen 7 7800X3D est validé pour du gaming, ce CPU se monnaie à -58% chez AMD",
+   "resume": "Vous cherchez un processeur pour gagner en fluidité dans les jeux sans dilapider toutes vos économies ? Le Ryzen 7 7800X3D d'AMD est justement en grosse promo pendant le Black Friday.",
+   "lien": "https://www.01net.com/bons-plans/le-ryzen-7-7800x3d-est-valide-pour-du-gaming-ce-cpu-se-monnaie-a-58-chez-amd.html"
+  },
+  {
+   "id": 29,
+   "source": "01net",
+   "titre": "Black Friday : la perle rare premium de cette fin d’année est déjà remisée",
+   "resume": "Profitez du Black Friday pour mettre la main sur l’excellent OPPO Find X10 Pro Max.",
+   "lien": "https://www.01net.com/bons-plans/black-friday-la-perle-rare-premium-de-cette-fin-dannee-est-deja-remisee.html"
+  },
+  {
+   "id": 30,
+   "source": "01net",
+   "titre": "Le rival des AirPos Pro a un nom : les Galaxy Buds 4 Pro de Samsung à -40% se vendent à la pelle",
+   "resume": "Si vous n'avez pas envie de vous tourner vers les écouteurs intra-auriculaires d'Apple, ce modèle signé Samsung nous a totalement convaincu. Et son prix est dingue pour le Black Friday.",
+   "lien": "https://www.01net.com/bons-plans/le-rival-des-airpos-pro-a-un-nom-les-galaxy-buds-4-pro-de-samsung-a-40-se-vendent-a-la-pelle.html"
+  },
+  {
+   "id": 31,
+   "source": "01net",
+   "titre": "WhatsApp prépare ses propres forfaits de données pour voyager à l’étranger",
+   "resume": "Acheter son forfait Internet de vacances sans quitter sa messagerie : WhatsApp y travaille. Le code de sa dernière bêta Android cache des eSIM de voyage, fournies par un partenaire que les clients de Revolut utilisent déjà sans le savoir.",
+   "lien": "https://www.01net.com/actualites/whatsapp-prepare-ses-propres-forfaits-de-donnees-pour-voyager-a-letranger.html"
+  },
+  {
+   "id": 32,
+   "source": "01net",
+   "titre": "La Poco Pad M1 est à -50% : Xiaomi en a des milliers d’unités à écouler à Black Friday",
+   "resume": "La Poco Pad M1 est une excellente tablette pour le quotidien avec sa belle qualité d'affichage, son autonomie longue durée et sa fluidité dans les tâches courantes. En ce moment, elle est affichée à un prix irrésistible au Black Friday.",
+   "lien": "https://www.01net.com/bons-plans/la-poco-pad-m1-est-a-50-xiaomi-en-a-des-milliers-dunites-a-ecouler-a-black-friday.html"
+  },
+  {
+   "id": 33,
+   "source": "01net",
+   "titre": "Pour les budgets serrés, la Redmi Pad 2 Pro à -50% peut remplacer l’usage d’un iPad",
+   "resume": "C'est le moment rêvé de vous équiper de cette tablette parfaite pour le quotidien avec écran 2,5K 120 Hz, 14 heures d'autonomie et Snapdragon 7s Gen 4.",
+   "lien": "https://www.01net.com/bons-plans/pour-les-budgets-serres-la-redmi-pad-2-pro-a-50-peut-remplacer-lusage-dun-ipad.html"
+  },
+  {
+   "id": 34,
+   "source": "01net",
+   "titre": "La Renault 5 reste sur le podium des ventes électriques européennes en octobre alors que la Twingo s’invite à la fête",
+   "resume": "Malgré un afflux massif de concurrentes, la Renault 5 continue à être plébiscitée par les automobilistes en conservant sa place sur le podium des ventes européennes. Le Skoda Elroq poursuit sa domination, alors qu’aucune chinoise ne parvient à être dans le top 10.",
+   "lien": "https://www.01net.com/actualites/renault-5-reste-podium-ventes-electriques-europeennes-octobre-twingo-invite-a-la-fete.html"
+  },
+  {
+   "id": 35,
+   "source": "01net",
+   "titre": "Vous n’avez plus d’excuse : le Galaxy A57 à -52% va vous faire remplacer votre smartphone vieillissant",
+   "resume": "Le Galaxy A57 est un smartphone de milieu de gamme tout en équilibre qui saura satisfaire la grande majorité des Français. Grâce à cette remise folle lors du Black Friday, le téléphone tombe à un prix étonnamment bas. Alerte coup de coeur !",
+   "lien": "https://www.01net.com/bons-plans/vous-navez-plus-dexcuse-le-galaxy-a57-a-52-va-vous-faire-remplacer-votre-smartphone-vieillissant.html"
+  },
+  {
+   "id": 36,
+   "source": "01net",
+   "titre": "Test Huawei Watch 6 Pro : une montre connectée de luxe ultra-complète, mais bridée par son système",
+   "resume": "Commercialisée au prix fort de 679,99 euros dans sa très belle Édition Spatiale de 46 mm, la Huawei Watch 6 Pro mise sur l'horlogerie de luxe et un suivi de santé très poussé. Dotée d'un écran éblouissant, d'une eSIM et du capteur X-TAP, elle séduit autant qu'elle frustre par ses limites logicielles.",
+   "lien": "https://www.01net.com/tests/test-huawei-watch-6-pro-avis.html"
+  },
+  {
+   "id": 37,
+   "source": "01net",
+   "titre": "Le DJI Neo 2 ne pèse que 151 g : ce drone à quasi -40% se vend par palettes à Black Friday 🚀",
+   "resume": "Le DJI Neo 2 est un mini drone que vous pouvez faire décoller ou atterrir dans... votre main. Avec un poids ultra léger, il se destine aux débutants comme aux pilotes confirmés qui veulent capturer des vidéos depuis le ciel. Le modèle perd environ -35% pour Black Friday, c'est sur AliExpress que ça se passe.",
+   "lien": "https://www.01net.com/bons-plans/le-dji-neo-2-ne-pese-que-151-g-ce-drone-a-quasi-40-se-vend-par-palettes-a-black-friday.html"
+  },
+  {
+   "id": 38,
+   "source": "01net",
+   "titre": "Ce Poco X8 Pro dans la config 512 Go est à -52% : Xiaomi abat sa dernière carte pour l’écouler ♠️",
+   "resume": "Le Poco X8 Pro est un smartphone qui est cette année et qui est signé Xiaomi. Attractif, performant et très design, cette vente flash sur AliExpress va vous faire craquer au Black Friday.",
+   "lien": "https://www.01net.com/bons-plans/ce-poco-x8-pro-dans-la-config-512-go-est-a-52-xiaomi-abat-sa-derniere-carte-pour-lecouler.html"
+  },
+  {
+   "id": 39,
+   "source": "01net",
+   "titre": "« À vos risques et périls » : GTA 6 aurait fait surchauffer et griller des PS5",
+   "resume": "GTA 6 semble être mal supporté par certaines PS5. Plusieurs joueurs rapportent des consoles qui surchauffent, dégagent de la fumée ou subissent des défaillances graphiques. La cause de ces incidents reste toutefois inconnue.",
+   "lien": "https://www.01net.com/actualites/a-vos-risques-et-perils-gta-6-aurait-fait-surchauffer-et-griller-des-ps5.html"
+  },
+  {
+   "id": 40,
+   "source": "01net",
+   "titre": "Xiaomi fait carrément rêver : le Xiaomi 17T Pro tombe à un prix FOU au Black Friday 🤩",
+   "resume": "Le Xiaomi 17T Pro vous tente ? Très bon choix. La bonne nouvelle, c'est qu'AliExpress casse son prix comme jamais à l'occasion du Black Friday. Vous pouvez vérifier partout ailleurs, vous ne le trouverez pas moins cher.",
+   "lien": "https://www.01net.com/bons-plans/xiaomi-fait-carrement-rever-le-xiaomi-17t-pro-tombe-a-un-prix-fou-au-black-friday.html"
+  },
+  {
+   "id": 41,
+   "source": "01net",
+   "titre": "Le realme 16 Pro+ 512 Go à -55% fait un tabac : Xiaomi, Honor et Samsung proches du KO technique 🥊",
+   "resume": "Ce smartphone realme cumule les qualités et il profite en prime d'une remise folle durant le Black Friday. Cette offre est valable depuis ce vendredi matin et elle fait un immense carton (attention à la rupture).",
+   "lien": "https://www.01net.com/bons-plans/le-realme-16-pro-a-55-fait-un-tabac-xiaomi-honor-et-samsung-proches-du-ko-technique.html"
+  },
+  {
+   "id": 42,
+   "source": "ZDNet",
+   "titre": "ZDNET Morning 27/11/2026 : Les Mousquetaires intègrent Claude, Un iPhone anniversaire en céramique, XPeng commercialise un robot humanoïde,...",
+   "resume": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+   "lien": "https://www.zdnet.fr/actualites/zdnet-morning-27-11-2026-les-mousquetaires-integrent-claude-un-iphone-anniversaire-en-ceramique-xpeng-commercialise-un-robot-humanoide-508812.htm#xtor=RSS-1"
+  },
+  {
+   "id": 43,
+   "source": "ZDNet",
+   "titre": "La CNAF bascule ses ordinateurs en libre service de Windows à Linux",
+   "resume": "La Caisse Nationale des Affaires Familiales bascule 2400 ordinateurs proposés en libre service dans ses agences vers des systèmes d'exploitation basés sur Linux. Un choix justifié à la fois par des considérations de sécurité, de souveraineté technologique et par les conditions tarifaires.",
+   "lien": "https://www.zdnet.fr/actualites/la-cnaf-bascule-ses-ordinateurs-en-libre-service-de-windows-a-linux-508732.htm#xtor=RSS-1"
+  },
+  {
+   "id": 44,
+   "source": "ZDNet",
+   "titre": "Hostinger Unlimited : quatre ans d’hébergement web pour 167,52 €",
+   "resume": "Avec son offre Unlimited, Hostinger ramène le coût moyen de l’hébergement à 3,49 € par mois sur quatre ans, tout en incluant les sauvegardes quotidiennes.",
+   "lien": "https://www.zdnet.fr/publicite/hostinger-unlimited-quatre-ans-dhebergement-web-pour-16752-e-506594.htm#xtor=RSS-1"
+  },
+  {
+   "id": 45,
+   "source": "ZDNet",
+   "titre": "iPhone 20e anniversaire : Apple miserait sur des matériaux nobles pour marquer le coup",
+   "resume": "Pour célébrer les 20 ans de son smartphone emblématique en 2027, Apple pourrait commercialiser une édition limitée de son futur iPhone intégrant de la céramique. Un choix de matériau qui viendrait renforcer le positionnement haut de gamme de cet appareil anniversaire.",
+   "lien": "https://www.zdnet.fr/actualites/iphone-20e-anniversaire-apple-preparerait-une-edition-limitee-en-ceramique-508771.htm#xtor=RSS-1"
+  },
+  {
+   "id": 46,
+   "source": "ZDNet",
+   "titre": "XPeng annonce un robot humanoïde IRON au prix d’une voiture électrique",
+   "resume": "Produit en série dès janvier 2027, le robot humanoïde IRON sera d’abord formé comme assistant de vente dans les magasins XPeng en Chine, puis proposé au public.",
+   "lien": "https://www.zdnet.fr/actualites/xpeng-annonce-un-robot-humanoide-iron-au-prix-dune-voiture-electrique-508776.htm#xtor=RSS-1"
+  },
+  {
+   "id": 47,
+   "source": "ZDNet",
+   "titre": "ZD Tech : Comment la Nasa sauve Perseverance sur Mars, une leçon pour votre réseau",
+   "resume": "Depuis le 30 octobre, les deux antennes UHF du rover Perseverance sont défaillantes. Privée de débit, la Nasa a suspendu la science pour sauver le robot, alors que la sonde relais Mars Odyssey menace aussi de tomber en panne.",
+   "lien": "https://www.zdnet.fr/actualites/zd-tech-comment-la-nasa-sauve-perseverance-sur-mars-une-lecon-pour-votre-reseau-508540.htm#xtor=RSS-1"
+  },
+  {
+   "id": 48,
+   "source": "ZDNet",
+   "titre": "SAP envisage de supprimer au moins 10 000 postes pour se recentrer sur l’IA",
+   "resume": "Le géant allemand du logiciel a demandé à tous ses services d’identifier des réductions d’effectifs possibles, surtout dans le produit, l’ingénierie et la vente.",
+   "lien": "https://www.zdnet.fr/actualites/sap-envisage-de-supprimer-au-moins-10-000-postes-pour-se-recentrer-sur-lia-508769.htm#xtor=RSS-1"
+  },
+  {
+   "id": 49,
+   "source": "Next",
+   "titre": "Olala ! On a testé des IA génératives sur CPU, avec 5 machines et plus de 1 000 prompts",
+   "resume": "Combien de tokens par seconde est capable de générer Olala sur un processeur ? Nous l’avons mesuré sur cinq machines. Nous avons également comparé Olala à six autres modèles, toujours sur un CPU. Next vous propose enfin un petit outil dans le navigateur pour comparer visuellement la vitesse d’affichage des réponses des LLM. Olala est […]",
+   "lien": "https://next.ink/268574/olala-on-a-teste-des-ia-generatives-sur-cpu-avec-5-machines-et-plus-de-1-000-prompts/"
+  },
+  {
+   "id": 50,
+   "source": "Next",
+   "titre": "#Nextquick : comment fonctionnent les IA génératives, en 5 minutes",
+   "resume": "Une IA générative, comment ça marche ? Sans trop entrer dans les détails techniques, Next vous explique le cheminement, d’un modèle vierge à qui il faut tout apprendre, à l’inférence et aux agents. Vous avez 5-10 minutes devant vous ? Les IA, et maintenant les IA génératives, on les connaît bien chez Next pour les […]",
+   "lien": "https://next.ink/270502/nextquick-comment-fonctionnent-les-ia-generatives-en-5-minutes/"
+  },
+  {
+   "id": 51,
+   "source": "Next",
+   "titre": "La faille NFS2ROOT permet de prendre le contrôle de NAS et nœuds Kubernetes",
+   "resume": "La vulnérabilité CVE-2026-99362, surnommée NFS2ROOT et corrigée le 19 novembre, permet à n’importe quel client qui atteint le port 2049 d’un serveur NFS Linux d’écrire dans la mémoire du noyau, sans s’authentifier. Présente depuis 12 ans dans le noyau, elle a été repérée la première fois par un chercheur de l’ANSSI, Jérémy Jean. Le serveur […]",
+   "lien": "https://next.ink/270556/la-faille-nfs2root-permet-de-prendre-le-controle-de-nas-et-noeuds-kubernetes/"
+  },
+  {
+   "id": 52,
+   "source": "Next",
+   "titre": "Messages sexuels et chantage affectif : Apple retire le chatbot Talkie de l’App Store",
+   "resume": "Apple a retiré Talkie de l’App Store après une enquête révélant des échanges à caractère sexuel ou abusif entre ses chatbots et des mineurs. Les documents de MiniMax, l’entreprise qui développe l’application, montrent comment elle a cherché à renforcer l’attachement des utilisateurs à leurs compagnons virtuels pour les faire parler plus longtemps. Apple a retiré […]",
+   "lien": "https://next.ink/270438/messages-sexuels-et-chantage-affectif-apple-retire-le-chatbot-talkie-de-lapp-store/"
+  },
+  {
+   "id": 53,
+   "source": "Next",
+   "titre": "☕️ SAP envisage jusqu’à 10 000 suppressions de postes au nom de la transformation par l’IA",
+   "resume": "Le géant allemand du logiciel SAP envisage une restructuration qui pourrait conduire à la suppression de 10 000 postes, soit environ 9 % de son effectif global (plus de 110 000 salariés dans le monde). L’information, révélée jeudi 26 novembre par Bloomberg, n’a pas été confirmée par l’éditeur. « SAP revoit en permanence son organisation afin […]",
+   "lien": "https://next.ink/brief-article/sap-envisage-jusqua-10-000-suppressions-de-postes-au-nom-de-la-transformation-par-lia/"
+  },
+  {
+   "id": 54,
+   "source": "Next",
+   "titre": "Ubisoft mise sur l’IA pour tester plus vite ses idées de jeux",
+   "resume": "Chez Ubisoft, les équipes qui présentent un nouveau jeu seraient invitées à expliquer comment l’IA générative pourrait accélérer le développement. Si elles veulent s’en passer, elles doivent aussi s’en expliquer. L’éditeur assure que chaque équipe reste libre de décider. À l’instar d’une bonne partie de l’industrie, Ubisoft explore les possibilités de l’IA générative. L’éditeur français […]",
+   "lien": "https://next.ink/270479/ubisoft-mise-sur-lia-pour-tester-plus-vite-ses-idees-de-jeux/"
+  },
+  {
+   "id": 55,
+   "source": "Next",
+   "titre": "☕️ WhatsApp va vendre des forfaits de données pour les voyages à l’étranger",
+   "resume": "Kunal Shah, responsable de WhatsApp depuis le mois de juin, a de la suite dans les idées. L’entrepreneur indien a fondé la société de services financiers CRED, pour laquelle Meta a procédé à une levée de fonds. Son profil fintech rejaillit sur la messagerie : le système de paiement actuellement disponible dans quelques pays (dont […]",
+   "lien": "https://next.ink/brief-article/whatsapp-va-vendre-des-forfaits-de-donnees-pour-les-voyages-a-letranger/"
+  },
+  {
+   "id": 56,
+   "source": "Le Monde Informatique",
+   "titre": "Binance rétablit les retraits après le piratage de 6,3 Md$ de crypto-actifs",
+   "resume": "Près d’un mois après le vol de crypto-actifs survenu le 29 octobre, Binance annonce avoir achevé la remise en service des retraits sur sa plateforme. L’exchange avait suspendu cette fonctionnalité pour contenir l’incident et sécuriser ses infrastructures, après la compromission de plusieurs portefeuilles.",
+   "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/binance-retablit-les-retraits-apres-le-piratage-de-6-3-md-de-crypto-actifs"
+  },
+  {
+   "id": 57,
+   "source": "Le Monde Informatique",
+   "titre": "BNP Paribas prend le contrôle de Mūcho, spécialiste des avantages salariés",
+   "resume": "BNP Paribas a annoncé, le 26 novembre 2026, sa prise de contrôle de Mūcho, une start-up française spécialisée dans la gestion numérique des avantages salariés. Issue du startup studio 321founded, l'entreprise devient une filiale de la banque à l'issue d'une augmentation de capital. Cette opération doit permettre à BNP Paribas de renforcer son offre de services RH auprès des PME et d'accélérer la distribution de ses solutions d'épargne salariale et de retraite collective.",
+   "lien": "https://www.lemondeinformatique.fr/it-direction/bnp-paribas-prend-le-controle-de-mucho-specialiste-des-avantages-salaries"
+  },
+  {
+   "id": 58,
+   "source": "Le Monde Informatique",
+   "titre": "Cybersécurité : les agents IA prennent le contrôle du cloud plus vite que les entreprises ne sécurisent leurs accès",
+   "resume": "99 % des entreprises utilisent des agents IA dans leurs chaînes de développement. Mais leur capacité à modifier du codeet à intervenir en production progresse plus vite que les dispositifs de sécurité, selon une étude de Palo Alto Networks.",
+   "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-les-agents-ia-prennent-le-controle-du-cloud-plus-vite-que-les-entreprises-ne-securisent-leurs-acces"
+  },
+  {
+   "id": 59,
+   "source": "Le Monde Informatique",
+   "titre": "Cyberattaque chez SAP : des soupçons d'accès au code source sur GitHub",
+   "resume": "SAP a confirmé, le 27 novembre 2026, avoir détecté des activités suspectes dans son environnement informatique. Selon plusieurs médias allemands, des attaquants auraient utilisé des jetons d'authentification dérobés à des employés pour accéder à du code source sur GitHub. L'incident, désigné en interne sous le nom de « Project Granite », fait toujours l'objet d'investigations. L'éditeur assure toutefois n'avoir trouvé aucune preuve d'accès non autorisé aux données métier de ses clients.",
+   "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-chez-sap-des-soupcons-d-acces-au-code-source-sur-github"
+  },
+  {
+   "id": 60,
+   "source": "Le Monde Informatique",
+   "titre": "Alon Horev (VAST Data) : « Notre travail avec Nvidia consiste à simplifier l'ensemble de la pile technologique de l'IA»",
+   "resume": "Alors que les besoins en infrastructures dédiées à l'IA explosent, VAST Data renforce ses liens avec Nvidia et accompagne de nouveaux acteurs comme Mistral. Alon Horev, CTO de VAST Data revient sur l'évolution de ce partenariat, les enjeux du déploiement de l'IA en entreprise et le lancement de Data Enclave.",
+   "lien": "https://www.lemondeinformatique.fr/donnees-ia/alon-horev-vast-data-notre-travai"
+  },
+  {
+   "id": 61,
+   "source": "Le Monde Informatique",
+   "titre": "Cyberattaque contre l'AFP : la plateforme AFP Forum mise hors ligne",
+   "resume": "L'Agence France-Presse (AFP) a été victime d'une cyberattaque dans la nuit du 25 au 26 novembre 2026. L'intrusion a conduit l'agence à suspendre temporairement l'accès à AFP Forum, une plateforme utilisée par ses clients pour consulter et télécharger ses contenus. Des solutions de secours ont été proposées aux abonnés, tandis que des investigations sont menées avec l'appui d'experts extérieurs. L'identité des attaquants et l'étendue de l'incident restent inconnues.",
+   "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-l-afp-la-plateforme-afp-forum-mise-hors-ligne"
+  },
+  {
+   "id": 62,
+   "source": "Le Monde Informatique",
+   "titre": "IA : de 5 milliards de tokens par seconde en 2026 à 317 milliards en 2030, selon Sandisk",
+   "resume": "Selon une étude prospective publiée par Sandisk, les infrastructures mondiales d'intelligence artificielle pourraient produire jusqu'à 317 milliards de tokens par seconde en 2030, contre environ 5 milliards en 2026. Cette multiplication par 63 du rythme de production nécessiterait des progrès dans les capacités de calcul, la mémoire, les réseaux et le stockage. Le fabricant estime notamment que l'essor des agents IA pourrait renforcer le rôle des SSD dans les centres de données. Le chiffre de 31",
+   "lien": "https://www.lemondeinformatique.fr/donnees-ia/ia-de-5-milliards-de-tokens-par-seconde-en-2026-a-317-milliards-en-2030-selon-sandisk"
+  },
+  {
+   "id": 63,
+   "source": "Le Monde Informatique",
+   "titre": "MiniMax visé par des soupçons d'exposition de données, Apple retire Talkie de l'App Store",
+   "resume": "Le groupe chinois MiniMax fait face à deux affaires distinctes. Selon une enquête de Dragos révélée par Reuters le 26 novembre 2026, des liens confidentiels transmis à ses modèles d'intelligence artificielle auraient été consultés par des parties non identifiées, malgré des demandes de non-conservation des données. Parallèlement, Apple a retiré l'application de compagnons virtuels Talkie de son App Store à l'échelle mondiale le 25 novembre, en invoquant la présence de contenu sexuel, après une e",
+   "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/minimax-vise-par-des-soupcons-d-exposition-de-donnees-apple-retire-talkie-de-l-app-store"
+  },
+  {
+   "id": 64,
+   "source": "Le Monde Informatique",
+   "titre": "OpenAI fusionne Chat et Work, avec des quotas partagés dès décembre",
+   "resume": "OpenAI commence à réunir les fonctions conversationnelles de ChatGPT et les capacités agentiques de Work dans une même interface. À partir de décembre 2026, les conversations avec les modèles avancés partageront leurs quotas avec Work et Codex pour les abonnés Plus, Pro et Business. Si la majorité des utilisateurs ne devrait pas être affectée, les plus intensifs pourraient atteindre leurs limites plus rapidement. OpenAI n'a toutefois pas précisé la taille des nouvelles enveloppes.",
+   "lien": "https://www.lemondeinformatique.fr/donnees-ia/openai-fusionne-chat-et-work-avec-des-quotas-partages-des-decembre"
+  },
+  {
+   "id": 65,
+   "source": "Le Monde Informatique",
+   "titre": "Perplexity lance Time Machine pour faire explorer le Web passé aux agents IA",
+   "resume": "Perplexity a lancé le 25 novembre 2026 Time Machine, une fonction de ses API Search et Context permettant aux agents d'intelligence artificielle d'interroger le Web tel qu'il existait à une date donnée. Le service vise notamment l'entraînement, l'évaluation et les simulations historiques, en évitant que les modèles accèdent à des informations publiées après les événements qu'ils doivent analyser. Disponible sur une fenêtre rétrospective de 365 jours, il s'appuie sur les copies de pages conservée",
+   "lien": "https://www.lemondeinformatique.fr/donnees-ia/perplexity-lance-time-machine-pour-faire-explorer-le-web-passe-aux-agents-ia"
+  },
+  {
+   "id": 66,
+   "source": "BleepingComputer",
+   "titre": "Drupal warns of new site takeover flaw exploited in attacks",
+   "resume": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/"
+  },
+  {
+   "id": 67,
+   "source": "BleepingComputer",
+   "titre": "SAP confirms security incident after suspicious GitHub activity",
+   "resume": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/"
+  },
+  {
+   "id": 68,
+   "source": "BleepingComputer",
+   "titre": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+   "resume": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/"
+  },
+  {
+   "id": 69,
+   "source": "BleepingComputer",
+   "titre": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+   "resume": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/"
+  }
+ ]
+}
