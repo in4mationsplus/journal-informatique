@@ -1,0 +1,98 @@
+{
+ "introduction": "Bonsoir, voici le journal informatique du vendredi 27 novembre 2026, édition du soir. Au programme : une intrusion dans le cloud de l'armée de l'air américaine, Photoshop et l'IA générative, la fin de WSUS et la naissance d'Ariane.",
+ "sujets": [
+  {
+   "titre": "Cloud One de l'US Air Force piraté",
+   "rubrique": "Sécurité",
+   "articles": [
+    5,
+    72,
+    59,
+    56
+   ],
+   "texte": "Des pirates se seraient introduits dans Cloud One, la grande plateforme cloud de l'armée de l'air américaine. Selon les informations rapportées, ils seraient allés jusqu'à la couche d'administration, celle qui pilote toute la plateforme. Celle-ci héberge des données tactiques, logistiques et de personnel. Cette intrusion s'ajoute à une série d'attaques contre des agences fédérales américaines, dont le FBI, la CIA et le Trésor. Le Monde Informatique évoque aussi, ces derniers jours, des incidents touchant des infrastructures critiques suisses, l'administration britannique, SAP et l'AFP, et souligne que l'intelligence artificielle accélère déjà certaines opérations offensives. De son côté, le Cyberhebdo de LeMagIT recense quarante-huit cyberattaques rapportées dans la presse en une semaine, un niveau qualifié de sans précédent. Pour un informaticien, le message est clair : atteindre la couche d'administration d'un cloud, c'est atteindre tout ce qu'il contient, d'où l'importance de protéger en priorité les comptes et les accès d'administration."
+  },
+  {
+   "titre": "Artex : l'enchaînement d'une attaque observé par le DIVD",
+   "rubrique": "Sécurité",
+   "articles": [
+    54
+   ],
+   "texte": "L'institut danois de divulgation des vulnérabilités, le DIVD, a détaillé le déroulement d'une attaque de la campagne Artex, et LeMagIT y voit un aperçu précieux de ce qui nous attend. Tout commence le 21 septembre, vingt minutes avant huit heures, heure universelle, quand les attaquants tentent de se connecter à un serveur FTP en essayant divers mots de passe. Douze heures plus tard, une première vulnérabilité encore inconnue est exploitée avec succès. Moins d'une demi-heure après, les intrus sont déjà dans le réseau interne, grâce à une vulnérabilité d'exécution de code à distance. Ce récit montre la rapidité de ces attaques : entre le premier essai et l'accès au réseau interne, il s'écoule à peine plus d'une demi-journée. Les équipes de défense ont très peu de temps pour réagir."
+  },
+  {
+   "titre": "Photoshop 2027 : le New York Times s'inquiète de l'IA générative",
+   "rubrique": "IA",
+   "articles": [
+    48
+   ],
+   "texte": "Le New York Times a demandé à ses photographes de ne pas utiliser la dernière version du logiciel d'Adobe, Photoshop 2027, en version 28.0.0. Le journal explique avoir appris que certaines fonctions du logiciel font appel à l'intelligence artificielle générative sans que les utilisateurs s'en rendent forcément compte. L'IA générative est désormais tellement intégrée à Photoshop que la rédaction préfère écarter l'outil plutôt que de risquer des images retouchées de manière non voulue. Cet épisode illustre un problème qui concerne toutes les organisations : quand un éditeur ajoute de l'IA dans un logiciel courant, il faut savoir où elle intervient, et si elle peut être désactivée, avant de mettre à jour les postes de travail."
+  },
+  {
+   "titre": "macOS 27 démarre sur Linux, sans machine virtuelle",
+   "rubrique": "Développement",
+   "articles": [
+    47
+   ],
+   "texte": "Un projet libre est parvenu à faire démarrer le bureau de macOS 27 à l'intérieur de Linux, sans machine virtuelle entre les deux. Next parle d'une prouesse technique réelle, d'un vieux rêve en passe de se réaliser. Mais le résultat reste une expérience de laboratoire : il est réservé à du matériel précis et il exige de désactiver des protections de sécurité. Il ne s'agit donc pas d'une solution à déployer, plutôt d'une démonstration de ce que la communauté du logiciel libre sait faire. Pour les développeurs, l'intérêt est surtout de voir comment les deux systèmes peuvent cohabiter au plus près du matériel, sans la couche habituelle de virtualisation."
+  },
+  {
+   "titre": "Nvidia et Kioxia étendent la mémoire des GPU avec des SSD",
+   "rubrique": "Cloud et infrastructure",
+   "articles": [
+    52
+   ],
+   "texte": "Nvidia et le fabricant de SSD Kioxia viennent de présenter une architecture destinée à étendre la mémoire d'un processeur graphique. Celle-ci est aujourd'hui inférieure à 500 gigaoctets. La promesse est de la porter à des dizaines de téraoctets, grâce à des disques SSD. L'objectif est de pouvoir charger en même temps plusieurs modèles d'intelligence artificielle, ou de très grandes fenêtres de contexte, c'est-à-dire la quantité de texte qu'un modèle peut garder en tête. Pour les équipes d'infrastructure, cela confirme que le stockage devient un maillon central des machines d'IA, au même titre que la puissance de calcul : la mémoire du GPU est l'un des principaux goulots d'étranglement."
+  },
+  {
+   "titre": "Cloud souverain : S3NS avec Red Hat, Atos avec Scaleway",
+   "rubrique": "Cloud et infrastructure",
+   "articles": [
+    41,
+    44
+   ],
+   "texte": "Deux alliances renforcent l'offre de cloud souverain en France. D'abord, S3NS renforce son partenariat avec Red Hat pour opérer OpenShift, Red Hat Enterprise Linux et Ansible Automation Platform sur son cloud de confiance PREMI3NS. Déployée en France et en Allemagne, cette intégration vise les secteurs réglementés qui veulent moderniser leurs applications dans le respect du référentiel SecNumCloud 3.2. Ensuite, Atos retient Scaleway comme partenaire privilégié pour déployer sa suite d'intelligence artificielle Genesis Intelligence dans les clouds souverains français. L'alliance promet d'automatiser la migration des charges critiques et d'optimiser les coûts d'exploitation, en unifiant la gouvernance hybride et multicloud. Ces annonces montrent que les acteurs européens cherchent à proposer des solutions complètes, adaptées aux exigences des organisations publiques et réglementées."
+  },
+  {
+   "titre": "Windows Server 2028 sans WSUS",
+   "rubrique": "Cloud et infrastructure",
+   "articles": [
+    75
+   ],
+   "texte": "Microsoft va retirer le rôle serveur WSUS de Windows Server 2028, la prochaine version majeure de son système d'exploitation pour serveurs. WSUS est le rôle qui permet de gérer de façon centralisée les mises à jour Windows dans une organisation. Pour les administrateurs, c'est un signal à prendre en compte dès maintenant : si leur gestion des correctifs repose sur WSUS, ils devront prévoir une autre solution avant d'adopter cette version. Le temps de préparer la migration, de tester d'autres outils et de former les équipes ne sera pas de trop."
+  },
+  {
+   "titre": "Ariane remplace la DINUM",
+   "rubrique": "Business et régulation",
+   "articles": [
+    51
+   ],
+   "texte": "Le décret qui transforme la direction interministérielle du numérique, la DINUM, en une nouvelle autorité appelée Ariane a été publié au Journal officiel. Cette autorité de référence de l'intelligence artificielle et du numérique de l'État aura des pouvoirs élargis. Elle pourra notamment imposer aux ministères une liste d'outils qu'elle mettra à leur disposition. Next précise que cette réorganisation se fait en parallèle d'autres changements dans l'administration. Pour les prestataires et les équipes informatiques de l'administration, cela peut changer la donne : les choix d'outils pourraient désormais être davantage centralisés."
+  },
+  {
+   "titre": "Google va publier les coordonnées des développeurs d'applications",
+   "rubrique": "Business et régulation",
+   "articles": [
+    30
+   ],
+   "texte": "Google a annoncé qu'il allait obliger les développeurs d'applications mobiles à déclarer leur statut commercial. Selon 01net, l'entreprise publiera les numéros de téléphone et les adresses personnelles des développeurs indépendants. Elle irait ainsi bien au-delà de ce qu'exige la réglementation européenne à laquelle elle cherche à se conformer. Pour les petits développeurs qui publient depuis chez eux, cela pose une question de vie privée très concrète. Ils devront vérifier quelles informations seront affichées et envisager, par exemple, une adresse professionnelle dédiée."
+  },
+  {
+   "titre": "Nvidia règle le litige sur le minage pour 290 millions de dollars",
+   "rubrique": "Business et régulation",
+   "articles": [
+    46
+   ],
+   "texte": "Nvidia a accepté de verser 290 millions de dollars pour régler à l'amiable une plainte déposée fin 2018 par des investisseurs. Ceux-ci reprochaient à l'entreprise d'avoir minimisé la part de ses ventes de cartes graphiques GeForce destinées au minage de cryptomonnaies, alors que ces ventes soutenaient sa division gaming. Nvidia ne reconnaît aucune faute. L'affaire rappelle à quel point la communication financière des grands fabricants de puces est surveillée de près, et que ces litiges peuvent durer des années avant d'être soldés."
+  },
+  {
+   "titre": "Le Royaume-Uni refuse d'interdire les datacenters d'IA",
+   "rubrique": "Business et régulation",
+   "articles": [
+    61
+   ],
+   "texte": "Le gouvernement britannique a déclaré qu'il n'a aucune intention d'interdire la construction de nouveaux centres de données destinés à l'intelligence artificielle. Une pétition parlementaire dénonçait leur consommation de ressources et leurs conséquences environnementales. Les autorités privilégient un examen au cas par cas des projets, au nom de la souveraineté numérique et du développement de l'économie numérique. Pour les opérateurs de centres de données et les entreprises qui comptent sur ces capacités, c'est un signal plutôt favorable. Mais le débat entre besoins de calcul, consommation de ressources et impact environnemental est donc loin d'être clos au Royaume-Uni."
+  }
+ ],
+ "conclusion": "C'était le journal du soir, bonne route et à demain."
+}
