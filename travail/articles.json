@@ -1,0 +1,320 @@
+{
+ "date": "2026-11-27",
+ "edition": "matin",
+ "date_texte": "vendredi 27 novembre 2026",
+ "mots_vises": 2300,
+ "rubriques": [
+  "Sécurité",
+  "IA",
+  "Développement",
+  "Cloud et infrastructure",
+  "Business et régulation"
+ ],
+ "sujets_deja_racontes": [
+  "Cisco Expressway activement exploitée",
+  "Faille Azure API Management exploitée",
+  "OpenRouter exclut des fournisseurs d'IA après des fuites de secrets",
+  "Le CHU de Guadeloupe paralysé par un rançongiciel",
+  "Nissan : un outil de diagnostic compromis",
+  "Anthropic lance Claude Ship",
+  "L'IA et l'hypothèse de Riemann",
+  "Anthropic en Bourse : 1 600 milliards de dollars de valorisation",
+  "OpenAI propose des limites communes pour les modèles les plus puissants",
+  "Chez OpenAI, les agents surveillent mieux qu'ils ne codent",
+  "Amazon négocie le rachat de Decart",
+  "PowerShell 7 va s'intégrer à Windows",
+  "Pilotes graphiques AMD et NVIDIA : des écritures disque permanentes",
+  "OVHcloud vise deux milliards d'euros de chiffre d'affaires",
+  "Trump menace de taxer les datacenters construits à l'étranger",
+  "Jensen Huang redevient PDG de Nvidia",
+  "CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
+  "Bending Spoons rachète Mailchimp",
+  "Chrome : une faille critique corrigée",
+  "Check Point : des serveurs de gestion compromis",
+  "Rackspace ferme sa plateforme Spot après une intrusion",
+  "Radware : des clés d'accès cloud de clients exposées",
+  "Piratage de la base de données criminelles du FBI",
+  "Shirudo : OpenAI et Cisco protègent Linux en attendant les correctifs",
+  "Signal veut empêcher les agents IA de lire vos messages",
+  "GLM-5.4 : un nouveau modèle chinois pour le code",
+  "Inkling 2 Mini : un modèle en boucle qui tourne sur un portable",
+  "Firefox 161 : un VPN par site et Firefox sur le tableau de bord",
+  "Visual Studio Code 1.147 : programmer ses demandes aux agents",
+  "Centres de données IA : le courant continu à 800 volts s'impose",
+  "Panne mondiale de Microsoft : le rapport final",
+  "Nvidia : Jensen Huang revient sous la pression de Donald Trump",
+  "Washington met Megaspeed et une filiale d'Alibaba sur liste noire",
+  "Quad9 quitte la France",
+  "Apple et la justice britannique : l'ordonnance secrète sur le chiffrement",
+  "Drupal : une faille critique exploitée",
+  "Microsoft : des problèmes d'authentification après les mises à jour de novembre",
+  "Intrusion dans un système d'analyse de la CIA",
+  "Ipsos : le groupe Qilin revendique un vol de données",
+  "Le CHU de Bordeaux et SIG Sauer visés par ScarlettGroup",
+  "GrapheneOS accuse Google de vouloir sa disparition",
+  "Claude permet de créer des applications pour Mac et Windows",
+  "OpenAI et Anthropic : des salariés inquiets",
+  "Epochal : trois cofondateurs de xAI lancent une start-up d'IA prédictive",
+  "Ladybird publie sa première version alpha",
+  "Pop!_OS 26.04 : le bureau COSMIC arrive",
+  "Microsoft déclenche un « Code Red » après la panne de Microsoft 365",
+  "Oracle : jusqu'à 1 390 suppressions de postes en Europe",
+  "Quantum Act : l'Union européenne veut soutenir son industrie quantique",
+  "SpaceX et Tesla : vers une fusion à 3 500 milliards de dollars ?",
+  "Nvidia : Jensen Huang s'excuse, Trump évoque une grâce",
+  "Deux milliards d'identifiants exposés",
+  "Nvidia visée par une menace de rançongiciel",
+  "Une faille critique non corrigée dans des contrôleurs Danfoss",
+  "Les failles des composants tiers dans les équipements réseau",
+  "Black Friday : des attaques dopées à l'IA contre les distributeurs",
+  "L'alerte de sécurité ne vaut que si l'on agit : dette technique et IA offensive",
+  "CrowdStrike et Zscaler : un kill switch pour les agents IA",
+  "Yann LeCun contre Dario Amodei sur les modèles ouverts",
+  "Anthropic sous son prix d'introduction en Bourse",
+  "Bulle de l'IA : qui paiera si elle éclate ?",
+  "L'IA générative aggrave l'infobésité au travail",
+  "Gemini sépare historique et entraînement",
+  "Tidal bannit la musique générée par IA",
+  "Visual Studio 2026 et Qt Creator 21",
+  "OVHcloud : de l'eau chaude pour des GPU froids",
+  "ETIX investit cent millions d'euros dans ses centres de données",
+  "Les centres de données et la qualité de l'air",
+  "HPE : un trimestre en fanfare",
+  "Facture électronique : un rodage difficile",
+  "HarmonyOS dépasse 100 millions d'appareils",
+  "Palo Alto Networks : des failles exploitées sur PAN-OS",
+  "1Password : des données clients volées via un compte GitHub",
+  "Des agences suisse et italienne alertent sur les cyberattaques autonomes",
+  "Huawei reconnu coupable par un jury américain",
+  "Artex : les attaques pilotées par des agents IA progressent",
+  "De faux tests de recrutement piègent les développeurs .NET",
+  "Windows Update installe un pilote Intel obsolète et vulnérable",
+  "Anthropic mesure les évasions de bac à sable avec Siren",
+  "OpenAI et la multiplication de matrices : une limite à 2,25 ?",
+  "SpaceX autorisé à déployer un million de satellites de calcul",
+  "Dell : 132 milliards de dollars de commandes de serveurs IA",
+  "L'Australie vote un devoir de vigilance numérique",
+  "La FIFA piratée, des données personnelles volées",
+  "Deux logiciels espions volent les courriels Gmail et Outlook",
+  "OpenAI réduit les quotas de ses abonnés après une erreur de facturation",
+  "Le Groupement Mousquetaires déploie l'IA avec Anthropic",
+  "Nvidia : S&P menace de dégrader la note, les services de renseignement écartent la piste chinoise",
+  "Des puces d'IA Nvidia inondent le marché après le durcissement des restrictions américaines",
+  "ASML : les Pays-Bas s'opposent au MATCH Act américain",
+  "RGPD : un registre allégé pour les entreprises de moins de mille salariés",
+  "Les lunettes connectées de Meta devant la justice néerlandaise",
+  "Gartner : 1 570 milliards de dollars de dépenses informatiques en Europe en 2027"
+ ],
+ "articles": [
+  {
+   "id": 0,
+   "source": "Numerama",
+   "titre": "Black Friday : voici 5 jeux de société incontournables à prix cassés sur Amazon",
+   "resume": "Envie de renouveler vos soirées jeux ou de trouver une idée cadeau à glisser sous le sapin ? Amazon propose plusieurs jeux de société à prix réduit pour le Black Friday. Voici cinq références à découvrir, entre grands classiques, jeux de stratégie et jeux d'ambiance.",
+   "lien": "https://www.numerama.com/pop-culture/2385651-black-friday-voici-5-jeux-de-societe-incontournables-a-prix-casses-sur-amazon.html"
+  },
+  {
+   "id": 1,
+   "source": "01net",
+   "titre": "Cet aspi-robot laveur est à -71% : Tineco brise la concurrence avec des prix de folie furieuse",
+   "resume": "Le Tineco Floor One S7 Stretch Ultra est un appareil conçu pour vous faire gagner du temps lors du ménage avec sa double fonction d'aspiration et de lavage, son format pliable à 180° et sa station auto-nettoyante. À ce prix fou auquel il est proposé pendant le Black Friday, il n'y a pas besoin de tergiverser plus longtemps.",
+   "lien": "https://www.01net.com/bons-plans/cet-aspi-robot-laveur-est-a-71-tineco-brise-la-concurrence-avec-des-prix-de-folie-furieuse.html"
+  },
+  {
+   "id": 2,
+   "source": "01net",
+   "titre": "Adieu iPhone Duo, adieu Galaxy Z Fold8 : le Honor Magic V5 passe -60% au Black Friday 🔥",
+   "resume": "Le Black Friday est lancé sur AliExpress ! Pour le plus gros évènement commercial de l'année, le géant du e-commerce casse les prix des références high-tech. Parmi les offres les plus folles du jour, le smartphone pliant premium Honor Magic V5 qui ne coûte plus qu'une fraction de son tarif habituel.",
+   "lien": "https://www.01net.com/bons-plans/adieu-iphone-duo-adieu-galaxy-z-fold8-le-honor-magic-v5-passe-60-au-black-friday.html"
+  },
+  {
+   "id": 3,
+   "source": "01net",
+   "titre": "Samsung met la misère au Galaxy A16 : il s’écoule à 142€ et c’est pas normal du tout 🤯",
+   "resume": "Le Galaxy A16 est un smartphone d'entrée de gamme, il a l'avantage de profiter des qualités de la marque Samsung et d'un long suivi logiciel. Avec AliExpress, vous pouvez l'obtenir à un prix de folie grâce à cette vente flash affichée au Black Friday.",
+   "lien": "https://www.01net.com/bons-plans/samsung-met-la-misere-au-galaxy-a16-il-secoule-a-142e-et-cest-pas-normal-du-tout.html"
+  },
+  {
+   "id": 4,
+   "source": "01net",
+   "titre": "Poco F8 Pro : Xiaomi a créé un monstre de puissance, le Black Friday le dompte avec -57% ⚡️",
+   "resume": "Ce smartphone haut de gamme signé Xiaomi est à un prix vraiment doux au Black Friday. C'est l'occasion de vous équiper sereinement avant d'entamer 2027, sans que cela ne pèse trop sur votre budget.",
+   "lien": "https://www.01net.com/bons-plans/poco-f8-pro-xiaomi-a-cree-un-monstre-de-puissance-le-black-friday-le-dompte-avec-57.html"
+  },
+  {
+   "id": 5,
+   "source": "01net",
+   "titre": "Black Friday : neuve, sous licence Nintendo, cette manette Pro pour Switch 2 est à prix “Leboncoin”",
+   "resume": "Si vous jouez souvent en mode console de salon sur la Switch 2, la manette Pro officielle de Nintendo va vous changer la vie. Cette promo tombe à pic si vous souhaitez voir ce qu'elle a dans le ventre.",
+   "lien": "https://www.01net.com/bons-plans/black-friday-neuve-et-sous-licence-nintendo-cette-manette-pro-pour-switch-2-est-a-prix-leboncoin.html"
+  },
+  {
+   "id": 6,
+   "source": "01net",
+   "titre": "La Huawei Watch GT 6 Pro, une montre performante qui claque… et un prix qui fond de 45% 🔥",
+   "resume": "La Huawei Watch GT 6 Pro est une montre connectée premium qui mêle fonctionnalités avancées et design. Elle se dote de nombreux capteurs pour le suivi sportif et le bien-être. De plus, AliExpress écrase son prix de -45% pour son Black Friday, cette opportunité est à saisir sans attendre.",
+   "lien": "https://www.01net.com/bons-plans/la-huawei-watch-gt-6-pro-une-montre-performante-qui-claque-et-un-prix-qui-fond-de-49.html"
+  },
+  {
+   "id": 7,
+   "source": "01net",
+   "titre": "Nintendo brade la Switch 2 pour contrer le pic de ventes de PS5 avec GTA 6 🔥",
+   "resume": "Si vous attendiez une bonne occasion pour vous procurer l'excellente Nintendo Switch 2, cette remise au Black Friday tombe vraiment bien.",
+   "lien": "https://www.01net.com/bons-plans/nintendo-brade-la-switch-2-pour-contrer-le-pic-de-ventes-de-ps5-avec-gta-vi.html"
+  },
+  {
+   "id": 8,
+   "source": "01net",
+   "titre": "La Forerunner 265 passe à -55%, elle est moins chère qu’une Garmin 165 😱",
+   "resume": "La montre connectée Garmin Forerunner 265 dispose de sérieux avantages et elle tombe à un prix irrésistible au Black Friday. C'est le moment de la mettre dans votre panier : cette offre débute à 0h01 ce vendredi, jour J du Black Friday.",
+   "lien": "https://www.01net.com/bons-plans/la-forerunner-265-passe-a-55-elle-est-moins-chere-quune-garmin-165.html"
+  },
+  {
+   "id": 9,
+   "source": "01net",
+   "titre": "Le Honor 600 Pro à -52% envoie un message clair : tirez un trait sur l’iPhone 🚀",
+   "resume": "Le Honor 600 Pro est un smartphone premium et récent qui est sorti au printemps cette année. Sa fiche technique rivalise avec celle des derniers Galaxy S et iPhone, sauf que le prix est bien plus doux lors du Black Friday.",
+   "lien": "https://www.01net.com/bons-plans/le-honor-600-pro-a-52-envoie-un-message-clair-tirez-un-trait-sur-liphone.html"
+  },
+  {
+   "id": 10,
+   "source": "01net",
+   "titre": "Xiaomi doit vider le stock, le Redmi Note 15 Pro Plus est à -58% pour tout écouler en 2-2 🧨",
+   "resume": "Le Redmi Note 15 Pro Plus 5G est un smartphone sorti cette année qui se place sur le segment de milieu de gamme et qui offre un rapport qualité prix parmi les plus incroyables du marché. C'est encore plus le cas avec cette offre Black Friday qui le rend incontournable.",
+   "lien": "https://www.01net.com/bons-plans/xiaomi-doit-vider-le-stock-le-redmi-note-15-pro-est-a-58-pour-tout-ecouler-en-2-2.html"
+  },
+  {
+   "id": 11,
+   "source": "01net",
+   "titre": "Meta veut un casque VR sous tous les sapins : il brade le Quest 3 512 Go à un tarif fou 🎄",
+   "resume": "Voici une offre folle pour quiconque veut s'équiper du Meta Quest 3, le casque VR/AR le plus haut de gamme du marché en 2026.",
+   "lien": "https://www.01net.com/bons-plans/black-friday-le-meta-quest-3-passe-a-un-prix-de-folie-le-top-casque-vr-se-vend-par-camions.html"
+  },
+  {
+   "id": 12,
+   "source": "01net",
+   "titre": "Une tablette à 79€ ? La Honor Pad X8a se vend à la casse (-60%) 😱",
+   "resume": "La Honor Pad X8a est une tablette Android d'entrée de gamme qui répond aux usages du quotidien comme la navigation en ligne, le multimédia ou les jeux légers. Pour Black Friday, elle fait l'objet d'une réduction grandiose sur AliExpress.",
+   "lien": "https://www.01net.com/bons-plans/une-tablette-a-79e-la-honor-pad-x8a-se-vend-a-la-casse-65.html"
+  },
+  {
+   "id": 13,
+   "source": "01net",
+   "titre": "Erreur de prix ou pure folie ? Le compteur GPS Garmin pour vélo est à -52%",
+   "resume": "Le compteur GPS de Garmin est à un tarif dingue, et il promet de faire économiser une tonne à tous les amateurs de cyclisme qui veulent s'équiper de la référence sur le marché.",
+   "lien": "https://www.01net.com/bons-plans/erreur-de-prix-ou-pure-folie-le-compteur-gps-garmin-pour-velo-est-a-52.html"
+  },
+  {
+   "id": 14,
+   "source": "01net",
+   "titre": "Le Poco X8 Pro Max à -60% fait pâlir la concurrence : Xiaomi n’a ni foi, ni loi à Black Friday 😱",
+   "resume": "Le Poco X8 Pro Max est un smartphone haut de gamme qui multiplie les qualités techniques pour un prix contenu. Avec cette offre flash, AliExpress en fait un incontournable de Black Friday. Soyez réactif, le stock est très limité.",
+   "lien": "https://www.01net.com/bons-plans/le-poco-x8-pro-max-a-60-fait-palir-la-concurrence-xiaomi-na-ni-foi-ni-loi-a-black-friday.html"
+  },
+  {
+   "id": 15,
+   "source": "01net",
+   "titre": "Vous demandez des conseils médicaux à ChatGPT ? Attention, l’IA risque de « vous mettre en danger »",
+   "resume": "L’ANSM alerte sur les dangers de demander des conseils médicaux à une IA lors de la prise de médicaments, après avoir recensé plusieurs cas de surdosage liés à des indications erronées. Ce type de pratique peut également mener à l'interruption d’un traitement, alors qu’il doit être continué.",
+   "lien": "https://www.01net.com/actualites/vous-demandez-des-conseils-medicaux-a-chatgpt-attention-lia-risque-de-vous-mettre-en-danger.html"
+  },
+  {
+   "id": 16,
+   "source": "01net",
+   "titre": "Honor Magic 8 Pro : bradé à -47% en 512 Go, il cloue le bec des iPhone et Galaxy 💨",
+   "resume": "Ce smartphone premium coûte 1 299 euros dans sa version 512 Go/12 Go, mais AliExpress est passé par là pour lui asséner une remise dingue euros pendant le Black Friday Day.",
+   "lien": "https://www.01net.com/bons-plans/honor-magic-8-pro-brade-a-47-en-512-go-il-cloue-le-bec-des-iphone-et-galaxy-%f0%9f%92%a8.html"
+  },
+  {
+   "id": 17,
+   "source": "ZDNet",
+   "titre": "Test Uppercase GhostCover : une protection fine pour votre MacBook Pro",
+   "resume": "A un prix abordable, c’est un très bon investissement pour mettre le clavier de votre ordinateur portable Apple à l’abri de différents éléments qui pourraient l’abîmer.",
+   "lien": "https://www.zdnet.fr/guide-achat/test-uppercase-ghostcover-une-protection-fine-pour-votre-macbook-pro-508648.htm#xtor=RSS-1"
+  },
+  {
+   "id": 18,
+   "source": "ZDNet",
+   "titre": "PC pratique : installez Bloatynosy pour supprimer de Windows 11 bloatwares en tout genre, pubs, fonctionnalités IA, …",
+   "resume": "Cet utilitaire gratuit permet de mettre un terme à divers éléments gênants et intrusifs dont les logiciels préinstallés dans l’OS de Microsoft. Voici comment procéder.",
+   "lien": "https://www.zdnet.fr/pratique/pc-pratique-installez-bloatynosy-pour-supprimer-de-windows-11-bloatwares-en-tout-genre-pubs-fonctionnalites-ia-508645.htm#xtor=RSS-1"
+  },
+  {
+   "id": 19,
+   "source": "ZDNet",
+   "titre": "Uber Trains arrive en France : la stratégie de super-app d'Uber pour contourner SNCF Connect",
+   "resume": "Uber déploie Uber Trains en France dès le 30 novembre prochain. Adossé à la plateforme technique d'Omio, le service distribue les billets de la SNCF et de ses concurrents au même prix, avec 10 % de cashback pour capter les voyageurs d'affaires et verrouiller son écosystème.",
+   "lien": "https://www.zdnet.fr/actualites/uber-trains-arrive-en-france-la-strategie-de-super-app-duber-pour-contourner-sncf-connect-508740.htm#xtor=RSS-1"
+  },
+  {
+   "id": 20,
+   "source": "ZDNet",
+   "titre": "Les Mousquetaires préparent l’arrivée de Claude dans 500 magasins avec AWS",
+   "resume": "Une première phase prévoit le déploiement de Claude auprès de 500 points de vente et 300 collaborateurs des fonctions support. A terme, le groupement souhaite équiper tous les magasins et salariés d’une IA du quotidien.",
+   "lien": "https://www.zdnet.fr/actualites/les-mousquetaires-preparent-larrivee-de-claude-dans-500-magasins-avec-aws-508704.htm#xtor=RSS-1"
+  },
+  {
+   "id": 21,
+   "source": "Next",
+   "titre": "Données de santé : la Cour des comptes déplore l’absence de stratégie nationale",
+   "resume": "La Cour des comptes constate dans un rapport la multiplication des entrepôts de données de santé hospitaliers « sans véritable cohérence territoriale ». Elle pousse le ministère de la Santé et sa nouvelle direction générale de l’Innovation et du Numérique en santé à « clarifier dès 2027 la stratégie de l’État » à ce sujet. […]",
+   "lien": "https://next.ink/270315/donnees-de-sante-la-cour-des-comptes-deplore-labsence-de-strategie-nationale/"
+  },
+  {
+   "id": 22,
+   "source": "LeMagIT",
+   "titre": "IA sur site : Microsoft Azure s’associe à Dell",
+   "resume": "<p>L’IA sur site privé aura bien lieu, mais les hyperscalers n’ont pas dit leur dernier mot. Microsoft s’associe ainsi avec Dell pour présenter une configuration matérielle qui fonctionne sous son système <a href=\"https://www.lemagit.fr/actualites/366616212/Virtualisation-Microsoft-remplace-Azure-Stack-par-Azure-Local\">Azure Local</a> et qui contient des <a href=\"https://www.lemagit.fr/actualites/366620990/GTC2025-Nvidia-ameliore-deja-ses-GPU-Blackwell\">GPU B300</a> de Nvidia, soit les plus puis",
+   "lien": "https://www.lemagit.fr/actualites/366655357/IA-sur-site-Microsoft-Azure-sassocie-a-Dell"
+  },
+  {
+   "id": 23,
+   "source": "LeMagIT",
+   "titre": "Les outils IA accélèrent la livraison logicielle… et la hausse des coûts IT (étude)",
+   "resume": "<p><a href=\"https://cdn.prod.website-files.com/695e1939655d6c0175b126da/6b073756c32daa5a4d7d6ac1_Cloudbees_State_of_Code_Abundance_Europe.pdf\">L’étude</a> réalisée en octobre 2026 par TrendCandy pour Cloudbees auprès de 450&nbsp;responsables IT et logiciel en France, au Royaume-Uni et en Allemagne (150 leaders par pays) s’intéresse à l’adoption de l’IA par les équipes DevOps au sein des ETI et des grandes entreprises (61&nbsp;% travaillent pour des groupes de plus de 1000&nbsp;employés).</p> <p>",
+   "lien": "https://www.lemagit.fr/actualites/366655558/Les-outils-IA-accelerent-la-livraison-logicielle-et-la-hausse-des-couts-IT-etude"
+  },
+  {
+   "id": 24,
+   "source": "LeMagIT",
+   "titre": "Avec Zscaler, CrowdStrike se transforme en colosse",
+   "resume": "<p>En choisissant de ne pas attendre les réductions du Black Friday, CrowdStrike a lancé la saison des achats de fin d'année en s'accordant pour&nbsp;<a href=\"https://www.lemagit.fr/actualites/366655452/CrowdStrike-absorbe-Zscaler-consolidation-et-convergence-des-plateformes\">acquérir Zscaler pour près de 44 milliards de dollars</a>. Si l'accord est finalisé, il représentera la plus grande acquisition dans le domaine de la cybersécurité de l'histoire, dépassant confortablement <a href=\"https://w",
+   "lien": "https://www.lemagit.fr/tribune/Avec-Zscaler-CrowdStrike-se-transforme-en-colosse"
+  },
+  {
+   "id": 25,
+   "source": "LeMagIT",
+   "titre": "Rançongiciels : une menace qui s’intensifie",
+   "resume": "<p>La menace des ransomwares a comme pris un fort coup d’accélérateur durant l’été dernier, au moins à l’échelle mondiale. Car pour l’instant, c’est moins vrai en France, où les données statistiques disponibles suggèrent une stabilité à un niveau toujours élevé.</p> <p>Mais la donnée quantitative ne suffit pas. Plusieurs éléments suggèrent que le volume croissant des revendications traduit surtout un recul du nombre de victimes cédant au chantage, doublé d’une augmentation des montants payés. Ce",
+   "lien": "https://www.lemagit.fr/actualites/366655557/Rancongiciels-une-menace-qui-sintensifie"
+  },
+  {
+   "id": 26,
+   "source": "Le Monde Informatique",
+   "titre": "SpaceX autorisé à déployer jusqu'à un million de satellites pour des datacenters spatiaux",
+   "resume": "La Federal Communications Commission (FCC) a accordé, le 25 novembre 2026, une autorisation conditionnelle à SpaceX pour déployer jusqu'à un million de satellites destinés au traitement de données et aux applications d'intelligence artificielle. Baptisée Starmind, cette constellation de centres de données orbitaux fonctionnerait à l'énergie solaire et s'appuierait principalement sur des communications optiques. L'entreprise d'Elon Musk devra respecter plusieurs échéances de déploiement jusqu'en ",
+   "lien": "https://www.lemondeinformatique.fr/infrastructure-cloud/spacex-autorise-a-deployer-jusqu-a-un-million-de-satellites-pour-des-datacenters-spatiaux"
+  },
+  {
+   "id": 27,
+   "source": "BleepingComputer",
+   "titre": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+   "resume": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/"
+  },
+  {
+   "id": 28,
+   "source": "BleepingComputer",
+   "titre": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+   "resume": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/"
+  },
+  {
+   "id": 29,
+   "source": "BleepingComputer",
+   "titre": "Fake paid expert interviews impersonate brands to steal Google logins",
+   "resume": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
+   "lien": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/"
+  }
+ ]
+}
