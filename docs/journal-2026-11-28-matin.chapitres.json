@@ -1,0 +1,44 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Introduction"
+  },
+  {
+   "startTime": 15.5,
+   "title": "Cacti : une faille zéro-day avec exploit public",
+   "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/"
+  },
+  {
+   "startTime": 60.62,
+   "title": "pCloud Pass : des connexions suspectes malgré la double authentification",
+   "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"
+  },
+  {
+   "startTime": 100.8,
+   "title": "Boston Scientific : une fuite de données médicales",
+   "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/"
+  },
+  {
+   "startTime": 139.75,
+   "title": "Les petites mairies, cibles faciles des cyberattaques",
+   "url": "https://www.zdnet.fr/actualites/gmail-perso-budget-sous-1-000-e-les-petites-mairies-particulierement-vulnerables-aux-cyberattaques-508823.htm#xtor=RSS-1"
+  },
+  {
+   "startTime": 176.93,
+   "title": "KaOS Linux abandonne KDE Plasma pour Niri",
+   "url": "https://www.zdnet.fr/pratique/linux-pratique-essayez-cette-distribution-legere-kaos-linux-2026-11-508763.htm#xtor=RSS-1"
+  },
+  {
+   "startTime": 215.64,
+   "title": "Cloudera promet une offre vraiment souveraine",
+   "url": "https://www.lemagit.fr/actualites/366655443/Cloudera-promet-enfin-une-offre-veritablement-souveraine"
+  },
+  {
+   "startTime": 259.08,
+   "title": "Les Gafam n'ont payé qu'une infime part de leurs amendes européennes",
+   "url": "https://www.zdnet.fr/blogs/l-esprit-libre/europe-les-gafam-ont-paye-moins-de-1-de-leurs-amendes-508858.htm#xtor=RSS-1"
+  }
+ ]
+}

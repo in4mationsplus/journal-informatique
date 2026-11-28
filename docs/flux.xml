@@ -7,6 +7,20 @@
 <description>Les news informatiques du jour, sans doublons, en 15 minutes.</description>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>Journal du samedi 28 novembre 2026, édition du matin</title>
+<guid isPermaLink="false">journal-2026-11-28-matin.mp3</guid>
+<pubDate>Sat, 28 Nov 2026 05:05:07 +0000</pubDate>
+<enclosure url="https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-28-matin.mp3" length="1805184" type="audio/mpeg"/>
+<podcast:chapters url="https://in4mationsplus.github.io/journal-informatique/journal-2026-11-28-matin.chapitres.json" type="application/json+chapters"/>
+<description>&lt;p&gt;&lt;b&gt;[Sécurité] Cacti : une faille zéro-day avec exploit public&lt;/b&gt; — &lt;a href="https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] pCloud Pass : des connexions suspectes malgré la double authentification&lt;/b&gt; — &lt;a href="https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] Boston Scientific : une fuite de données médicales&lt;/b&gt; — &lt;a href="https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Business et régulation] Les Gafam n'ont payé qu'une infime part de leurs amendes européennes&lt;/b&gt; — &lt;a href="https://www.zdnet.fr/blogs/l-esprit-libre/europe-les-gafam-ont-paye-moins-de-1-de-leurs-amendes-508858.htm#xtor=RSS-1"&gt;ZDNet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Cloud et infrastructure] Cloudera promet une offre vraiment souveraine&lt;/b&gt; — &lt;a href="https://www.lemagit.fr/actualites/366655443/Cloudera-promet-enfin-une-offre-veritablement-souveraine"&gt;LeMagIT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] Les petites mairies, cibles faciles des cyberattaques&lt;/b&gt; — &lt;a href="https://www.zdnet.fr/actualites/gmail-perso-budget-sous-1-000-e-les-petites-mairies-particulierement-vulnerables-aux-cyberattaques-508823.htm#xtor=RSS-1"&gt;ZDNet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Développement] KaOS Linux abandonne KDE Plasma pour Niri&lt;/b&gt; — &lt;a href="https://www.zdnet.fr/pratique/linux-pratique-essayez-cette-distribution-legere-kaos-linux-2026-11-508763.htm#xtor=RSS-1"&gt;ZDNet&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
 <title>Journal du vendredi 27 novembre 2026, édition du soir</title>
 <guid isPermaLink="false">journal-2026-11-27-soir.mp3</guid>
 <pubDate>Fri, 27 Nov 2026 17:05:56 +0000</pubDate>

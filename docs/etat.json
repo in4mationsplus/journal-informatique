@@ -678,7 +678,25 @@
   "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/": 1795799156.405901,
   "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/": 1795799156.405901,
   "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/": 1795799156.405901,
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/": 1795799156.405901
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/": 1795799156.405901,
+  "https://www.numerama.com/pop-culture/2386767-les-anneaux-de-pouvoir-pourquoi-sauron-a-t-il-pris-cette-decision-surprise-a-la-fin-de-la-saison-3.html": 1795842307.66799,
+  "https://www.01net.com/bons-plans/elle-fait-mieux-quun-ipad-classique-la-oneplus-pad-4-na-aucune-peine-a-seduire-et-elle-se-vend-a-la-pelle.html": 1795842307.66799,
+  "https://www.01net.com/bons-plans/honor-veut-envahir-le-pied-des-sapins-de-noel-avec-le-honor-600-il-passe-a-45.html": 1795842307.66799,
+  "https://www.01net.com/bons-plans/ce-nest-pas-une-erreur-ce-tineco-qui-coutait-699-e-tombe-a-185-e-pour-le-black-friday-74.html": 1795842307.66799,
+  "https://www.01net.com/bons-plans/redmi-pad-2-a-62-pour-le-black-friday-cette-tablette-xiaomi-offre-un-rapport-qualite-prix-dingue.html": 1795842307.66799,
+  "https://www.01net.com/bons-plans/dji-degaine-une-offre-choc-sur-losmo-action-5-pro-le-stock-part-a-mille-a-lheure-42.html": 1795842307.66799,
+  "https://www.01net.com/bons-plans/prix-derisoire-sur-ce-tineco-qui-aspire-et-lave-vos-sols-en-meme-temps-64-%e2%9c%a8.html": 1795842307.66799,
+  "https://www.01net.com/actualites/plots-de-chantier-jets-doeufs-pas-encore-arrives-chez-nous-les-robotaxis-ont-la-vie-dure.html": 1795842307.66799,
+  "https://www.01net.com/bons-plans/forerunner-255-ce-nest-pas-une-blague-la-montre-sport-gps-garmin-secrase-a-56.html": 1795842307.66799,
+  "https://www.zdnet.fr/guide-achat/test-pebble-index-01-une-bague-pour-prendre-des-notes-a-laide-dia-508766.htm#xtor=RSS-1": 1795842307.66799,
+  "https://www.zdnet.fr/blogs/l-esprit-libre/europe-les-gafam-ont-paye-moins-de-1-de-leurs-amendes-508858.htm#xtor=RSS-1": 1795842307.66799,
+  "https://www.zdnet.fr/publicite/comment-reduire-la-consommation-de-votre-electromenager-sans-tout-changer-508830.htm#xtor=RSS-1": 1795842307.66799,
+  "https://www.zdnet.fr/pratique/linux-pratique-essayez-cette-distribution-legere-kaos-linux-2026-11-508763.htm#xtor=RSS-1": 1795842307.66799,
+  "https://www.zdnet.fr/actualites/gmail-perso-budget-sous-1-000-e-les-petites-mairies-particulierement-vulnerables-aux-cyberattaques-508823.htm#xtor=RSS-1": 1795842307.66799,
+  "https://www.lemagit.fr/actualites/366655443/Cloudera-promet-enfin-une-offre-veritablement-souveraine": 1795842307.66799,
+  "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/": 1795842307.66799,
+  "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/": 1795842307.66799,
+  "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/": 1795842307.66799
  },
  "sujets_recents": [
   {
@@ -1164,9 +1182,130 @@
   {
    "titre": "Le Royaume-Uni refuse d'interdire les datacenters d'IA",
    "t": 1795799156.405901
+  },
+  {
+   "titre": "Cacti : une faille zéro-day avec exploit public",
+   "t": 1795842307.66799
+  },
+  {
+   "titre": "pCloud Pass : des connexions suspectes malgré la double authentification",
+   "t": 1795842307.66799
+  },
+  {
+   "titre": "Boston Scientific : une fuite de données médicales",
+   "t": 1795842307.66799
+  },
+  {
+   "titre": "Les Gafam n'ont payé qu'une infime part de leurs amendes européennes",
+   "t": 1795842307.66799
+  },
+  {
+   "titre": "Cloudera promet une offre vraiment souveraine",
+   "t": 1795842307.66799
+  },
+  {
+   "titre": "Les petites mairies, cibles faciles des cyberattaques",
+   "t": 1795842307.66799
+  },
+  {
+   "titre": "KaOS Linux abandonne KDE Plasma pour Niri",
+   "t": 1795842307.66799
   }
  ],
  "episodes": [
+  {
+   "titre": "Journal du samedi 28 novembre 2026, édition du matin",
+   "fichier": "journal-2026-11-28-matin.mp3",
+   "date": "Sat, 28 Nov 2026 05:05:07 +0000",
+   "taille": 1805184,
+   "duree": 301,
+   "notes": "<p><b>[Sécurité] Cacti : une faille zéro-day avec exploit public</b> — <a href=\"https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/\">BleepingComputer</a></p>\n<p><b>[Sécurité] pCloud Pass : des connexions suspectes malgré la double authentification</b> — <a href=\"https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/\">BleepingComputer</a></p>\n<p><b>[Sécurité] Boston Scientific : une fuite de données médicales</b> — <a href=\"https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/\">BleepingComputer</a></p>\n<p><b>[Business et régulation] Les Gafam n'ont payé qu'une infime part de leurs amendes européennes</b> — <a href=\"https://www.zdnet.fr/blogs/l-esprit-libre/europe-les-gafam-ont-paye-moins-de-1-de-leurs-amendes-508858.htm#xtor=RSS-1\">ZDNet</a></p>\n<p><b>[Cloud et infrastructure] Cloudera promet une offre vraiment souveraine</b> — <a href=\"https://www.lemagit.fr/actualites/366655443/Cloudera-promet-enfin-une-offre-veritablement-souveraine\">LeMagIT</a></p>\n<p><b>[Sécurité] Les petites mairies, cibles faciles des cyberattaques</b> — <a href=\"https://www.zdnet.fr/actualites/gmail-perso-budget-sous-1-000-e-les-petites-mairies-particulierement-vulnerables-aux-cyberattaques-508823.htm#xtor=RSS-1\">ZDNet</a></p>\n<p><b>[Développement] KaOS Linux abandonne KDE Plasma pour Niri</b> — <a href=\"https://www.zdnet.fr/pratique/linux-pratique-essayez-cette-distribution-legere-kaos-linux-2026-11-508763.htm#xtor=RSS-1\">ZDNet</a></p>",
+   "chapitres": [
+    {
+     "titre": "Introduction",
+     "rubrique": null,
+     "debut": 0.0,
+     "liens": []
+    },
+    {
+     "titre": "Cacti : une faille zéro-day avec exploit public",
+     "rubrique": "Sécurité",
+     "debut": 15.5,
+     "liens": [
+      {
+       "source": "BleepingComputer",
+       "lien": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/"
+      }
+     ]
+    },
+    {
+     "titre": "pCloud Pass : des connexions suspectes malgré la double authentification",
+     "rubrique": "Sécurité",
+     "debut": 60.62,
+     "liens": [
+      {
+       "source": "BleepingComputer",
+       "lien": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"
+      }
+     ]
+    },
+    {
+     "titre": "Boston Scientific : une fuite de données médicales",
+     "rubrique": "Sécurité",
+     "debut": 100.8,
+     "liens": [
+      {
+       "source": "BleepingComputer",
+       "lien": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/"
+      }
+     ]
+    },
+    {
+     "titre": "Les petites mairies, cibles faciles des cyberattaques",
+     "rubrique": "Sécurité",
+     "debut": 139.75,
+     "liens": [
+      {
+       "source": "ZDNet",
+       "lien": "https://www.zdnet.fr/actualites/gmail-perso-budget-sous-1-000-e-les-petites-mairies-particulierement-vulnerables-aux-cyberattaques-508823.htm#xtor=RSS-1"
+      }
+     ]
+    },
+    {
+     "titre": "KaOS Linux abandonne KDE Plasma pour Niri",
+     "rubrique": "Développement",
+     "debut": 176.93,
+     "liens": [
+      {
+       "source": "ZDNet",
+       "lien": "https://www.zdnet.fr/pratique/linux-pratique-essayez-cette-distribution-legere-kaos-linux-2026-11-508763.htm#xtor=RSS-1"
+      }
+     ]
+    },
+    {
+     "titre": "Cloudera promet une offre vraiment souveraine",
+     "rubrique": "Cloud et infrastructure",
+     "debut": 215.64,
+     "liens": [
+      {
+       "source": "LeMagIT",
+       "lien": "https://www.lemagit.fr/actualites/366655443/Cloudera-promet-enfin-une-offre-veritablement-souveraine"
+      }
+     ]
+    },
+    {
+     "titre": "Les Gafam n'ont payé qu'une infime part de leurs amendes européennes",
+     "rubrique": "Business et régulation",
+     "debut": 259.08,
+     "liens": [
+      {
+       "source": "ZDNet",
+       "lien": "https://www.zdnet.fr/blogs/l-esprit-libre/europe-les-gafam-ont-paye-moins-de-1-de-leurs-amendes-508858.htm#xtor=RSS-1"
+      }
+     ]
+    }
+   ]
+  },
   {
    "titre": "Journal du vendredi 27 novembre 2026, édition du soir",
    "fichier": "journal-2026-11-27-soir.mp3",
