@@ -1,0 +1,13 @@
+Bonjour, voici le journal informatique de midi, samedi 28 novembre 2026. Peu de nouveautés ce midi : du nouveau sur l'intrusion chez SAP, les détails de son plan de suppressions de postes, et une arnaque par courriel qui touche la France.
+
+Rubrique sécurité.
+
+Nous revenons sur l'incident de sécurité chez SAP, avec des précisions sur la manière dont les attaquants ont procédé. L'éditeur allemand confirme l'incident. Selon le magazine Der Spiegel, les pirates ont ciblé les dépôts GitHub de l'entreprise, c'est-à-dire l'endroit où est hébergé son code source. Pour y entrer, ils auraient dérobé des jetons d'authentification appartenant à des employés, et ce, probablement, avec l'aide d'une intelligence artificielle dite agentique, capable d'enchaîner seule des actions. À ce stade, aucune donnée commerciale de clients ne semble compromise. Pour un informaticien, c'est un rappel utile : un jeton d'accès volé donne les mêmes droits que son propriétaire,. Limiter la durée de vie des jetons, restreindre leurs droits et surveiller leur usage reste la meilleure défense.
+
+Une nouvelle arnaque par courriel, baptisée CheckoutSwitch, déferle en ce moment sur la France, après avoir fait des dégâts dans d'autres pays. Les escrocs se font passer pour DHL ou pour Amazon afin de collecter de petites sommes auprès de leurs victimes. Ils ne gardent pas cet argent tel quel : ils le redirigent vers de véritables boutiques en ligne, pour toucher une commission au passage. C'est pour cela que l'on parle d'une fraude à double victime : celle qui paie, mais aussi la boutique en ligne. La période du Black Friday, où l'on attend beaucoup de colis et de messages de livraison, est propice à ce genre de piège. Rappelez-le à vos proches et à vos collègues : on ne règle jamais de frais de livraison à partir d'un lien reçu par courriel.
+
+Rubrique business et régulation.
+
+Des précisions sur le plan de suppressions de postes de SAP. D'après Bloomberg, l'éditeur prépare la suppression d'au moins 10 000 postes, soit au moins 9 % de ses effectifs. Les réductions toucheraient en priorité le développement de produits, l'ingénierie et la vente. Le groupe affirme n'avoir pris aucune décision sur d'autres mesures. Le contraste est frappant : en octobre, SAP faisait état d'environ 70 % de contributions de code en plus chez ses 40 000 développeurs depuis le début de l'année. Son plan de 2024, porté à 9 000 à 10 000 postes, avait surtout reposé sur des départs volontaires. Pour les équipes de développement du secteur, c'est un signal à suivre de près.
+
+C'était le journal de midi ; retrouvez-nous ce soir pour la suite de l'actualité.

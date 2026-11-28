@@ -1,5 +1,54 @@
 [
  {
+  "titre": "Journal du samedi 28 novembre 2026, édition de midi",
+  "fichier": "journal-2026-11-28-midi.mp3",
+  "date": "Sat, 28 Nov 2026 11:05:27 +0000",
+  "taille": 962496,
+  "duree": 160,
+  "chapitres": [
+   {
+    "titre": "Introduction",
+    "rubrique": null,
+    "debut": 0.0,
+    "liens": []
+   },
+   {
+    "titre": "SAP : les dépôts GitHub visés par des jetons volés",
+    "rubrique": "Sécurité",
+    "debut": 15.53,
+    "liens": [
+     {
+      "source": "ZDNet",
+      "lien": "https://www.zdnet.fr/actualites/sap-des-pirates-ciblent-son-code-source-sur-github-avec-laide-de-lia-508869.htm#xtor=RSS-1"
+     }
+    ]
+   },
+   {
+    "titre": "CheckoutSwitch : une fraude par courriel à double victime",
+    "rubrique": "Sécurité",
+    "debut": 66.65,
+    "liens": [
+     {
+      "source": "01net",
+      "lien": "https://www.01net.com/actualites/une-fraude-a-double-victime-une-nouvelle-arnaque-par-mail-deferle-sur-la-france.html"
+     }
+    ]
+   },
+   {
+    "titre": "SAP : au moins 10 000 postes supprimés, surtout dans le développement",
+    "rubrique": "Business et régulation",
+    "debut": 109.51,
+    "liens": [
+     {
+      "source": "ActuIA",
+      "lien": "https://www.actuia.com/actualite/sap-preparerait-au-moins-10-000-suppressions-de-postes-en-priorite-dans-le-developpement-et-la-vente/"
+     }
+    ]
+   }
+  ],
+  "url": "https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-28-midi.mp3"
+ },
+ {
   "titre": "Journal du samedi 28 novembre 2026, édition du matin",
   "fichier": "journal-2026-11-28-matin.mp3",
   "date": "Sat, 28 Nov 2026 05:05:07 +0000",

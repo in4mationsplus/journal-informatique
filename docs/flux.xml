@@ -7,6 +7,16 @@
 <description>Les news informatiques du jour, sans doublons, en 15 minutes.</description>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>Journal du samedi 28 novembre 2026, édition de midi</title>
+<guid isPermaLink="false">journal-2026-11-28-midi.mp3</guid>
+<pubDate>Sat, 28 Nov 2026 11:05:27 +0000</pubDate>
+<enclosure url="https://github.com/in4mationsplus/journal-informatique/releases/download/episodes/journal-2026-11-28-midi.mp3" length="962496" type="audio/mpeg"/>
+<podcast:chapters url="https://in4mationsplus.github.io/journal-informatique/journal-2026-11-28-midi.chapitres.json" type="application/json+chapters"/>
+<description>&lt;p&gt;&lt;b&gt;[Sécurité] SAP : les dépôts GitHub visés par des jetons volés&lt;/b&gt; — &lt;a href="https://www.zdnet.fr/actualites/sap-des-pirates-ciblent-son-code-source-sur-github-avec-laide-de-lia-508869.htm#xtor=RSS-1"&gt;ZDNet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Sécurité] CheckoutSwitch : une fraude par courriel à double victime&lt;/b&gt; — &lt;a href="https://www.01net.com/actualites/une-fraude-a-double-victime-une-nouvelle-arnaque-par-mail-deferle-sur-la-france.html"&gt;01net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Business et régulation] SAP : au moins 10 000 postes supprimés, surtout dans le développement&lt;/b&gt; — &lt;a href="https://www.actuia.com/actualite/sap-preparerait-au-moins-10-000-suppressions-de-postes-en-priorite-dans-le-developpement-et-la-vente/"&gt;ActuIA&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
 <title>Journal du samedi 28 novembre 2026, édition du matin</title>
 <guid isPermaLink="false">journal-2026-11-28-matin.mp3</guid>
 <pubDate>Sat, 28 Nov 2026 05:05:07 +0000</pubDate>

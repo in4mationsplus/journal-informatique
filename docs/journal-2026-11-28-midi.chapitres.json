@@ -1,0 +1,24 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Introduction"
+  },
+  {
+   "startTime": 15.53,
+   "title": "SAP : les dépôts GitHub visés par des jetons volés",
+   "url": "https://www.zdnet.fr/actualites/sap-des-pirates-ciblent-son-code-source-sur-github-avec-laide-de-lia-508869.htm#xtor=RSS-1"
+  },
+  {
+   "startTime": 66.65,
+   "title": "CheckoutSwitch : une fraude par courriel à double victime",
+   "url": "https://www.01net.com/actualites/une-fraude-a-double-victime-une-nouvelle-arnaque-par-mail-deferle-sur-la-france.html"
+  },
+  {
+   "startTime": 109.51,
+   "title": "SAP : au moins 10 000 postes supprimés, surtout dans le développement",
+   "url": "https://www.actuia.com/actualite/sap-preparerait-au-moins-10-000-suppressions-de-postes-en-priorite-dans-le-developpement-et-la-vente/"
+  }
+ ]
+}
